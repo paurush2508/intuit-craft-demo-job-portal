@@ -1,2 +1,34 @@
-# intuit-craft-demo-job-portal
-Build a job portal where people can view/ post contract jobs to be performed. There are two sections to this portal: Freelancer, Employer.
+Problem Statement: You are building a job portal where people can view/ post
+contract jobs to be performed. There are two sections to this portal: Freelancer,
+Employer. Build the following as part of your craft demo.
+
+Login Page with different employer/ freelancer sections.
+
+FreeLancer Section:
+
+    User Profile:
+    • User should be able to select skills matching to his profile.
+    • Should be able to add his Git profile, and list his projects. Check
+    https://api.github.com/users/{public-username}/repos
+    • Basic Form Validations
+    Job Listing Page:
+    • Should be able to see all posted jobs.( Prepare mock data for at least 10K
+    postings, check https://www.generatedata.com/ or similar websites)
+    • Should be able to filter by skillset/ minimum salary per hour.
+    • Quick-Apply to a job with a single click.
+
+Employer section:
+
+    Allowing new jobs to be posted that:
+        • Displays a form collecting the following data points:
+        o Job description document with maximum length of 16KB.
+        o Job requirements.
+        o Tags relevant to the job.
+        o Company Name and contact info of the job poster.
+        • View his jobs posted.
+        • Displays the number of applications on that job.
+        • Ability to see the user profile of the job applicant.
+
+Stretch goals
+1. Responsive design.
+2. Dark mode theming
