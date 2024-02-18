@@ -7,7 +7,7 @@ import Dots from "../../assets/svg/Dots";
 
 export default function Header() {
   return (
-    <Wrapper id="home" className="container flexSpaceCenter">
+    <Wrapper id="Home" className="container flexSpaceCenter">
       <LeftSide className="flexCenter">
         <div>
           <h4 className="extraBold font10">
