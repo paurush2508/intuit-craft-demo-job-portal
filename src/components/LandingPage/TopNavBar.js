@@ -7,7 +7,7 @@ import { useNavigate } from "react-router-dom";
 
 export default function TopNavbar(props) {
   const [y, setY] = useState(window.scrollY);
-  const { loginWithRedirect, isAuthenticated } = useAuth0();
+  const { loginWithRedirect, isAuthenticated, logout } = useAuth0();
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -42,7 +42,7 @@ export default function TopNavbar(props) {
                 <Link
                   activeClass="active"
                   style={{ padding: "10px 15px" }}
-                  to="home"
+                  to={item}
                   spy={true}
                   smooth={true}
                   offset={-80}
@@ -55,7 +55,7 @@ export default function TopNavbar(props) {
           <UlWrapperRight className="flexNullCenter">
             <li className="semiBold font15 pointer flexCenter">
               <div
-                onClick={() => loginWithRedirect()}
+                onClick={() => isAuthenticated ? logout() : loginWithRedirect()}
                 className="radius8 lightBg"
                 style={{
                   padding: "10px 15px",
