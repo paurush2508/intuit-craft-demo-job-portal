@@ -2,9 +2,13 @@ import React, { useEffect, useState } from "react";
 import styled from "styled-components";
 import { Link } from "react-scroll";
 import LogoIcon from "../../assets/svg/LogoIcon";
+import { useAuth0 } from "@auth0/auth0-react";
+import { useNavigate } from "react-router-dom";
 
-export default function TopNavbar() {
+export default function TopNavbar(props) {
   const [y, setY] = useState(window.scrollY);
+  const { loginWithRedirect, isAuthenticated } = useAuth0();
+  const navigate = useNavigate();
 
   useEffect(() => {
     window.addEventListener("scroll", () => setY(window.scrollY));
@@ -12,6 +16,12 @@ export default function TopNavbar() {
       window.removeEventListener("scroll", () => setY(window.scrollY));
     };
   }, [y]);
+
+  useEffect(() => {
+    if (isAuthenticated) {
+      navigate("/freelancer/jobs");
+    }
+  }, [isAuthenticated, navigate]);
 
   return (
     <>
@@ -27,70 +37,34 @@ export default function TopNavbar() {
             </h1>
           </Link>
           <UlWrapper className="flexNullCenter">
-            <li className="semiBold font15 pointer">
-              <Link
-                activeClass="active"
-                style={{ padding: "10px 15px" }}
-                to="home"
-                spy={true}
-                smooth={true}
-                offset={-80}
-              >
-                Home
-              </Link>
-            </li>
-
-            <li className="semiBold font15 pointer">
-              <Link
-                activeClass="active"
-                style={{ padding: "10px 15px" }}
-                to="projects"
-                spy={true}
-                smooth={true}
-                offset={-80}
-              >
-                Trending Companies
-              </Link>
-            </li>
-            <li className="semiBold font15 pointer">
-              <Link
-                style={{ padding: "10px 15px" }}
-                spy={true}
-                smooth={true}
-                offset={-80}
-              >
-                Jobs
-              </Link>
-            </li>
-            <li className="semiBold font15 pointer">
-              <Link
-                style={{ padding: "10px 15px" }}
-                spy={true}
-                smooth={true}
-                offset={-80}
-              >
-                Services
-              </Link>
-            </li>
+            {props?.navOptions?.map((item) => (
+              <li className="semiBold font15 pointer">
+                <Link
+                  activeClass="active"
+                  style={{ padding: "10px 15px" }}
+                  to="home"
+                  spy={true}
+                  smooth={true}
+                  offset={-80}
+                >
+                  {item}
+                </Link>
+              </li>
+            ))}
           </UlWrapper>
           <UlWrapperRight className="flexNullCenter">
-            <li className="semiBold font15 pointer">
-              <a href="/" style={{ padding: "10px 30px 10px 0" }}>
-                Log in
-              </a>
-            </li>
             <li className="semiBold font15 pointer flexCenter">
-              <a
-                href="/"
+              <div
+                onClick={() => loginWithRedirect()}
                 className="radius8 lightBg"
                 style={{
                   padding: "10px 15px",
-                  background: "rgb(118, 32, 255)",
+                  background: isAuthenticated ? "red" : "rgb(118, 32, 255)",
                   color: "#fff",
                 }}
               >
-                Sign up
-              </a>
+                {isAuthenticated ? "Log out" : "Log in"}
+              </div>
             </li>
           </UlWrapperRight>
         </NavInner>
