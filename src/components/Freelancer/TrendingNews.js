@@ -1,18 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { generateUpdatedURL } from "../../util/helpers";
-import Stack from "@mui/material/Stack";
-import styled from "styled-components";
 
 function TrendingNews() {
   const [newsData, setNewsData] = useState([]);
-
-  const Item = styled.div`
-  backgroundColor: theme.palette.mode === "dark" ? "#1A2027" : "#fff",
-  ...theme.typography.body2,
-  padding: theme.spacing(1),
-  textAlign: "center",
-  color: theme.palette.text.secondary,
-`;
 
   useEffect(() => {
     const updatedURL = generateUpdatedURL("f177dae19d9a49248d8939f30a6402a4");
