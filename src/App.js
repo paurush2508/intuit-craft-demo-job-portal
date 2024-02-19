@@ -6,6 +6,7 @@ import JobListing from "./components/Freelancer/JobListing";
 import NewJobForm from "./components/Employer/NewJobForm";
 import PostedJobs from "./components/Employer/PostedJobs";
 import LandingPage from "./components/LandingPage/LandingPage";
+import './App.css'
 
 function App() {
   return (
