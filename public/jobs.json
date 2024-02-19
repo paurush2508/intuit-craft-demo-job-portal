@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "companyName": "Netflix",
+      "jobTitle": "Software Engineer",
+      "companyLogo": "https://photos.wellfound.com/startups/i/33986-687620e87450ee4654c88a0417d81358-medium_jpg.jpg?buster=1589601889",
+      "minPrice": "20",
+      "maxPrice": "30",
+      "salaryType": "Yearly",
+      "jobLocation": "Brussels",
+      "postingDate": "2023-11-03",
+      "experienceLevel": "Any experience",
+      "employmentType": "Full-time",
+      "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
+    },
+    {
+      "id": 2,
+      "companyName": "Okta",
+      "jobTitle": "Web Developer",
+      "companyLogo": "https://photos.wellfound.com/startups/i/32716-259c225423cff2347839275abe3b8341-medium_jpg.jpg?buster=1671766489",
+      "minPrice": "40",
+      "maxPrice": "50",
+      "salaryType": "Yearly",
+      "jobLocation": "San Francisco",
+      "postingDate": "2023-11-02",
+      "experienceLevel": "Internship",
+      "employmentType": "Temporary",
+      "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
+    },
+    {
+      "id": 3,
+      "companyName": "BlueVine",
+      "jobTitle": "Data Scientist",
+      "companyLogo": "https://photos.wellfound.com/startups/i/474471-3e6bab77c052e6b5bade35ffb418eace-medium_jpg.jpg?buster=1672287611",
+      "minPrice": "40",
+      "maxPrice": "50",
+      "salaryType": "Yearly",
+      "jobLocation": "Seattle",
+      "postingDate": "2023-10-28",
+      "experienceLevel": "Any experience",
+      "employmentType": "Full-time", 
+      "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
+    },
+    {
+      "id": 4,
+      "companyName": "Open AI",
+      "jobTitle": "UI/UX Designer",
+      "companyLogo": "https://photos.wellfound.com/startups/i/943259-074dbb6a7ea691170f361aeee379dd57-medium_jpg.jpg?buster=1589652796",
+      "minPrice": "40",
+      "maxPrice": "50",
+      "salaryType": "Monthly",
+      "jobLocation": "London",
+      "postingDate": "2023-10-05",
+      "experienceLevel": "Work remotely",
+      "employmentType": "Part-time",
+      "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
+    },
+    {
+      "id": 5,
+      "companyName": "Stripe",
+      "jobTitle": "Frontend Developer",
+      "companyLogo": "https://photos.wellfound.com/startups/i/37232-b86e6247bcd9846c18c91fe65ca0355d-medium_jpg.jpg?buster=1610581275",
+      "minPrice": "50",
+      "maxPrice": "75",
+      "salaryType": "Yearly",
+      "jobLocation": "London",
+      "postingDate": "2023-10-28",
+      "experienceLevel": "Intership",
+      "employmentType": "Full-time",
+      "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
+    },
+    {
+      "id": 6,
+      "companyName": "Matterport",
+      "jobTitle": "DevOps Engineer",
+      "companyLogo": "https://photos.wellfound.com/startups/i/25954-936e7b3ab0b5362d963486a6a96fe6c6-medium_jpg.jpg?buster=1598569121",
+      "minPrice": "80",
+      "maxPrice": "120",
+      "salaryType": "Yearly",
+      "jobLocation": "Boston",
+      "postingDate": "2023-10-05",
+      "experienceLevel": "Intership",
+      "employmentType": "Temporary",
+      "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
+    }
+  ]
+  

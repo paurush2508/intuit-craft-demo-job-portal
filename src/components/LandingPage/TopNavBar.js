@@ -4,10 +4,12 @@ import { Link } from "react-scroll";
 import LogoIcon from "../../assets/svg/LogoIcon";
 import { useAuth0 } from "@auth0/auth0-react";
 import { useNavigate } from "react-router-dom";
+import Avatar from '@mui/material/Avatar';
+
 
 export default function TopNavbar(props) {
   const [y, setY] = useState(window.scrollY);
-  const { loginWithRedirect, isAuthenticated } = useAuth0();
+  const { loginWithRedirect, isAuthenticated, logout, user } = useAuth0();
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -42,7 +44,7 @@ export default function TopNavbar(props) {
                 <Link
                   activeClass="active"
                   style={{ padding: "10px 15px" }}
-                  to="home"
+                  to={item}
                   spy={true}
                   smooth={true}
                   offset={-80}
@@ -54,8 +56,13 @@ export default function TopNavbar(props) {
           </UlWrapper>
           <UlWrapperRight className="flexNullCenter">
             <li className="semiBold font15 pointer flexCenter">
+              <div  style={{
+                  padding: "15px",
+                }}>
+            {isAuthenticated && <Avatar alt={user?.name} src={user?.picture} />}
+            </div>
               <div
-                onClick={() => loginWithRedirect()}
+                onClick={() => isAuthenticated ? logout() : loginWithRedirect()}
                 className="radius8 lightBg"
                 style={{
                   padding: "10px 15px",

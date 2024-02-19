@@ -5,7 +5,7 @@ import { companies } from "../../constants";
 
 export default function CompaniesHiring() {
   return (
-    <Wrapper id="projects">
+    <Wrapper id="Trending Companies">
       <div className="whiteBg">
         <div className="container">
           <HeaderInfo>
