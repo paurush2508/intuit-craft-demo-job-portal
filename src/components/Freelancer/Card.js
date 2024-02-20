@@ -34,7 +34,7 @@ const Card = ({ data }) => {
                 <FiClock /> {employmentType}
               </span>
               <span className="flex items-center gap-2">
-                <FiDollarSign /> {minPrice}-{maxPrice}k
+              ₹ {minPrice}-{maxPrice} Lakhs
               </span>
               <span className="flex items-center gap-2">
                 <FiCalendar /> {postingDate}
