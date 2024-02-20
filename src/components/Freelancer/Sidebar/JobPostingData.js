@@ -5,15 +5,16 @@ const JobPostingData = ({ handleChange }) => {
   const now = new Date(); 
   const twentyFourHoursAgo = new Date(now - 24 * 60 * 60 * 1000); 
   const SevenDaysAgo = new Date(now - 7 * 24 * 60 * 60 * 1000); 
+  const FifteenDaysAgo = new Date(now - 15 * 24 * 60 * 60 * 1000);
   const ThirtyDaysAgo = new Date(now - 30 * 24 * 60 * 60 * 1000); 
 
   const twentyFourHoursAgoDate = twentyFourHoursAgo.toISOString().slice(0, 10); 
-  const SevenDaysAgoDate = SevenDaysAgo.toISOString().slice(0, 10); 
+  const SevenDaysAgoDate = SevenDaysAgo.toISOString().slice(0, 10);
+  const FifteenDaysAgoDate = FifteenDaysAgo.toISOString().slice(0, 10);
   const ThirtyDaysAgoDate = ThirtyDaysAgo.toISOString().slice(0, 10); 
-  console.log((twentyFourHoursAgoDate))
   return (
     <div>
-      <h4 className="text-lg font-medium mb-2">Date of posting</h4>
+      <h4 className="text-lg font-medium mb-2">Freshness</h4>
       <div>
         <label className="sidebar-label-container">
           <input onChange={handleChange} type="radio" value="" name="test" />
@@ -29,6 +30,12 @@ const JobPostingData = ({ handleChange }) => {
           handleChange={handleChange}
           value={SevenDaysAgoDate}
           title="Last 7 days"
+          name="test"
+        />
+         <InputField
+          handleChange={handleChange}
+          value={FifteenDaysAgoDate}
+          title="Last 15 days"
           name="test"
         />
         <InputField
