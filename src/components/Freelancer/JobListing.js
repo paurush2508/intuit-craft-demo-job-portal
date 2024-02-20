@@ -1,27 +1,29 @@
 import React, { useState, useEffect } from "react";
-import TopNavbar from "../LandingPage/TopNavBar";
-import { FREELANCER_NAVIGATION_OPTIONS } from "../../constants";
 import Banner from "./Banner";
 import Sidebar from "./Sidebar/Sidebar";
 import Card from "./Card";
 import Jobs from "./Jobs";
 import TrendingNews from "./TrendingNews";
 
-function JobListing() {
+function JobListing({ jobs, setJobs }) {
   const [isLoading, setIsLoading] = useState(true);
-  const [jobs, setJobs] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
   const [query, setQuery] = useState("");
-  const itemsPerPage = 6;
+  const itemsPerPage = 10;
   const [selectedCategory, setSelectedCategory] = useState(null);
 
   useEffect(() => {
-    fetch("/jobs.json")
-      .then((res) => res.json())
-      .then((data) => {
-        setJobs(data);
-        setIsLoading(false);
-      });
+    const storedJobs = localStorage.getItem("jobs");
+    if (storedJobs) {
+      setJobs(JSON.parse(storedJobs));
+      setIsLoading(false);
+    } else
+      fetch("/jobs.json")
+        .then((res) => res.json())
+        .then((data) => {
+          setJobs(data);
+          setIsLoading(false);
+        });
   }, []);
 
   // ----------- Radio Filtering -----------
@@ -100,7 +102,9 @@ function JobListing() {
 
     // Slice the data based on the current page
     const { startIndex, endIndex } = calculatePageRange();
-    filteredJobs = filteredJobs.slice(startIndex, endIndex);
+    filteredJobs = filteredJobs
+      .slice(startIndex, endIndex)
+      ?.sort((a, b) => b.id - a.id);
 
     return filteredJobs.map((data, i) => <Card key={i} data={data} />);
   };
@@ -109,9 +113,6 @@ function JobListing() {
 
   return (
     <>
-      <div>
-        <TopNavbar navOptions={FREELANCER_NAVIGATION_OPTIONS} />
-      </div>
       <div style={{ marginTop: "50px" }}>
         <Banner />
       </div>

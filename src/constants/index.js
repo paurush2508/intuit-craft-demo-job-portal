@@ -45,3 +45,10 @@ export const FREELANCER_NAVIGATION_OPTIONS = [
   "Messages",
   "Applied",
 ];
+
+export const EMPLOYER_NAVIGATION_OPTIONS = [
+  "Home",
+  "Jobs",
+  "Messages",
+  "Posted Jobs",
+];
