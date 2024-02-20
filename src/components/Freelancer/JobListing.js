@@ -29,7 +29,6 @@ function JobListing({ jobs, setJobs }) {
   // ----------- Radio Filtering -----------
   const handleChange = (event) => {
     setSelectedCategory(event.target.value);
-    console.log(event.target.value);
   };
 
   const handleInputChange = (event) => {
@@ -70,17 +69,11 @@ function JobListing({ jobs, setJobs }) {
 
   const filteredData = (jobs, selected, query) => {
     let filteredJobs = jobs;
-    // Filtering Input Items
 
-    console.log(filteredItems);
     if (query) {
       filteredJobs = filteredItems;
     }
-
-    // Applying selected filter / category filtering
     if (selected) {
-      console.log(selected);
-
       filteredJobs = filteredJobs.filter(
         ({
           jobLocation,
@@ -89,18 +82,31 @@ function JobListing({ jobs, setJobs }) {
           maxPrice,
           postingDate,
           employmentType,
-        }) =>
-          jobLocation.toLowerCase() === selected.toLowerCase() ||
-          postingDate === selected ||
-          parseInt(maxPrice) <= parseInt(selected) ||
-          salaryType.toLowerCase() === selected.toLowerCase() ||
-          experienceLevel.toLowerCase() === selected.toLowerCase() ||
-          employmentType.toLowerCase() === selected.toLowerCase()
+        }) => {
+          const postingDateCondition =
+            new Date(postingDate) >= new Date(selected);
+          const jobLocationCondition =
+            jobLocation.toLowerCase() === selected.toLowerCase();
+          const maxPriceCondition = !selected?.includes('-') && parseInt(maxPrice) <= parseInt(selected);
+          const salaryTypeCondition =
+            salaryType.toLowerCase() === selected.toLowerCase();
+          const experienceLevelCondition =
+            experienceLevel.toLowerCase() === selected.toLowerCase();
+          const employmentTypeCondition =
+            employmentType.toLowerCase() === selected.toLowerCase();
+
+          return (
+            postingDateCondition ||
+            jobLocationCondition ||
+            maxPriceCondition ||
+            salaryTypeCondition ||
+            experienceLevelCondition ||
+            employmentTypeCondition
+          );
+        }
       );
-      console.log(filteredJobs);
     }
 
-    // Slice the data based on the current page
     const { startIndex, endIndex } = calculatePageRange();
     filteredJobs = filteredJobs
       .slice(startIndex, endIndex)
