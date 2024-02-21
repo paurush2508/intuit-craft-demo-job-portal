@@ -23,7 +23,7 @@ function PostedJobs({ jobs, setJobs }) {
           setJobs(data);
           setIsLoading(false);
         });
-  }, []);
+  }, [setJobs]);
 
   return (
     <>
