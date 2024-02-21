@@ -5,7 +5,7 @@ const ViewPostedJobs = ({ showModal, setShowModal, user, jobs }) => {
   const [filteredData, setFilteredData] = useState([]);
 
   React.useEffect(() => {
-    if (user && user.email) {
+    if (user && user.email && jobs?.length > 0) {
       const filteredResult = jobs.filter(
         (item) => item.postedBy === user.email
       );

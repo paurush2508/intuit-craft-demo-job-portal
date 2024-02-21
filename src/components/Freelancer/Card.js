@@ -1,4 +1,4 @@
-import { FiCalendar, FiClock, FiDollarSign, FiMapPin } from "react-icons/fi";
+import { FiCalendar, FiClock, FiMapPin } from "react-icons/fi";
 import { Link } from "react-router-dom";
 
 const Card = ({ data }) => {
@@ -34,7 +34,7 @@ const Card = ({ data }) => {
                 <FiClock /> {employmentType}
               </span>
               <span className="flex items-center gap-2">
-                <FiDollarSign /> {minPrice}-{maxPrice}k
+              ₹ {minPrice}-{maxPrice} Lakhs
               </span>
               <span className="flex items-center gap-2">
                 <FiCalendar /> {postingDate}

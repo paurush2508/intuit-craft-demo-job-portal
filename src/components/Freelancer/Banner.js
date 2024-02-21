@@ -1,7 +1,7 @@
 import React from "react";
 import { FiMapPin, FiSearch } from "react-icons/fi";
 
-const Banner = ({handleInputChange,query}) => {
+const Banner = ({handleInputChange,query, locationQuery, handleInputLocationChange}) => {
     
   return (
     <div className="max-w-screen-2xl container mx-auto xl:px-24 md:py-20 py-14 px-4">
@@ -35,8 +35,8 @@ const Banner = ({handleInputChange,query}) => {
               id="username"
               className="block flex-1 border-0 bg-transparent py-1.5 pl-8 text-gray-900 placeholder:text-gray-400 focus:ring-0 sm:text-sm sm:leading-6"
               placeholder="Location"
-              onChange={handleInputChange}
-              value={""}
+              onChange={handleInputLocationChange}
+              value={locationQuery}
             />
             <FiMapPin className="absolute mt-2.5 ml-2 text-gray-400" />
           </div>

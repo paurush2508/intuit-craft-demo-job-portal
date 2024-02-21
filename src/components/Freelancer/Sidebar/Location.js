@@ -10,7 +10,12 @@ const Location = ({ handleChange }) => {
           <input onChange={handleChange} type="radio" value="" name="test" />
           <span className="checkmark"></span>All
         </label>
-
+        <InputField
+          handleChange={handleChange}
+          value="bangalore"
+          title="Bangalore"
+          name="test"
+        />
         <InputField
           handleChange={handleChange}
           value="london"
@@ -27,12 +32,6 @@ const Location = ({ handleChange }) => {
           handleChange={handleChange}
           value="madrid"
           title="Madrid"
-          name="test"
-        />
-        <InputField
-          handleChange={handleChange}
-          value="boston"
-          title="Boston"
           name="test"
         />
       </div>
