@@ -17,7 +17,7 @@ function FreelancerDashboard({ jobs, setJobs }) {
           setJobs(data);
           setIsLoading(false);
         });
-  }, []);
+  }, [setJobs]);
 
   return (
     <>

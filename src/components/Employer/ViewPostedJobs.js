@@ -11,7 +11,7 @@ const ViewPostedJobs = ({ showModal, setShowModal, user, jobs }) => {
       );
       setFilteredData(filteredResult);
     }
-  }, [user, showModal]);
+  }, [user, showModal, jobs]);
 
   return (
     <>
