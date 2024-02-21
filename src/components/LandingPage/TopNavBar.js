@@ -122,9 +122,14 @@ export default function TopNavbar(props) {
                 )}
               </div>
               <div
-                onClick={() =>
-                  isAuthenticated ? logout() : loginWithRedirect()
-                }
+                onClick={() => {
+                  if (isAuthenticated) {
+                    logout();
+                    localStorage.removeItem('jobs');
+                  } else {
+                    loginWithRedirect();
+                  }
+                }}
                 className="radius8 lightBg"
                 style={{
                   padding: "10px 15px",

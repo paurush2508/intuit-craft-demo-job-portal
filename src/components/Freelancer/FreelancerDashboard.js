@@ -1,16 +1,10 @@
 import React, { useState } from "react";
 import TopNavBar from "../LandingPage/TopNavBar";
-import { EMPLOYER_NAVIGATION_OPTIONS } from "../../constants/index";
+import { FREELANCER_NAVIGATION_OPTIONS } from "../../constants/index";
 import JobListing from "../Freelancer/JobListing";
 
-function PostedJobs({ jobs, setJobs }) {
-  const updateAndStoreJobs = (newJobs) => {
-    setJobs(newJobs);
-    localStorage.setItem("jobs", JSON.stringify(newJobs));
-  };
-
+function FreelancerDashboard({ jobs, setJobs }) {
   const [isLoading, setIsLoading] = useState(true);
-
   React.useEffect(() => {
     const storedJobs = localStorage.getItem("jobs");
     if (storedJobs) {
@@ -29,15 +23,19 @@ function PostedJobs({ jobs, setJobs }) {
     <>
       <div>
         <TopNavBar
-          navOptions={EMPLOYER_NAVIGATION_OPTIONS}
+          navOptions={FREELANCER_NAVIGATION_OPTIONS}
           jobs={jobs}
           setJobs={setJobs}
-          updateAndStoreJobs={updateAndStoreJobs}
         />
-        <JobListing jobs={jobs} isLoading={isLoading} />
+        <JobListing
+          jobs={jobs}
+          setJobs={setJobs}
+          isLoading={isLoading}
+          setIsLoading={setIsLoading}
+        />
       </div>
     </>
   );
 }
 
-export default PostedJobs;
+export default FreelancerDashboard;

@@ -1,30 +1,16 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import Banner from "./Banner";
 import Sidebar from "./Sidebar/Sidebar";
 import Card from "./Card";
 import Jobs from "./Jobs";
 import TrendingNews from "./TrendingNews";
 
-function JobListing({ jobs, setJobs }) {
-  const [isLoading, setIsLoading] = useState(true);
+function JobListing({ jobs, isLoading }) {
   const [currentPage, setCurrentPage] = useState(1);
   const [query, setQuery] = useState("");
-  const itemsPerPage = 10;
+  const [locationQuery, setLocationQuery] = useState("");
+  const itemsPerPage = 6;
   const [selectedCategory, setSelectedCategory] = useState(null);
-
-  useEffect(() => {
-    const storedJobs = localStorage.getItem("jobs");
-    if (storedJobs) {
-      setJobs(JSON.parse(storedJobs));
-      setIsLoading(false);
-    } else
-      fetch("/jobs.json")
-        .then((res) => res.json())
-        .then((data) => {
-          setJobs(data);
-          setIsLoading(false);
-        });
-  }, []);
 
   // ----------- Radio Filtering -----------
   const handleChange = (event) => {
@@ -33,12 +19,16 @@ function JobListing({ jobs, setJobs }) {
 
   const handleInputChange = (event) => {
     setQuery(event.target.value);
-    // console.log(event.target.value);
   };
 
-  //------------filter by job title-----
-  const filteredItems = jobs.filter(
-    (job) => job.jobTitle.toLowerCase().indexOf(query.toLowerCase()) !== -1
+  const handleInputLocationChange = (event) => {
+    setLocationQuery(event.target.value);
+  };
+
+  const filteredItems = jobs?.filter(
+    (job) =>
+      job.jobTitle.toLowerCase().indexOf(query.toLowerCase()) !== -1 &&
+      job.jobLocation.toLowerCase().indexOf(locationQuery.toLowerCase()) !== -1
   );
 
   // // ------------ Button Filtering -----------
@@ -67,10 +57,13 @@ function JobListing({ jobs, setJobs }) {
     }
   };
 
-  const filteredData = (jobs, selected, query) => {
+  const filteredData = (jobs, selected, query, locationQuery) => {
     let filteredJobs = jobs;
 
     if (query) {
+      filteredJobs = filteredItems;
+    }
+    if (locationQuery) {
       filteredJobs = filteredItems;
     }
     if (selected) {
@@ -87,7 +80,9 @@ function JobListing({ jobs, setJobs }) {
             new Date(postingDate) >= new Date(selected);
           const jobLocationCondition =
             jobLocation.toLowerCase() === selected.toLowerCase();
-          const maxPriceCondition = !selected?.includes('-') && parseInt(maxPrice) <= parseInt(selected);
+          const maxPriceCondition =
+            !selected?.includes("-") &&
+            parseInt(maxPrice) <= parseInt(selected);
           const salaryTypeCondition =
             salaryType.toLowerCase() === selected.toLowerCase();
           const experienceLevelCondition =
@@ -109,18 +104,24 @@ function JobListing({ jobs, setJobs }) {
 
     const { startIndex, endIndex } = calculatePageRange();
     filteredJobs = filteredJobs
-      .slice(startIndex, endIndex)
-      ?.sort((a, b) => b.id - a.id);
+      ?.sort((a, b) => b.id - a.id)
+      .slice(startIndex, endIndex);
 
-    return filteredJobs.map((data, i) => <Card key={i} data={data} />);
+    return filteredJobs?.map((data, i) => <Card key={i} data={data} />);
   };
 
-  const result = filteredData(jobs, selectedCategory, query);
+  const result =
+    filteredData(jobs, selectedCategory, query, locationQuery) || [];
 
   return (
     <>
       <div style={{ marginTop: "50px" }}>
-        <Banner />
+        <Banner
+          handleInputChange={handleInputChange}
+          handleInputLocationChange={handleInputLocationChange}
+          query={query}
+          locationQuery={locationQuery}
+        />
       </div>
 
       <div className="bg-[#FAFAFA] md:grid grid-cols-4 gap-8 lg:px-24 px-4 py-12">
@@ -130,8 +131,8 @@ function JobListing({ jobs, setJobs }) {
         <div className="col-span-2 bg-white p-4 rounded">
           {isLoading ? (
             <p className="font-medium">Loading...</p>
-          ) : result.length > 0 ? (
-            <Jobs result={result} />
+          ) : result?.length > 0 ? (
+            <Jobs result={result} jobs={jobs}/>
           ) : (
             <>
               <h3 className="text-lg font-bold mb-2">{result.length} Jobs</h3>
