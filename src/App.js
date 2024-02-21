@@ -9,15 +9,25 @@ import "./App.css";
 
 function App() {
   const [jobs, setJobs] = React.useState([]);
+  const [userProfile, setUserProfile] = React.useState({});
   return (
     <Router>
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/login" element={<Login />} />
-        <Route path="/freelancer/profile" element={<FreelancerProfile />} />
+        <Route
+          path="/freelancer/profile"
+          element={<FreelancerProfile userProfile={userProfile} />}
+        />
         <Route
           path="/freelancer/jobs"
-          element={<FreelancerDashboard jobs={jobs} setJobs={setJobs} />}
+          element={
+            <FreelancerDashboard
+              jobs={jobs}
+              setJobs={setJobs}
+              setUserProfile={setUserProfile}
+            />
+          }
         />
         <Route
           path="/employer/posted-jobs"

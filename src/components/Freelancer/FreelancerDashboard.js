@@ -3,7 +3,7 @@ import TopNavBar from "../LandingPage/TopNavBar";
 import { FREELANCER_NAVIGATION_OPTIONS } from "../../constants/index";
 import JobListing from "../Freelancer/JobListing";
 
-function FreelancerDashboard({ jobs, setJobs }) {
+function FreelancerDashboard({ jobs, setJobs, setUserProfile }) {
   const [isLoading, setIsLoading] = useState(true);
   React.useEffect(() => {
     const storedJobs = localStorage.getItem("jobs");
@@ -26,6 +26,7 @@ function FreelancerDashboard({ jobs, setJobs }) {
           navOptions={FREELANCER_NAVIGATION_OPTIONS}
           jobs={jobs}
           setJobs={setJobs}
+          setUserProfile={setUserProfile}
         />
         <JobListing
           jobs={jobs}

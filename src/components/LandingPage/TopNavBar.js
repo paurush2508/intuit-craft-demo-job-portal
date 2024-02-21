@@ -7,6 +7,14 @@ import { useNavigate } from "react-router-dom";
 import Avatar from "@mui/material/Avatar";
 import NewJobForm from "../Employer/NewJobForm";
 import ViewPostedJobs from "../Employer/ViewPostedJobs";
+import Popover from "@mui/material/Popover";
+import List from "@mui/material/List";
+import ListItem from "@mui/material/ListItem";
+import ListItemButton from "@mui/material/ListItemButton";
+import ListItemText from "@mui/material/ListItemText";
+import Divider from "@mui/material/Divider";
+import Button from "@mui/material/Button";
+import EditProfile from "../../Pages/EditProfile";
 
 export default function TopNavbar(props) {
   const [y, setY] = useState(window.scrollY);
@@ -14,6 +22,10 @@ export default function TopNavbar(props) {
   const navigate = useNavigate();
   const [isPostJobModalOpen, setIsPostJobModalOpen] = useState(false);
   const [showModal, setShowModal] = useState(false);
+  const [avatarEl, setAvatarEl] = useState(null);
+  const [isEditProfileOpen, setIsEditProfileOpen] = useState(false);
+  const open = Boolean(avatarEl);
+  const id = open ? "simpe-popover" : undefined;
 
   useEffect(() => {
     window.addEventListener("scroll", () => setY(window.scrollY));
@@ -36,6 +48,14 @@ export default function TopNavbar(props) {
       }
     }
   }, [isAuthenticated, navigate, user]);
+
+  const handleAvatarClick = (e) => {
+    setAvatarEl(e.currentTarget);
+  };
+
+  const handleAvatarClose = () => {
+    setAvatarEl(null);
+  };
 
   return (
     <>
@@ -72,7 +92,21 @@ export default function TopNavbar(props) {
                     <a
                       style={{ padding: "10px 15px" }}
                       href="#"
-                      onClick={() => setShowModal(true)}
+                      onClick={(e) => {
+                        e.preventDefault();
+                        setShowModal(true);
+                      }}
+                    >
+                      {item}
+                    </a>
+                  ) : item === "Profile" ? (
+                    <a
+                      style={{ padding: "10px 15px" }}
+                      href="#"
+                      onClick={(e) => {
+                        e.preventDefault();
+                        navigate("/freelancer/profile");
+                      }}
                     >
                       {item}
                     </a>
@@ -118,14 +152,66 @@ export default function TopNavbar(props) {
                 }}
               >
                 {isAuthenticated && (
-                  <Avatar alt={user?.name} src={user?.picture} />
+                  <>
+                    <EditProfile
+                      open={isEditProfileOpen}
+                      handleClose={() => setIsEditProfileOpen(false)}
+                      user={user}
+                      setUserProfile={props?.setUserProfile}
+                    />
+                    <Button aria-describedby={id} onClick={() => user?.nickname !== "employer" && handleAvatarClick()}>
+                      <Avatar alt={user?.name} src={user?.picture} />
+                    </Button>
+                    <Popover
+                      id={id}
+                      open={open}
+                      anchorEl={avatarEl}
+                      onClose={handleAvatarClose}
+                      anchorOrigin={{
+                        vertical: "bottom",
+                        horizontal: "left",
+                      }}
+                    >
+                      <List disablePadding>
+                        <ListItem disablePadding>
+                          <ListItemButton>
+                            <ListItemText
+                              primary="Profile"
+                              onClick={() => navigate("/freelancer/profile")}
+                            />
+                          </ListItemButton>
+                        </ListItem>
+                        <Divider />
+                        <ListItem disablePadding>
+                          <ListItemButton>
+                            <ListItemText
+                              primary="Edit Profile"
+                              onClick={() => {
+                                setIsEditProfileOpen(true);
+                                setAvatarEl(null);
+                              }}
+                            />
+                          </ListItemButton>
+                        </ListItem>
+                        <Divider />
+                        <ListItem disablePadding>
+                          <ListItemButton>
+                            <ListItemText
+                              primary="Log out"
+                              onClick={() => logout()}
+                            />
+                          </ListItemButton>
+                        </ListItem>
+                      </List>
+                    </Popover>
+                  </>
                 )}
               </div>
               <div
                 onClick={() => {
                   if (isAuthenticated) {
                     logout();
-                    localStorage.removeItem('jobs');
+                    localStorage.removeItem("jobs");
                   } else {
                     loginWithRedirect();
                   }
