@@ -7,7 +7,7 @@ import InputLabel from "@mui/material/InputLabel";
 import Select from "@mui/material/Select";
 import MenuItem from "@mui/material/MenuItem";
 
-const EditProfile = ({ open, handleClose, user }) => {
+const EditProfile = ({ open, handleClose, user, setUserProfile }) => {
   const [location, setLocation] = useState("");
   const [contactNum, setContactNum] = useState("");
   const [primaryRole, setPrimaryRole] = useState("");
@@ -15,7 +15,6 @@ const EditProfile = ({ open, handleClose, user }) => {
   const [linkedinProfile, setLinkedInProfile] = useState("");
   const [githubProfile, setGithubProfile] = useState("");
   const [bio, setBio] = useState("");
-  const [userProfile, setUserProfile] = useState({});
 
   const resetData = () => {
     setLocation("");
@@ -45,7 +44,7 @@ const EditProfile = ({ open, handleClose, user }) => {
     event.preventDefault();
     if (validateFormFields()) {
       const formData = {
-        name: user?.name,
+        name: user?.nickname,
         email: user?.email,
         location,
         contactNum,
@@ -55,9 +54,15 @@ const EditProfile = ({ open, handleClose, user }) => {
         githubProfile,
         bio,
       };
+      setLocation(location);
+      setContactNum(contactNum);
+      setPrimaryRole(primaryRole);
+      setExperience(experience);
+      setLinkedInProfile(linkedinProfile);
+      setGithubProfile(githubProfile);
+      setBio(bio);
       setUserProfile(formData);
       handleClose();
-      resetData();
     }
   };
 

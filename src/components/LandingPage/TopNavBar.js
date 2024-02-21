@@ -92,7 +92,21 @@ export default function TopNavbar(props) {
                     <a
                       style={{ padding: "10px 15px" }}
                       href="#"
-                      onClick={() => setShowModal(true)}
+                      onClick={(e) => {
+                        e.preventDefault();
+                        setShowModal(true);
+                      }}
+                    >
+                      {item}
+                    </a>
+                  ) : item === "Profile" ? (
+                    <a
+                      style={{ padding: "10px 15px" }}
+                      href="#"
+                      onClick={(e) => {
+                        e.preventDefault();
+                        navigate("/freelancer/profile");
+                      }}
                     >
                       {item}
                     </a>
@@ -143,8 +157,9 @@ export default function TopNavbar(props) {
                       open={isEditProfileOpen}
                       handleClose={() => setIsEditProfileOpen(false)}
                       user={user}
+                      setUserProfile={props?.setUserProfile}
                     />
-                    <Button aria-describedby={id} onClick={handleAvatarClick}>
+                    <Button aria-describedby={id} onClick={() => user?.nickname !== "employer" && handleAvatarClick()}>
                       <Avatar alt={user?.name} src={user?.picture} />
                     </Button>
                     <Popover
@@ -160,7 +175,10 @@ export default function TopNavbar(props) {
                       <List disablePadding>
                         <ListItem disablePadding>
                           <ListItemButton>
-                            <ListItemText primary="Profile" />
+                            <ListItemText
+                              primary="Profile"
+                              onClick={() => navigate("/freelancer/profile")}
+                            />
                           </ListItemButton>
                         </ListItem>
                         <Divider />
