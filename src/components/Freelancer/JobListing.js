@@ -5,7 +5,7 @@ import Card from "./Card";
 import Jobs from "./Jobs";
 import TrendingNews from "./TrendingNews";
 
-function JobListing({ jobs, isLoading }) {
+function JobListing({ jobs, isLoading, setJobs }) {
   const [currentPage, setCurrentPage] = useState(1);
   const [query, setQuery] = useState("");
   const [locationQuery, setLocationQuery] = useState("");
@@ -107,7 +107,9 @@ function JobListing({ jobs, isLoading }) {
       ?.sort((a, b) => b.id - a.id)
       .slice(startIndex, endIndex);
 
-    return filteredJobs?.map((data, i) => <Card key={i} data={data} />);
+    return filteredJobs?.map((data, i) => (
+      <Card key={i} data={data} setJobs={setJobs} jobs={jobs} />
+    ));
   };
 
   const result =
@@ -132,7 +134,7 @@ function JobListing({ jobs, isLoading }) {
           {isLoading ? (
             <p className="font-medium">Loading...</p>
           ) : result?.length > 0 ? (
-            <Jobs result={result} jobs={jobs}/>
+            <Jobs result={result} jobs={jobs} />
           ) : (
             <>
               <h3 className="text-lg font-bold mb-2">{result.length} Jobs</h3>

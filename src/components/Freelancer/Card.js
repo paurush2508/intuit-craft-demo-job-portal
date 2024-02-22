@@ -1,10 +1,13 @@
 import { FiCalendar, FiClock, FiMapPin } from "react-icons/fi";
 import { Link } from "react-router-dom";
 import Button from "@mui/material/Button";
+import Snackbar from "@mui/material/Snackbar";
+import React from "react";
+import { useAuth0 } from "@auth0/auth0-react";
 
-const Card = ({ data }) => {
+const Card = ({ data, setJobs, jobs }) => {
   const {
-    _id,
+    id,
     companyLogo,
     jobTitle,
     companyName,
@@ -14,7 +17,24 @@ const Card = ({ data }) => {
     maxPrice,
     postingDate,
     description,
+    isApplied,
   } = data;
+
+  const [open, setOpen] = React.useState(false);
+  const { user } = useAuth0();
+
+  const handleEasyApply = () => {
+    const index = jobs?.findIndex((job) => job.id === id);
+    if (index !== -1) {
+      const updatedJob = { ...jobs[index], isApplied: true };
+      const updatedJobs = [...jobs];
+      updatedJobs[index] = updatedJob;
+      setJobs(updatedJobs);
+      localStorage.setItem("jobs", JSON.stringify(updatedJobs));
+      setOpen(true);
+    }
+  };
+
   return (
     <div>
       <section className="card">
@@ -42,11 +62,25 @@ const Card = ({ data }) => {
             <p className="text-base text-primary/70 ">{description}</p>
           </div>
         </Link>
-        <div style={{ display: "flex", justifyContent: "flex-end" }}>
-          <Button variant="contained" color="primary">
-            Easy Apply
-          </Button>
-        </div>
+        {user?.nickname !== "employer" && (
+          <div style={{ display: "flex", justifyContent: "flex-end" }}>
+            <Button
+              variant="contained"
+              color="primary"
+              onClick={handleEasyApply}
+              disabled={isApplied}
+            >
+              {!isApplied ? "Easy Apply" : "Applied"}
+            </Button>
+            <Snackbar
+              anchorOrigin={{ vertical: "top", horizontal: "right" }}
+              open={open}
+              autoHideDuration={3000}
+              onClose={() => setOpen(false)}
+              message="Job applied successfully"
+            />
+          </div>
+        )}
       </section>
     </div>
   );

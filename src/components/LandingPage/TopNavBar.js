@@ -50,7 +50,7 @@ export default function TopNavbar(props) {
   }, [isAuthenticated, navigate, user]);
 
   const handleAvatarClick = (e) => {
-    setAvatarEl(e.currentTarget);
+    setAvatarEl(e?.currentTarget);
   };
 
   const handleAvatarClose = () => {
@@ -159,7 +159,7 @@ export default function TopNavbar(props) {
                       user={user}
                       setUserProfile={props?.setUserProfile}
                     />
-                    <Button aria-describedby={id} onClick={() => user?.nickname !== "employer" && handleAvatarClick()}>
+                    <Button aria-describedby={id} onClick={(event) => user?.nickname !== "employer" && handleAvatarClick(event)}>
                       <Avatar alt={user?.name} src={user?.picture} />
                     </Button>
                     <Popover
