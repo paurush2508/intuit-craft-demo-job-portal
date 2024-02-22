@@ -1,5 +1,5 @@
 [
-    {
+    { "skills": ["Javascript", "HTML", "CSS"],
       "id": 1,
       "companyName": "Netflix",
       "jobTitle": "Software Engineer",
@@ -13,7 +13,7 @@
       "employmentType": "Full-time",
       "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
     },
-    {
+    { "skills": ["Javascript", "HTML", "CSS"],
       "id": 2,
       "companyName": "Okta",
       "jobTitle": "Web Developer",
@@ -27,7 +27,7 @@
       "employmentType": "Temporary",
       "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
     },
-    {
+    { "skills": ["Javascript", "HTML", "CSS"],
       "id": 3,
       "companyName": "BlueVine",
       "jobTitle": "Data Scientist",
@@ -41,7 +41,7 @@
       "employmentType": "Full-time", 
       "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
     },
-    {
+    {  "skills": ["Javascript", "HTML", "CSS"],
       "id": 4,
       "companyName": "Open AI",
       "jobTitle": "UI/UX Designer",
@@ -55,7 +55,7 @@
       "employmentType": "Part-time",
       "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
     },
-    {
+    { "skills": ["Javascript", "HTML", "CSS"],
       "id": 5,
       "companyName": "Stripe",
       "jobTitle": "Frontend Developer",
@@ -69,7 +69,7 @@
       "employmentType": "Full-time",
       "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
     },
-    {
+    { "skills": ["Javascript", "HTML", "CSS"],
       "id": 6,
       "companyName": "Matterport",
       "jobTitle": "DevOps Engineer",
@@ -83,7 +83,7 @@
       "employmentType": "Temporary",
       "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
     },
-    {
+    { "skills": ["Javascript", "HTML", "CSS"],
       "id": 7,
       "companyName": "Google",
       "jobTitle": "Machine Learning Engineer",
@@ -97,7 +97,7 @@
       "employmentType": "Full-time",
       "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
       "id": 8,
       "companyName": "Microsoft",
       "jobTitle": "Product Manager",
@@ -111,7 +111,7 @@
       "employmentType": "Full-time",
       "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
       "id": 9,
       "companyName": "Amazon",
       "jobTitle": "Backend Developer",
@@ -125,7 +125,7 @@
       "employmentType": "Full-time",
       "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
       "id": 10,
       "companyName": "Facebook",
       "jobTitle": "Data Analyst",
@@ -139,7 +139,7 @@
       "employmentType": "Full-time",
       "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
       "id": 11,
       "companyName": "Apple",
       "jobTitle": "iOS Developer",
@@ -153,7 +153,7 @@
       "employmentType": "Full-time",
       "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
       "id": 12,
       "companyName": "Uber",
       "jobTitle": "Software Engineer",
@@ -168,7 +168,7 @@
       "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
   },
 
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 13,
     "companyName": "Sapien Institute",
     "jobTitle": "Shana Alvarez",
@@ -182,7 +182,7 @@
     "description": "adipiscing lobortis risus. In mi pede, nonummy",
     "postingDate": "2022-05-03"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 14,
     "companyName": "Nec Quam Corp.",
     "jobTitle": "Mikayla Olson",
@@ -196,7 +196,7 @@
     "description": "id magna et ipsum",
     "postingDate": "2021-08-07"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 15,
     "companyName": "Aliquam Ornare Industries",
     "jobTitle": "Chelsea Bailey",
@@ -210,7 +210,7 @@
     "description": "conubia nostra, per inceptos hymenaeos. Mauris",
     "postingDate": "2021-10-11"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 16,
     "companyName": "Morbi Corp.",
     "jobTitle": "Constance Massey",
@@ -224,7 +224,7 @@
     "description": "est, congue a, aliquet vel, vulputate eu, odio.",
     "postingDate": "2022-02-10"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 17,
     "companyName": "In At Inc.",
     "jobTitle": "Quinn Myers",
@@ -238,7 +238,7 @@
     "description": "urna. Ut tincidunt vehicula risus. Nulla eget",
     "postingDate": "2020-12-13"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 18,
     "companyName": "Sollicitudin Commodo Ipsum PC",
     "jobTitle": "Josephine Schwartz",
@@ -252,7 +252,7 @@
     "description": "mauris a nunc. In",
     "postingDate": "2022-10-30"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 19,
     "companyName": "Dolor PC",
     "jobTitle": "Phillip Keith",
@@ -266,7 +266,7 @@
     "description": "luctus sit amet, faucibus",
     "postingDate": "2020-08-19"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 20,
     "companyName": "Mattis Ornare Lectus Inc.",
     "jobTitle": "Hamilton Baker",
@@ -280,7 +280,7 @@
     "description": "est arcu",
     "postingDate": "2022-11-19"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 21,
     "companyName": "Pellentesque Associates",
     "jobTitle": "Kitra Tyson",
@@ -294,7 +294,7 @@
     "description": "quam a felis ullamcorper viverra. Maecenas iaculis aliquet diam. Sed",
     "postingDate": "2021-09-18"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 22,
     "companyName": "Sollicitudin LLC",
     "jobTitle": "Risa Hansen",
@@ -308,7 +308,7 @@
     "description": "non, dapibus rutrum, justo. Praesent luctus. Curabitur egestas",
     "postingDate": "2020-07-11"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 23,
     "companyName": "Et Malesuada Fames LLP",
     "jobTitle": "Adele Emerson",
@@ -322,7 +322,7 @@
     "description": "ipsum non",
     "postingDate": "2021-05-03"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 24,
     "companyName": "Dignissim Corp.",
     "jobTitle": "Ishmael Walters",
@@ -336,7 +336,7 @@
     "description": "egestas. Fusce aliquet magna a neque.",
     "postingDate": "2020-08-07"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 25,
     "companyName": "A Corporation",
     "jobTitle": "Mariam Gallegos",
@@ -350,7 +350,7 @@
     "description": "lorem lorem, luctus ut,",
     "postingDate": "2021-01-22"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 26,
     "companyName": "Nostra LLC",
     "jobTitle": "Fleur Bauer",
@@ -364,7 +364,7 @@
     "description": "sit amet ornare lectus justo eu arcu. Morbi sit amet",
     "postingDate": "2021-04-15"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 27,
     "companyName": "Quisque Varius Ltd",
     "jobTitle": "Abel Hancock",
@@ -378,7 +378,7 @@
     "description": "fames ac turpis egestas. Aliquam fringilla",
     "postingDate": "2022-02-07"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 28,
     "companyName": "Natoque Inc.",
     "jobTitle": "Lareina Hernandez",
@@ -392,7 +392,7 @@
     "description": "nostra, per inceptos hymenaeos. Mauris ut quam vel sapien",
     "postingDate": "2023-11-21"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 29,
     "companyName": "Et Lacinia Institute",
     "jobTitle": "Maxine Davidson",
@@ -406,7 +406,7 @@
     "description": "sollicitudin orci sem eget massa. Suspendisse eleifend. Cras sed",
     "postingDate": "2022-05-18"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 30,
     "companyName": "Vitae Sodales LLP",
     "jobTitle": "Hilda Thornton",
@@ -420,7 +420,7 @@
     "description": "Praesent interdum ligula eu enim. Etiam imperdiet dictum magna.",
     "postingDate": "2022-11-22"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 31,
     "companyName": "Gravida Nunc Limited",
     "jobTitle": "Sybill Morin",
@@ -434,7 +434,7 @@
     "description": "ultrices. Duis volutpat nunc sit amet",
     "postingDate": "2022-02-21"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 32,
     "companyName": "Eget Lacus Mauris Limited",
     "jobTitle": "Lacy Hines",
@@ -448,7 +448,7 @@
     "description": "ligula. Aenean euismod mauris eu elit.",
     "postingDate": "2020-03-13"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 33,
     "companyName": "Leo Vivamus Associates",
     "jobTitle": "Noble Hinton",
@@ -462,7 +462,7 @@
     "description": "nulla. Cras eu",
     "postingDate": "2022-09-02"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 34,
     "companyName": "Luctus Curabitur Corp.",
     "jobTitle": "Oren Jefferson",
@@ -476,7 +476,7 @@
     "description": "velit. Quisque varius. Nam",
     "postingDate": "2022-12-02"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 35,
     "companyName": "Lectus LLP",
     "jobTitle": "Anika Mullen",
@@ -490,7 +490,7 @@
     "description": "tempus scelerisque, lorem ipsum sodales purus, in molestie",
     "postingDate": "2022-01-09"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 36,
     "companyName": "Pellentesque Institute",
     "jobTitle": "Phillip Rocha",
@@ -504,7 +504,7 @@
     "description": "montes, nascetur ridiculus mus. Aenean eget magna.",
     "postingDate": "2022-09-27"
   },
-  {
+  { "skills": ["Javascript", "HTML", "CSS"],
     "id": 37,
     "companyName": "Pede PC",
     "jobTitle": "Marsden Fisher",
@@ -518,7 +518,7 @@
     "description": "orci luctus et ultrices posuere cubilia",
     "postingDate": "2021-08-15"
   },
-  {
+  { "skills": ["Python", "Java"],
     "id": 38,
     "companyName": "Nullam Scelerisque Inc.",
     "jobTitle": "Nash Walls",
@@ -532,7 +532,7 @@
     "description": "elit, a feugiat tellus lorem eu metus.",
     "postingDate": "2021-10-28"
   },
-  {
+  { "skills": ["Python", "Java"],
     "id": 39,
     "companyName": "Arcu Sed LLP",
     "jobTitle": "Ifeoma Walton",
@@ -546,7 +546,7 @@
     "description": "convallis in, cursus et,",
     "postingDate": "2022-02-24"
   },
-  {
+  { "skills": ["Python", "Java"],
     "id": 40,
     "companyName": "Nisl Quisque Inc.",
     "jobTitle": "Chancellor Zamora",
@@ -560,7 +560,7 @@
     "description": "in consequat",
     "postingDate": "2022-12-18"
   },
-  {
+  { "skills": ["Python", "Java"],
     "id": 41,
     "companyName": "Mauris Industries",
     "jobTitle": "Athena Perry",
@@ -574,7 +574,7 @@
     "description": "nunc interdum feugiat.",
     "postingDate": "2023-09-24"
   },
-  {
+  { "skills": ["Python", "Java"],
     "id": 42,
     "companyName": "Nunc Corporation",
     "jobTitle": "Brenna Bean",
@@ -588,7 +588,7 @@
     "description": "Integer",
     "postingDate": "2020-06-28"
   },
-  {
+  { "skills": ["Python", "Java"],
     "id": 43,
     "companyName": "A Associates",
     "jobTitle": "Amela Rosa",
@@ -602,7 +602,7 @@
     "description": "malesuada vel, convallis in, cursus et,",
     "postingDate": "2021-10-25"
   },
-  {
+  { "skills": ["Python", "Java"],
     "id": 44,
     "companyName": "Aliquam Rutrum Foundation",
     "jobTitle": "Cain Robles",
@@ -616,7 +616,7 @@
     "description": "fringilla. Donec feugiat metus sit amet ante.",
     "postingDate": "2021-03-11"
   },
-  {
+  { "skills": ["Python", "Java"],
     "id": 45,
     "companyName": "Semper Nam Tempor Incorporated",
     "jobTitle": "Brianna Sharp",
@@ -630,7 +630,7 @@
     "description": "ligula consectetuer rhoncus.",
     "postingDate": "2020-05-27"
   },
-  {
+  { "skills": ["Python", "Java"],
     "id": 46,
     "companyName": "Augue Porttitor LLP",
     "jobTitle": "Octavius Clayton",
@@ -644,7 +644,7 @@
     "description": "turpis. Aliquam adipiscing lobortis risus. In mi",
     "postingDate": "2021-06-22"
   },
-  {
+  { "skills": ["Python", "Java"],
     "id": 47,
     "companyName": "Nibh Incorporated",
     "jobTitle": "Gray Williams",
@@ -658,7 +658,7 @@
     "description": "Sed eu",
     "postingDate": "2020-04-01"
   },
-  {
+  { "skills": ["Python", "Java"],
     "id": 48,
     "companyName": "Ipsum Cursus Associates",
     "jobTitle": "Echo Gray",
@@ -672,7 +672,7 @@
     "description": "velit. Pellentesque ultricies dignissim lacus.",
     "postingDate": "2023-10-20"
   },
-  {
+  { "skills": ["Python", "Java"],
     "id": 49,
     "companyName": "Suspendisse PC",
     "jobTitle": "Kuame Witt",
@@ -686,7 +686,7 @@
     "description": "semper cursus. Integer",
     "postingDate": "2021-10-19"
   },
-  {
+  { "skills": ["Python", "Java"],
     "id": 50,
     "companyName": "Pede Cras Foundation",
     "jobTitle": "Breanna Perkins",
@@ -700,7 +700,7 @@
     "description": "ipsum sodales purus, in molestie tortor nibh",
     "postingDate": "2020-02-24"
   },
-  {
+  { "skills": ["Python", "Java"],
     "id": 51,
     "companyName": "Non Cursus Corp.",
     "jobTitle": "Charles Richards",
@@ -714,7 +714,7 @@
     "description": "nisi sem semper",
     "postingDate": "2022-09-25"
   },
-  {
+  { "skills": ["Python", "Java"],
     "id": 52,
     "companyName": "Ante Bibendum Limited",
     "jobTitle": "Roary Benton",
@@ -728,7 +728,7 @@
     "description": "urna. Nunc quis arcu vel quam dignissim pharetra.",
     "postingDate": "2022-08-17"
   },
-  {
+  { "skills": ["React Native", "Javascript"],
     "id": 53,
     "companyName": "Lobortis LLP",
     "jobTitle": "Anne Acevedo",
@@ -742,7 +742,7 @@
     "description": "volutpat. Nulla dignissim. Maecenas ornare",
     "postingDate": "2023-08-25"
   },
-  {
+  { "skills": ["React Native", "Javascript"],
     "id": 54,
     "companyName": "Vitae Risus Industries",
     "jobTitle": "Uma Aguirre",
@@ -756,7 +756,7 @@
     "description": "a feugiat tellus",
     "postingDate": "2021-09-01"
   },
-  {
+  { "skills": ["React Native", "Javascript"],
     "id": 55,
     "companyName": "Id Ante Corporation",
     "jobTitle": "Selma Rasmussen",
@@ -770,7 +770,7 @@
     "description": "molestie in, tempus eu, ligula. Aenean euismod mauris eu",
     "postingDate": "2021-10-01"
   },
-  {
+  { "skills": ["React Native", "Javascript"],
     "id": 56,
     "companyName": "Ac Mi Inc.",
     "jobTitle": "Zephania Sandoval",
@@ -784,7 +784,7 @@
     "description": "hendrerit id, ante. Nunc mauris sapien, cursus in, hendrerit",
     "postingDate": "2022-08-02"
   },
-  {
+  { "skills": ["React Native", "Javascript"],
     "id": 57,
     "companyName": "Nam Inc.",
     "jobTitle": "Alyssa Browning",
@@ -798,7 +798,7 @@
     "description": "et, lacinia vitae, sodales at, velit. Pellentesque ultricies",
     "postingDate": "2022-02-01"
   },
-  {
+  { "skills": ["React Native", "Javascript"],
     "id": 58,
     "companyName": "Neque Nullam Inc.",
     "jobTitle": "Azalia Davidson",
@@ -812,7 +812,7 @@
     "description": "nisi a odio",
     "postingDate": "2020-02-22"
   },
-  {
+  { "skills": ["React Native", "Javascript"],
     "id": 59,
     "companyName": "Nibh Donec Est Company",
     "jobTitle": "Wendy Henderson",
@@ -826,7 +826,7 @@
     "description": "neque vitae semper egestas, urna justo faucibus lectus,",
     "postingDate": "2021-03-21"
   },
-  {
+  { "skills": ["React Native", "Javascript"],
     "id": 60,
     "companyName": "Vitae PC",
     "jobTitle": "Inga Joyner",
@@ -840,7 +840,7 @@
     "description": "luctus ut, pellentesque eget, dictum placerat, augue.",
     "postingDate": "2022-12-06"
   },
-  {
+  { "skills": ["React Native", "Javascript"],
     "id": 61,
     "companyName": "Urna LLP",
     "jobTitle": "Dora Gray",
@@ -854,7 +854,7 @@
     "description": "in faucibus orci",
     "postingDate": "2020-04-28"
   },
-  {
+  { "skills": ["React Native", "Javascript"],
     "id": 62,
     "companyName": "Elit Inc.",
     "jobTitle": "Nomlanga Marquez",
@@ -868,7 +868,7 @@
     "description": "sodales. Mauris blandit enim consequat purus.",
     "postingDate": "2020-02-29"
   },
-  {
+  { "skills": ["React Native", "Javascript"],
     "id": 63,
     "companyName": "Imperdiet Ullamcorper Duis Company",
     "jobTitle": "Emerald Martin",
@@ -882,7 +882,7 @@
     "description": "eget, ipsum. Donec sollicitudin adipiscing ligula. Aenean gravida",
     "postingDate": "2022-05-28"
   },
-  {
+  { "skills": ["React Native", "Javascript"],
     "id": 64,
     "companyName": "Varius Ultrices Mauris LLP",
     "jobTitle": "Idona Pruitt",
@@ -896,7 +896,7 @@
     "description": "ultrices a, auctor non, feugiat nec, diam. Duis mi enim,",
     "postingDate": "2021-03-22"
   },
-  {
+  { "skills": ["React Native", "Javascript"],
     "id": 65,
     "companyName": "Rutrum Lorem Ac Consulting",
     "jobTitle": "Stuart Pacheco",
@@ -910,7 +910,7 @@
     "description": "aliquam iaculis, lacus",
     "postingDate": "2023-03-16"
   },
-  {
+  { "skills": ["React Native", "Javascript"],
     "id": 66,
     "companyName": "Turpis In Incorporated",
     "jobTitle": "Oleg Romero",
@@ -924,7 +924,7 @@
     "description": "vitae diam. Proin dolor. Nulla semper tellus id",
     "postingDate": "2022-07-31"
   },
-  {
+  { "skills": ["Node.js", "Javascript"],
     "id": 67,
     "companyName": "Eget Corporation",
     "jobTitle": "Colby Colon",
@@ -938,7 +938,7 @@
     "description": "massa non",
     "postingDate": "2020-10-20"
   },
-  {
+  { "skills": ["Node.js", "Javascript"],
     "id": 68,
     "companyName": "Auctor Ullamcorper Nisl Corp.",
     "jobTitle": "Isabelle Tran",
@@ -952,7 +952,7 @@
     "description": "tortor at risus. Nunc ac sem ut",
     "postingDate": "2020-08-01"
   },
-  {
+  { "skills": ["Node.js", "Javascript"],
     "id": 69,
     "companyName": "Vel Inc.",
     "jobTitle": "Chastity Long",
@@ -966,7 +966,7 @@
     "description": "lorem ut aliquam iaculis, lacus pede sagittis augue, eu",
     "postingDate": "2022-08-22"
   },
-  {
+  { "skills": ["Node.js", "Javascript"],
     "id": 70,
     "companyName": "Montes Nascetur Ridiculus Foundation",
     "jobTitle": "Marsden Mercer",
@@ -980,7 +980,7 @@
     "description": "torquent per conubia nostra, per inceptos hymenaeos. Mauris",
     "postingDate": "2020-12-26"
   },
-  {
+  { "skills": ["Node.js", "Javascript"],
     "id": 71,
     "companyName": "Blandit Mattis Cras Associates",
     "jobTitle": "Garrison Cooley",
@@ -994,7 +994,7 @@
     "description": "eros. Proin",
     "postingDate": "2022-12-16"
   },
-  {
+  { "skills": ["Node.js", "Javascript"],
     "id": 72,
     "companyName": "Nunc Pulvinar Incorporated",
     "jobTitle": "Nelle Everett",
@@ -1008,7 +1008,7 @@
     "description": "in aliquet lobortis, nisi nibh lacinia",
     "postingDate": "2022-09-07"
   },
-  {
+  { "skills": ["Node.js", "Javascript"],
     "id": 73,
     "companyName": "Porttitor Tellus Non Incorporated",
     "jobTitle": "Rama Spencer",
@@ -1022,7 +1022,7 @@
     "description": "ullamcorper, velit in aliquet lobortis, nisi nibh lacinia",
     "postingDate": "2022-01-24"
   },
-  {
+  { "skills": ["Node.js", "Javascript"],
     "id": 74,
     "companyName": "Praesent Interdum Limited",
     "jobTitle": "Kelsey James",
@@ -1036,7 +1036,7 @@
     "description": "lectus sit amet luctus vulputate, nisi sem semper",
     "postingDate": "2023-08-03"
   },
-  {
+  { "skills": ["Node.js", "Javascript"],
     "id": 75,
     "companyName": "Cum Sociis LLC",
     "jobTitle": "Philip Mcfarland",
@@ -1050,7 +1050,7 @@
     "description": "interdum ligula eu enim. Etiam",
     "postingDate": "2020-03-26"
   },
-  {
+  { "skills": ["Node.js", "Javascript"],
     "id": 76,
     "companyName": "Aliquam Fringilla Institute",
     "jobTitle": "Victoria Hinton",
@@ -1064,7 +1064,7 @@
     "description": "Sed nec metus",
     "postingDate": "2021-01-19"
   },
-  {
+  { "skills": ["Node.js", "Javascript"],
     "id": 77,
     "companyName": "Metus Limited",
     "jobTitle": "Aaron Barber",
@@ -1078,7 +1078,7 @@
     "description": "urna justo faucibus lectus, a sollicitudin",
     "postingDate": "2023-05-06"
   },
-  {
+  { "skills": ["Node.js", "Javascript"],
     "id": 78,
     "companyName": "Lorem Ipsum Corp.",
     "jobTitle": "Iliana Russo",
@@ -1092,7 +1092,7 @@
     "description": "a feugiat tellus",
     "postingDate": "2020-04-29"
   },
-  {
+  { "skills": ["Node.js", "Typescript"],
     "id": 79,
     "companyName": "Eget Laoreet Institute",
     "jobTitle": "Denise Hurley",
@@ -1106,7 +1106,7 @@
     "description": "Sed eu eros. Nam consequat dolor vitae dolor.",
     "postingDate": "2020-04-14"
   },
-  {
+  { "skills": ["Node.js", "Typescript"],
     "id": 80,
     "companyName": "Tincidunt Dui Augue Incorporated",
     "jobTitle": "Karyn Reid",
@@ -1120,7 +1120,7 @@
     "description": "Mauris magna. Duis dignissim tempor arcu.",
     "postingDate": "2022-04-24"
   },
-  {
+  { "skills": ["Node.js", "Typescript"],
     "id": 81,
     "companyName": "Integer Limited",
     "jobTitle": "Anika Morse",
@@ -1134,7 +1134,7 @@
     "description": "et magnis dis parturient montes,",
     "postingDate": "2022-03-30"
   },
-  {
+  { "skills": ["Node.js", "Typescript"],
     "id": 82,
     "companyName": "Mauris Quis Turpis Ltd",
     "jobTitle": "Hall Gross",
@@ -1148,7 +1148,7 @@
     "description": "viverra. Maecenas iaculis aliquet diam. Sed diam lorem, auctor",
     "postingDate": "2020-07-18"
   },
-  {
+  { "skills": ["Node.js", "Typescript"],
     "id": 83,
     "companyName": "Erat Nonummy Inc.",
     "jobTitle": "Inez Hebert",
@@ -1162,7 +1162,7 @@
     "description": "feugiat. Lorem ipsum dolor sit amet, consectetuer adipiscing",
     "postingDate": "2023-05-05"
   },
-  {
+  { "skills": ["Node.js", "Typescript"],
     "id": 84,
     "companyName": "Quisque Libero Lacus Incorporated",
     "jobTitle": "Charissa Conrad",
@@ -1176,7 +1176,7 @@
     "description": "Nunc mauris. Morbi non",
     "postingDate": "2020-11-14"
   },
-  {
+  { "skills": ["Node.js", "Typescript"],
     "id": 85,
     "companyName": "Aliquam Auctor LLP",
     "jobTitle": "Nicholas Lane",
@@ -1190,7 +1190,7 @@
     "description": "et libero.",
     "postingDate": "2020-03-21"
   },
-  {
+  { "skills": ["Node.js", "Typescript"],
     "id": 86,
     "companyName": "Quisque Imperdiet Erat PC",
     "jobTitle": "Carol Larsen",
@@ -1204,7 +1204,7 @@
     "description": "sapien. Aenean massa. Integer vitae nibh. Donec",
     "postingDate": "2022-02-11"
   },
-  {
+  { "skills": ["Node.js", "Typescript"],
     "id": 87,
     "companyName": "Ligula Industries",
     "jobTitle": "Donovan Sweeney",
@@ -1218,7 +1218,7 @@
     "description": "mattis velit justo nec ante.",
     "postingDate": "2024-01-07"
   },
-  {
+  { "skills": ["Node.js", "Typescript"],
     "id": 88,
     "companyName": "Varius Nam Ltd",
     "jobTitle": "Maya Carr",
@@ -1232,7 +1232,7 @@
     "description": "ac urna. Ut tincidunt vehicula risus. Nulla eget",
     "postingDate": "2022-06-24"
   },
-  {
+  { "skills": ["Node.js", "Typescript"],
     "id": 89,
     "companyName": "Auctor Industries",
     "jobTitle": "Angela Fuentes",
@@ -1246,7 +1246,7 @@
     "description": "turpis non enim. Mauris quis turpis vitae",
     "postingDate": "2020-11-03"
   },
-  {
+  { "skills": ["Node.js", "Typescript"],
     "id": 90,
     "companyName": "Rutrum LLP",
     "jobTitle": "Jin Conrad",
@@ -1260,7 +1260,7 @@
     "description": "odio. Etiam ligula tortor, dictum eu, placerat eget, venenatis a,",
     "postingDate": "2020-12-25"
   },
-  {
+  { "skills": ["Node.js", "Typescript"],
     "id": 91,
     "companyName": "Habitant Morbi LLC",
     "jobTitle": "Mira Burgess",
@@ -1274,7 +1274,7 @@
     "description": "mattis.",
     "postingDate": "2022-01-14"
   },
-  {
+  { "skills": ["Node.js", "Typescript"],
     "id": 92,
     "companyName": "Donec At Institute",
     "jobTitle": "Jenette Rich",
@@ -1288,7 +1288,7 @@
     "description": "molestie tortor nibh sit amet orci. Ut sagittis",
     "postingDate": "2023-09-30"
   },
-  {
+  { "skills": ["Node.js", "Typescript"],
     "id": 93,
     "companyName": "Purus Mauris Industries",
     "jobTitle": "Rogan Dorsey",
@@ -1302,7 +1302,7 @@
     "description": "et netus",
     "postingDate": "2021-01-09"
   },
-  {
+  { "skills": ["Node.js", "Typescript"],
     "id": 94,
     "companyName": "Ac Mattis Ornare Limited",
     "jobTitle": "Castor Robles",
@@ -1316,7 +1316,7 @@
     "description": "cubilia Curae Donec tincidunt.",
     "postingDate": "2021-10-18"
   },
-  {
+  { "skills": ["Node.js", "Typescript"],
     "id": 95,
     "companyName": "Sit Incorporated",
     "jobTitle": "Madison Kramer",
@@ -1330,7 +1330,7 @@
     "description": "ultricies adipiscing,",
     "postingDate": "2023-01-10"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 96,
     "companyName": "Aenean Massa Institute",
     "jobTitle": "Olivia Hebert",
@@ -1344,7 +1344,7 @@
     "description": "sit amet, faucibus ut, nulla. Cras eu tellus",
     "postingDate": "2020-08-03"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 97,
     "companyName": "Cum Sociis Associates",
     "jobTitle": "Sawyer Hall",
@@ -1358,7 +1358,7 @@
     "description": "sem elit, pharetra ut, pharetra sed, hendrerit a,",
     "postingDate": "2020-11-26"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 98,
     "companyName": "Nibh Phasellus Corp.",
     "jobTitle": "Bradley Rivers",
@@ -1372,7 +1372,7 @@
     "description": "nibh enim, gravida",
     "postingDate": "2023-02-06"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 99,
     "companyName": "Nam Ligula LLC",
     "jobTitle": "Howard Hart",
@@ -1386,7 +1386,7 @@
     "description": "semper et, lacinia vitae, sodales at, velit. Pellentesque",
     "postingDate": "2021-02-21"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 100,
     "companyName": "Nec Ligula Consectetuer PC",
     "jobTitle": "Hammett Dunlap",
@@ -1400,7 +1400,7 @@
     "description": "Ut semper pretium neque. Morbi quis urna.",
     "postingDate": "2021-09-09"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 101,
     "companyName": "Facilisis Non Bibendum Institute",
     "jobTitle": "Rae Sandoval",
@@ -1414,7 +1414,7 @@
     "description": "vitae dolor.",
     "postingDate": "2021-03-20"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 102,
     "companyName": "Eu Erat Semper Inc.",
     "jobTitle": "Cassady Velasquez",
@@ -1428,7 +1428,7 @@
     "description": "varius et, euismod et, commodo",
     "postingDate": "2022-05-25"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 103,
     "companyName": "Enim Etiam Imperdiet Industries",
     "jobTitle": "Demetrius Finley",
@@ -1442,7 +1442,7 @@
     "description": "Nulla tempor augue ac",
     "postingDate": "2024-01-27"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 104,
     "companyName": "Feugiat Sed Industries",
     "jobTitle": "Melissa Durham",
@@ -1456,7 +1456,7 @@
     "description": "dui. Fusce diam nunc,",
     "postingDate": "2021-09-03"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 105,
     "companyName": "Fermentum Vel Industries",
     "jobTitle": "Emmanuel Erickson",
@@ -1470,7 +1470,7 @@
     "description": "id ante dictum cursus. Nunc mauris elit,",
     "postingDate": "2021-07-23"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 106,
     "companyName": "Eu Euismod Ac Inc.",
     "jobTitle": "Delilah Hyde",
@@ -1484,7 +1484,7 @@
     "description": "ultricies adipiscing,",
     "postingDate": "2020-03-21"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 107,
     "companyName": "Ut Industries",
     "jobTitle": "Lacota Bender",
@@ -1498,7 +1498,7 @@
     "description": "ut dolor dapibus gravida.",
     "postingDate": "2021-01-28"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 108,
     "companyName": "Porttitor Scelerisque Ltd",
     "jobTitle": "Lareina Moody",
@@ -1512,7 +1512,7 @@
     "description": "quam. Curabitur vel lectus. Cum sociis natoque penatibus",
     "postingDate": "2020-12-02"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 109,
     "companyName": "Parturient Montes Corporation",
     "jobTitle": "Alexis Flowers",
@@ -1526,7 +1526,7 @@
     "description": "est. Nunc ullamcorper, velit in",
     "postingDate": "2023-02-27"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 110,
     "companyName": "Ut Sem Ltd",
     "jobTitle": "Zenaida Hoover",
@@ -1540,7 +1540,7 @@
     "description": "torquent per conubia",
     "postingDate": "2022-09-01"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 111,
     "companyName": "Egestas A Limited",
     "jobTitle": "Donna Phillips",
@@ -1554,7 +1554,7 @@
     "description": "a, arcu. Sed et libero. Proin mi. Aliquam gravida",
     "postingDate": "2020-04-01"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 112,
     "companyName": "Orci Lacus Vestibulum Ltd",
     "jobTitle": "Cheyenne Mccarty",
@@ -1568,7 +1568,7 @@
     "description": "dapibus id, blandit at, nisi. Cum sociis natoque penatibus",
     "postingDate": "2022-07-12"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 113,
     "companyName": "Magnis Dis Associates",
     "jobTitle": "Florence Doyle",
@@ -1582,7 +1582,7 @@
     "description": "lacus. Quisque purus sapien, gravida non, sollicitudin a, malesuada id,",
     "postingDate": "2021-12-11"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 114,
     "companyName": "Lobortis Nisi Nibh Associates",
     "jobTitle": "Amaya Pratt",
@@ -1596,7 +1596,7 @@
     "description": "erat volutpat. Nulla dignissim. Maecenas ornare egestas ligula. Nullam",
     "postingDate": "2022-01-08"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 115,
     "companyName": "Rutrum Ltd",
     "jobTitle": "Roary Briggs",
@@ -1610,7 +1610,7 @@
     "description": "sodales elit erat vitae risus. Duis a mi",
     "postingDate": "2020-11-21"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 116,
     "companyName": "Non Ltd",
     "jobTitle": "Martin Holcomb",
@@ -1624,7 +1624,7 @@
     "description": "ut,",
     "postingDate": "2022-10-16"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 117,
     "companyName": "Luctus LLC",
     "jobTitle": "Nehru Prince",
@@ -1638,7 +1638,7 @@
     "description": "eros nec tellus. Nunc lectus pede, ultrices a, auctor",
     "postingDate": "2021-01-25"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 118,
     "companyName": "Gravida Molestie Incorporated",
     "jobTitle": "Ina Lamb",
@@ -1652,7 +1652,7 @@
     "description": "non enim commodo hendrerit.",
     "postingDate": "2022-10-31"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 119,
     "companyName": "Proin Velit Sed Institute",
     "jobTitle": "Florence Avery",
@@ -1666,7 +1666,7 @@
     "description": "mi. Aliquam gravida mauris ut mi. Duis risus odio,",
     "postingDate": "2021-10-18"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 120,
     "companyName": "Nam Nulla Limited",
     "jobTitle": "Leigh Diaz",
@@ -1680,7 +1680,7 @@
     "description": "quam. Curabitur vel lectus.",
     "postingDate": "2023-08-04"
   },
-  {
+  { "skills": ["UI/UX", "Figma"],
     "id": 121,
     "companyName": "Laoreet Ipsum Curabitur Institute",
     "jobTitle": "Fiona Sawyer",
@@ -1694,7 +1694,7 @@
     "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing",
     "postingDate": "2022-11-10"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 122,
     "companyName": "Sollicitudin Limited",
     "jobTitle": "Melissa Ellison",
@@ -1708,7 +1708,7 @@
     "description": "In at pede. Cras vulputate velit eu",
     "postingDate": "2020-06-23"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 123,
     "companyName": "Litora Torquent Ltd",
     "jobTitle": "Kyla Atkinson",
@@ -1722,7 +1722,7 @@
     "description": "dictum. Proin eget odio. Aliquam vulputate ullamcorper magna. Sed",
     "postingDate": "2021-11-23"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 124,
     "companyName": "Magna A LLP",
     "jobTitle": "Cairo Gibson",
@@ -1736,7 +1736,7 @@
     "description": "Vivamus nisi. Mauris nulla. Integer urna. Vivamus",
     "postingDate": "2023-09-19"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 125,
     "companyName": "Sagittis Augue PC",
     "jobTitle": "Luke Guthrie",
@@ -1750,7 +1750,7 @@
     "description": "Suspendisse non leo. Vivamus nibh dolor, nonummy ac,",
     "postingDate": "2022-12-01"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 126,
     "companyName": "Nibh Dolor Associates",
     "jobTitle": "Burton Gregory",
@@ -1764,7 +1764,7 @@
     "description": "vestibulum nec, euismod in, dolor. Fusce",
     "postingDate": "2023-01-31"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 127,
     "companyName": "Dapibus Id LLP",
     "jobTitle": "Ivor Ford",
@@ -1778,7 +1778,7 @@
     "description": "lectus justo eu arcu. Morbi sit amet",
     "postingDate": "2021-07-28"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 128,
     "companyName": "Turpis Egestas Foundation",
     "jobTitle": "Malachi Turner",
@@ -1792,7 +1792,7 @@
     "description": "hendrerit neque. In ornare sagittis felis. Donec",
     "postingDate": "2022-02-03"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 129,
     "companyName": "Venenatis A Foundation",
     "jobTitle": "Mariam Warner",
@@ -1806,7 +1806,7 @@
     "description": "dolor dolor, tempus non, lacinia",
     "postingDate": "2023-12-30"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 130,
     "companyName": "Penatibus Et Corporation",
     "jobTitle": "Rowan Snow",
@@ -1820,7 +1820,7 @@
     "description": "malesuada fames ac turpis egestas. Aliquam fringilla cursus",
     "postingDate": "2021-09-10"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 131,
     "companyName": "Vulputate Ullamcorper Institute",
     "jobTitle": "Christen Sharpe",
@@ -1834,7 +1834,7 @@
     "description": "quis diam luctus lobortis. Class aptent taciti",
     "postingDate": "2023-07-26"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 132,
     "companyName": "Suspendisse Non PC",
     "jobTitle": "Alan Caldwell",
@@ -1848,7 +1848,7 @@
     "description": "at, velit. Cras lorem lorem, luctus ut, pellentesque eget, dictum",
     "postingDate": "2023-10-10"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 133,
     "companyName": "Dictum Phasellus In Company",
     "jobTitle": "Nero Hansen",
@@ -1862,7 +1862,7 @@
     "description": "faucibus id, libero. Donec",
     "postingDate": "2023-02-14"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 134,
     "companyName": "Volutpat Nulla Industries",
     "jobTitle": "Jack Mays",
@@ -1876,7 +1876,7 @@
     "description": "pede ac urna. Ut tincidunt vehicula risus. Nulla",
     "postingDate": "2020-12-03"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 135,
     "companyName": "Fusce Mollis Corporation",
     "jobTitle": "Victor Schneider",
@@ -1890,7 +1890,7 @@
     "description": "sapien imperdiet ornare. In faucibus. Morbi vehicula.",
     "postingDate": "2022-11-01"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 136,
     "companyName": "Arcu Ltd",
     "jobTitle": "Maite Gillespie",
@@ -1904,7 +1904,7 @@
     "description": "nec ante. Maecenas mi felis, adipiscing fringilla, porttitor vulputate,",
     "postingDate": "2024-02-06"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 137,
     "companyName": "Taciti Sociosqu Ad Ltd",
     "jobTitle": "Todd Mejia",
@@ -1918,7 +1918,7 @@
     "description": "luctus, ipsum",
     "postingDate": "2021-05-16"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 138,
     "companyName": "Duis Elementum Foundation",
     "jobTitle": "Mark Summers",
@@ -1932,7 +1932,7 @@
     "description": "posuere vulputate,",
     "postingDate": "2020-03-09"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 139,
     "companyName": "Fames Limited",
     "jobTitle": "Kenyon Zamora",
@@ -1946,7 +1946,7 @@
     "description": "natoque penatibus et magnis dis parturient montes,",
     "postingDate": "2022-12-13"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 140,
     "companyName": "Porttitor Vulputate Corp.",
     "jobTitle": "Anastasia Orr",
@@ -1960,7 +1960,7 @@
     "description": "neque pellentesque massa lobortis ultrices. Vivamus",
     "postingDate": "2022-09-30"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 141,
     "companyName": "A PC",
     "jobTitle": "Gary Chambers",
@@ -1974,7 +1974,7 @@
     "description": "nec urna suscipit nonummy. Fusce fermentum fermentum arcu. Vestibulum ante",
     "postingDate": "2021-03-15"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 142,
     "companyName": "Quisque Incorporated",
     "jobTitle": "Quintessa Gonzales",
@@ -1988,7 +1988,7 @@
     "description": "posuere at, velit. Cras lorem lorem, luctus ut, pellentesque",
     "postingDate": "2023-04-30"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 143,
     "companyName": "Magna Suspendisse Tristique Ltd",
     "jobTitle": "Karly Cote",
@@ -2002,7 +2002,7 @@
     "description": "aliquet",
     "postingDate": "2021-12-28"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 144,
     "companyName": "Curae Phasellus Corp.",
     "jobTitle": "Thomas Webb",
@@ -2016,7 +2016,7 @@
     "description": "vitae mauris sit amet lorem semper auctor. Mauris vel",
     "postingDate": "2023-07-06"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 145,
     "companyName": "Laoreet Ipsum Curabitur Foundation",
     "jobTitle": "Angelica Mcdowell",
@@ -2030,7 +2030,7 @@
     "description": "sem eget massa. Suspendisse eleifend. Cras sed",
     "postingDate": "2020-09-21"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 146,
     "companyName": "Erat In Industries",
     "jobTitle": "Alec Leonard",
@@ -2044,7 +2044,7 @@
     "description": "a, scelerisque sed, sapien. Nunc",
     "postingDate": "2021-09-19"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 147,
     "companyName": "Commodo Inc.",
     "jobTitle": "Urielle Waller",
@@ -2058,7 +2058,7 @@
     "description": "id nunc interdum feugiat.",
     "postingDate": "2023-02-09"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 148,
     "companyName": "Nec Euismod LLP",
     "jobTitle": "Ian Marsh",
@@ -2072,7 +2072,7 @@
     "description": "nulla magna,",
     "postingDate": "2021-12-22"
   },
-  {
+  { "skills": ["Python", "Machine Learning"],
     "id": 149,
     "companyName": "Urna Vivamus Associates",
     "jobTitle": "Travis Horton",
@@ -2086,7 +2086,7 @@
     "description": "Donec est mauris,",
     "postingDate": "2020-10-22"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 150,
     "companyName": "Nec Ligula LLP",
     "jobTitle": "Ruth Davis",
@@ -2100,7 +2100,7 @@
     "description": "dignissim lacus. Aliquam rutrum",
     "postingDate": "2021-05-02"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 151,
     "companyName": "Donec Elementum Consulting",
     "jobTitle": "Ivor Bauer",
@@ -2114,7 +2114,7 @@
     "description": "ipsum. Phasellus vitae mauris sit amet lorem",
     "postingDate": "2022-07-14"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 152,
     "companyName": "Turpis Egestas Corp.",
     "jobTitle": "Valentine Bernard",
@@ -2128,7 +2128,7 @@
     "description": "vehicula et, rutrum eu, ultrices",
     "postingDate": "2023-08-09"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 153,
     "companyName": "Elit Pede PC",
     "jobTitle": "Hamilton Salazar",
@@ -2142,7 +2142,7 @@
     "description": "dapibus rutrum, justo. Praesent luctus. Curabitur egestas nunc",
     "postingDate": "2022-07-13"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 154,
     "companyName": "Consectetuer Adipiscing Elit Foundation",
     "jobTitle": "Yolanda Sherman",
@@ -2156,7 +2156,7 @@
     "description": "non, bibendum",
     "postingDate": "2022-08-02"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 155,
     "companyName": "Congue A Ltd",
     "jobTitle": "Shoshana Mcconnell",
@@ -2170,7 +2170,7 @@
     "description": "auctor odio a purus. Duis elementum, dui quis",
     "postingDate": "2023-04-19"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 156,
     "companyName": "Libero Proin PC",
     "jobTitle": "Kirk French",
@@ -2184,7 +2184,7 @@
     "description": "neque. Morbi",
     "postingDate": "2024-02-13"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 157,
     "companyName": "Sociis Natoque Foundation",
     "jobTitle": "Curran Greer",
@@ -2198,7 +2198,7 @@
     "description": "fames ac turpis egestas. Fusce",
     "postingDate": "2020-08-26"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 158,
     "companyName": "Commodo PC",
     "jobTitle": "Erasmus Duffy",
@@ -2212,7 +2212,7 @@
     "description": "lobortis tellus justo sit",
     "postingDate": "2020-06-27"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 159,
     "companyName": "Vehicula Pellentesque Institute",
     "jobTitle": "Wendy Boone",
@@ -2226,7 +2226,7 @@
     "description": "sed, est. Nunc laoreet lectus quis massa. Mauris vestibulum, neque",
     "postingDate": "2021-05-23"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 160,
     "companyName": "Vehicula Institute",
     "jobTitle": "Cameron Clay",
@@ -2240,7 +2240,7 @@
     "description": "at sem molestie sodales. Mauris blandit enim",
     "postingDate": "2022-10-28"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 161,
     "companyName": "Arcu Corporation",
     "jobTitle": "Irene Benson",
@@ -2254,7 +2254,7 @@
     "description": "odio. Etiam ligula tortor, dictum eu,",
     "postingDate": "2022-05-25"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 162,
     "companyName": "Amet Nulla Limited",
     "jobTitle": "Rinah Holman",
@@ -2268,7 +2268,7 @@
     "description": "nec, euismod in, dolor.",
     "postingDate": "2022-05-06"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 163,
     "companyName": "Tincidunt Dui Company",
     "jobTitle": "Aaron Stephens",
@@ -2282,7 +2282,7 @@
     "description": "malesuada vel, venenatis vel,",
     "postingDate": "2022-01-11"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 164,
     "companyName": "Ac Corp.",
     "jobTitle": "Brody Cooke",
@@ -2296,7 +2296,7 @@
     "description": "hendrerit a, arcu. Sed et libero. Proin",
     "postingDate": "2022-11-04"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 165,
     "companyName": "Blandit Corp.",
     "jobTitle": "Ezekiel Wilder",
@@ -2310,7 +2310,7 @@
     "description": "nec ligula consectetuer rhoncus. Nullam velit dui, semper",
     "postingDate": "2023-09-30"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 166,
     "companyName": "Curabitur Foundation",
     "jobTitle": "Simon Sanders",
@@ -2324,7 +2324,7 @@
     "description": "neque. In ornare sagittis felis. Donec",
     "postingDate": "2022-05-31"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 167,
     "companyName": "Fringilla Mi Inc.",
     "jobTitle": "Roth Workman",
@@ -2338,7 +2338,7 @@
     "description": "non enim",
     "postingDate": "2022-05-10"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 168,
     "companyName": "Sagittis Nullam Ltd",
     "jobTitle": "Dorian Richards",
@@ -2352,7 +2352,7 @@
     "description": "porttitor scelerisque neque. Nullam nisl. Maecenas malesuada",
     "postingDate": "2023-07-22"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 169,
     "companyName": "Eu Dolor Egestas LLP",
     "jobTitle": "Emma Chan",
@@ -2366,7 +2366,7 @@
     "description": "Cras vulputate velit eu",
     "postingDate": "2020-05-11"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 170,
     "companyName": "Elit Aliquam Ltd",
     "jobTitle": "Channing Olsen",
@@ -2380,7 +2380,7 @@
     "description": "Nullam enim. Sed nulla ante, iaculis nec, eleifend",
     "postingDate": "2020-11-23"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 171,
     "companyName": "Iaculis Lacus Pede LLP",
     "jobTitle": "Hedy Acosta",
@@ -2394,7 +2394,7 @@
     "description": "eu elit. Nulla facilisi. Sed neque.",
     "postingDate": "2020-10-20"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 172,
     "companyName": "Ultricies Adipiscing Corp.",
     "jobTitle": "Norman Jones",
@@ -2408,7 +2408,7 @@
     "description": "Nunc",
     "postingDate": "2020-06-14"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 173,
     "companyName": "Neque Nullam Limited",
     "jobTitle": "August Roberson",
@@ -2422,7 +2422,7 @@
     "description": "augue ac ipsum. Phasellus vitae mauris sit",
     "postingDate": "2022-03-02"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 174,
     "companyName": "Pharetra Inc.",
     "jobTitle": "Nehru Morin",
@@ -2436,7 +2436,7 @@
     "description": "purus. Nullam scelerisque neque sed sem",
     "postingDate": "2022-12-09"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 175,
     "companyName": "Vestibulum Nec Euismod Associates",
     "jobTitle": "Maxwell Sloan",
@@ -2450,7 +2450,7 @@
     "description": "Proin dolor. Nulla semper tellus id nunc interdum feugiat.",
     "postingDate": "2023-07-09"
   },
-  {
+  { "skills": ["Cloud Computing", "Machine Learning"],
     "id": 176,
     "companyName": "Magna Ut Consulting",
     "jobTitle": "Olga Dawson",
@@ -2464,7 +2464,7 @@
     "description": "massa. Integer vitae nibh. Donec",
     "postingDate": "2023-06-27"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 177,
     "companyName": "Nisi Cum Associates",
     "jobTitle": "Daniel Jackson",
@@ -2478,7 +2478,7 @@
     "description": "Ut tincidunt vehicula risus. Nulla eget metus eu erat semper",
     "postingDate": "2022-05-15"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 178,
     "companyName": "Vitae Nibh Associates",
     "jobTitle": "Prescott Wall",
@@ -2492,7 +2492,7 @@
     "description": "nascetur ridiculus mus. Proin vel arcu eu",
     "postingDate": "2020-07-15"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 179,
     "companyName": "Tellus Faucibus Industries",
     "jobTitle": "Kim Kennedy",
@@ -2506,7 +2506,7 @@
     "description": "orci. Phasellus dapibus",
     "postingDate": "2023-09-16"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 180,
     "companyName": "Id Ante Ltd",
     "jobTitle": "Lana Green",
@@ -2520,7 +2520,7 @@
     "description": "dictum augue malesuada malesuada. Integer id magna et ipsum cursus",
     "postingDate": "2022-04-12"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 181,
     "companyName": "Vestibulum Ut PC",
     "jobTitle": "Amethyst Mack",
@@ -2534,7 +2534,7 @@
     "description": "magnis dis parturient montes, nascetur",
     "postingDate": "2020-07-24"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 182,
     "companyName": "Nullam Nisl LLC",
     "jobTitle": "Salvador Padilla",
@@ -2548,7 +2548,7 @@
     "description": "justo. Praesent luctus. Curabitur egestas nunc sed",
     "postingDate": "2023-06-21"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 183,
     "companyName": "Nunc Mauris Sapien Foundation",
     "jobTitle": "Keegan Whitaker",
@@ -2562,7 +2562,7 @@
     "description": "Etiam laoreet, libero et tristique pellentesque, tellus sem",
     "postingDate": "2020-05-21"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 184,
     "companyName": "Accumsan Neque Company",
     "jobTitle": "Kessie Olsen",
@@ -2576,7 +2576,7 @@
     "description": "Sed diam",
     "postingDate": "2024-02-09"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 185,
     "companyName": "Felis Ullamcorper Viverra Foundation",
     "jobTitle": "Skyler Greer",
@@ -2590,7 +2590,7 @@
     "description": "dolor",
     "postingDate": "2020-06-25"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 186,
     "companyName": "Pharetra Nibh Aliquam Inc.",
     "jobTitle": "Macey Randolph",
@@ -2604,7 +2604,7 @@
     "description": "purus mauris a nunc. In at pede. Cras",
     "postingDate": "2023-07-17"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 187,
     "companyName": "Sit Inc.",
     "jobTitle": "Leroy Walsh",
@@ -2618,7 +2618,7 @@
     "description": "pede blandit congue. In scelerisque",
     "postingDate": "2023-08-28"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 188,
     "companyName": "Ac Associates",
     "jobTitle": "Sydnee Middleton",
@@ -2632,7 +2632,7 @@
     "description": "dictum mi, ac mattis velit justo",
     "postingDate": "2021-01-02"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 189,
     "companyName": "Cum Ltd",
     "jobTitle": "Davis Rodgers",
@@ -2646,7 +2646,7 @@
     "description": "nunc. Quisque ornare tortor at risus. Nunc ac sem",
     "postingDate": "2020-12-01"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 190,
     "companyName": "At Nisi LLC",
     "jobTitle": "Quynn Mendoza",
@@ -2660,7 +2660,7 @@
     "description": "Aenean gravida nunc sed pede. Cum sociis",
     "postingDate": "2022-12-21"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 191,
     "companyName": "Odio Ltd",
     "jobTitle": "Ulysses Barber",
@@ -2674,7 +2674,7 @@
     "description": "sem",
     "postingDate": "2023-03-16"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 192,
     "companyName": "Eleifend Nec Corp.",
     "jobTitle": "Elmo Stephens",
@@ -2688,7 +2688,7 @@
     "description": "Phasellus elit pede, malesuada vel, venenatis vel, faucibus",
     "postingDate": "2023-06-25"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 193,
     "companyName": "Sed Facilisis Vitae LLC",
     "jobTitle": "Quinlan Perry",
@@ -2702,7 +2702,7 @@
     "description": "elementum sem, vitae aliquam eros turpis",
     "postingDate": "2022-05-27"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 194,
     "companyName": "At LLC",
     "jobTitle": "Hadley Randall",
@@ -2716,7 +2716,7 @@
     "description": "Ut tincidunt orci quis",
     "postingDate": "2020-04-26"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 195,
     "companyName": "Scelerisque Mollis Corporation",
     "jobTitle": "Garth Watts",
@@ -2730,7 +2730,7 @@
     "description": "fringilla ornare placerat, orci lacus vestibulum lorem,",
     "postingDate": "2020-07-20"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 196,
     "companyName": "Sem Foundation",
     "jobTitle": "Elizabeth Miranda",
@@ -2744,7 +2744,7 @@
     "description": "lectus. Nullam suscipit, est ac",
     "postingDate": "2022-09-04"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 197,
     "companyName": "Phasellus Libero Ltd",
     "jobTitle": "Dara Stephens",
@@ -2758,7 +2758,7 @@
     "description": "Quisque ac",
     "postingDate": "2023-07-14"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 198,
     "companyName": "Justo PC",
     "jobTitle": "Kristen Justice",
@@ -2772,7 +2772,7 @@
     "description": "tristique pellentesque, tellus sem mollis",
     "postingDate": "2023-06-23"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 199,
     "companyName": "Sit Amet Faucibus Institute",
     "jobTitle": "Jana Stokes",
@@ -2786,7 +2786,7 @@
     "description": "ullamcorper viverra. Maecenas iaculis aliquet diam. Sed",
     "postingDate": "2021-09-18"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 200,
     "companyName": "Orci Sem Eget Foundation",
     "jobTitle": "Aaron Bradford",
@@ -2800,7 +2800,7 @@
     "description": "feugiat nec, diam. Duis mi enim,",
     "postingDate": "2023-12-10"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 201,
     "companyName": "Sed Diam Industries",
     "jobTitle": "Travis Brooks",
@@ -2814,7 +2814,7 @@
     "description": "Phasellus fermentum convallis ligula. Donec luctus",
     "postingDate": "2020-09-03"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 202,
     "companyName": "Vel Sapien Associates",
     "jobTitle": "Cooper Randall",
@@ -2828,7 +2828,7 @@
     "description": "massa. Mauris vestibulum, neque",
     "postingDate": "2023-04-28"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 203,
     "companyName": "Molestie Pharetra Inc.",
     "jobTitle": "Cassidy Lamb",
@@ -2842,7 +2842,7 @@
     "description": "et magnis dis parturient montes, nascetur",
     "postingDate": "2022-04-27"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 204,
     "companyName": "Tincidunt Nibh Inc.",
     "jobTitle": "MacKenzie Page",
@@ -2856,7 +2856,7 @@
     "description": "facilisis, magna tellus",
     "postingDate": "2020-05-06"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 205,
     "companyName": "Diam Vel Arcu Company",
     "jobTitle": "Gay Parsons",
@@ -2870,7 +2870,7 @@
     "description": "sem ut cursus",
     "postingDate": "2024-01-06"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 206,
     "companyName": "Suspendisse Commodo Tincidunt Limited",
     "jobTitle": "Fuller Flowers",
@@ -2884,7 +2884,7 @@
     "description": "orci quis lectus.",
     "postingDate": "2023-06-12"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 207,
     "companyName": "Mus Proin PC",
     "jobTitle": "Brett Mcpherson",
@@ -2898,7 +2898,7 @@
     "description": "Curae Donec tincidunt.",
     "postingDate": "2022-07-05"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 208,
     "companyName": "Accumsan Interdum Libero Institute",
     "jobTitle": "MacKenzie Glenn",
@@ -2912,7 +2912,7 @@
     "description": "dolor. Quisque tincidunt pede ac urna. Ut tincidunt vehicula",
     "postingDate": "2020-06-27"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 209,
     "companyName": "Massa Mauris Corporation",
     "jobTitle": "Heidi Boyle",
@@ -2926,7 +2926,7 @@
     "description": "egestas hendrerit neque. In ornare sagittis felis.",
     "postingDate": "2020-11-27"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 210,
     "companyName": "Mauris Morbi Non Associates",
     "jobTitle": "Aiko Copeland",
@@ -2940,7 +2940,7 @@
     "description": "at risus. Nunc ac sem ut dolor dapibus",
     "postingDate": "2024-01-11"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 211,
     "companyName": "Sit Amet Consectetuer Inc.",
     "jobTitle": "Hoyt Chaney",
@@ -2954,7 +2954,7 @@
     "description": "Duis a mi fringilla",
     "postingDate": "2023-08-19"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 212,
     "companyName": "Orci Institute",
     "jobTitle": "Francis Kent",
@@ -2968,7 +2968,7 @@
     "description": "sed, hendrerit a, arcu. Sed et libero. Proin mi.",
     "postingDate": "2020-12-17"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 213,
     "companyName": "Lorem Ac Corporation",
     "jobTitle": "Cameron Hunter",
@@ -2982,7 +2982,7 @@
     "description": "non ante",
     "postingDate": "2021-11-23"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 214,
     "companyName": "Vehicula Pellentesque Tincidunt Associates",
     "jobTitle": "Jarrod Landry",
@@ -2996,7 +2996,7 @@
     "description": "dui. Fusce diam nunc, ullamcorper",
     "postingDate": "2023-09-15"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 215,
     "companyName": "Sit Amet Company",
     "jobTitle": "Rhonda Marshall",
@@ -3010,7 +3010,7 @@
     "description": "tortor. Nunc commodo auctor velit. Aliquam nisl. Nulla eu neque",
     "postingDate": "2023-04-30"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 216,
     "companyName": "Mollis Nec LLC",
     "jobTitle": "Rhonda Hudson",
@@ -3024,7 +3024,7 @@
     "description": "Duis cursus, diam at pretium",
     "postingDate": "2022-08-29"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 217,
     "companyName": "Feugiat Nec Diam PC",
     "jobTitle": "Slade Molina",
@@ -3038,7 +3038,7 @@
     "description": "odio tristique pharetra. Quisque",
     "postingDate": "2020-03-22"
   },
-  {
+  { "skills": ["Cloud Computing", "Data Science"],
     "id": 218,
     "companyName": "Diam PC",
     "jobTitle": "Mara Green",
@@ -3052,7 +3052,7 @@
     "description": "pulvinar arcu et pede.",
     "postingDate": "2022-05-20"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 219,
     "companyName": "Quisque Corp.",
     "jobTitle": "Burton Robertson",
@@ -3066,7 +3066,7 @@
     "description": "elit, pretium et, rutrum non, hendrerit id,",
     "postingDate": "2020-06-16"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 220,
     "companyName": "Amet Diam Eu Ltd",
     "jobTitle": "Elaine Wright",
@@ -3080,7 +3080,7 @@
     "description": "urna. Vivamus molestie dapibus ligula. Aliquam erat",
     "postingDate": "2020-05-15"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 221,
     "companyName": "Eget Volutpat Company",
     "jobTitle": "James Stein",
@@ -3094,7 +3094,7 @@
     "description": "diam lorem, auctor quis, tristique ac, eleifend vitae, erat.",
     "postingDate": "2021-04-01"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 222,
     "companyName": "Augue Sed LLP",
     "jobTitle": "Deborah Graham",
@@ -3108,7 +3108,7 @@
     "description": "sed pede nec ante",
     "postingDate": "2020-09-28"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 223,
     "companyName": "Gravida Ltd",
     "jobTitle": "Jesse Carlson",
@@ -3122,7 +3122,7 @@
     "description": "nisi a odio semper cursus. Integer mollis. Integer tincidunt",
     "postingDate": "2022-04-15"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 224,
     "companyName": "Morbi Non LLC",
     "jobTitle": "Macon Foley",
@@ -3136,7 +3136,7 @@
     "description": "neque. Nullam ut nisi a odio semper cursus.",
     "postingDate": "2021-05-05"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 225,
     "companyName": "Malesuada Fames Institute",
     "jobTitle": "Sandra Grimes",
@@ -3150,7 +3150,7 @@
     "description": "mi. Duis risus odio, auctor vitae, aliquet",
     "postingDate": "2022-02-18"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 226,
     "companyName": "Facilisi Sed Foundation",
     "jobTitle": "Ignatius Callahan",
@@ -3164,7 +3164,7 @@
     "description": "mollis. Phasellus libero mauris, aliquam eu,",
     "postingDate": "2022-09-18"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 227,
     "companyName": "Cum Corp.",
     "jobTitle": "Reagan Kaufman",
@@ -3178,7 +3178,7 @@
     "description": "sociis natoque penatibus et",
     "postingDate": "2023-05-26"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 228,
     "companyName": "Placerat Orci Corp.",
     "jobTitle": "Jerry Giles",
@@ -3192,7 +3192,7 @@
     "description": "ut cursus luctus, ipsum leo elementum",
     "postingDate": "2024-02-03"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 229,
     "companyName": "Vitae Purus Gravida Industries",
     "jobTitle": "Germane Bender",
@@ -3206,7 +3206,7 @@
     "description": "et tristique pellentesque,",
     "postingDate": "2023-12-14"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 230,
     "companyName": "Fermentum Convallis Limited",
     "jobTitle": "Rose Shaw",
@@ -3220,7 +3220,7 @@
     "description": "felis eget varius ultrices, mauris",
     "postingDate": "2020-10-21"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 231,
     "companyName": "Risus At Fringilla Consulting",
     "jobTitle": "Noelle Daniels",
@@ -3234,7 +3234,7 @@
     "description": "Nam nulla magna, malesuada vel, convallis in, cursus et,",
     "postingDate": "2020-08-16"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 232,
     "companyName": "Arcu Vel Industries",
     "jobTitle": "Tucker Mejia",
@@ -3248,7 +3248,7 @@
     "description": "mi. Duis risus odio, auctor vitae, aliquet",
     "postingDate": "2021-01-26"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 233,
     "companyName": "Enim Nisl Elementum LLP",
     "jobTitle": "Herman Taylor",
@@ -3262,7 +3262,7 @@
     "description": "non justo. Proin non massa non",
     "postingDate": "2020-12-14"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 234,
     "companyName": "Lectus PC",
     "jobTitle": "Hope Gordon",
@@ -3276,7 +3276,7 @@
     "description": "inceptos",
     "postingDate": "2020-03-14"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 235,
     "companyName": "Vel Limited",
     "jobTitle": "Castor Olsen",
@@ -3290,7 +3290,7 @@
     "description": "ipsum. Curabitur consequat,",
     "postingDate": "2021-09-05"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 236,
     "companyName": "In Dolor Fusce Corporation",
     "jobTitle": "Palmer Rutledge",
@@ -3304,7 +3304,7 @@
     "description": "hymenaeos. Mauris ut quam vel",
     "postingDate": "2021-03-30"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 237,
     "companyName": "Libero Dui Corp.",
     "jobTitle": "Hiram Morton",
@@ -3318,7 +3318,7 @@
     "description": "scelerisque sed, sapien. Nunc pulvinar",
     "postingDate": "2022-10-26"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 238,
     "companyName": "Non Lorem Limited",
     "jobTitle": "Lucius Meadows",
@@ -3332,7 +3332,7 @@
     "description": "nec enim. Nunc ut erat. Sed",
     "postingDate": "2023-04-19"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 239,
     "companyName": "Quam Incorporated",
     "jobTitle": "Amena Mcdowell",
@@ -3346,7 +3346,7 @@
     "description": "euismod et, commodo",
     "postingDate": "2022-03-04"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 240,
     "companyName": "In Incorporated",
     "jobTitle": "Eleanor Noel",
@@ -3360,7 +3360,7 @@
     "description": "Morbi vehicula. Pellentesque tincidunt tempus risus. Donec egestas. Duis ac",
     "postingDate": "2021-12-19"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 241,
     "companyName": "Lorem Ipsum Associates",
     "jobTitle": "Chadwick Rosario",
@@ -3374,7 +3374,7 @@
     "description": "Morbi neque tellus, imperdiet non, vestibulum nec, euismod in, dolor.",
     "postingDate": "2023-07-27"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 242,
     "companyName": "Netus Inc.",
     "jobTitle": "Sybill Ellison",
@@ -3388,7 +3388,7 @@
     "description": "fringilla. Donec feugiat metus sit amet ante. Vivamus non",
     "postingDate": "2023-11-09"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 243,
     "companyName": "Sollicitudin A Industries",
     "jobTitle": "Willow Whitfield",
@@ -3402,7 +3402,7 @@
     "description": "elit. Aliquam auctor, velit eget",
     "postingDate": "2020-02-26"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 244,
     "companyName": "Arcu PC",
     "jobTitle": "Astra Carlson",
@@ -3416,7 +3416,7 @@
     "description": "lorem, vehicula et, rutrum",
     "postingDate": "2022-05-10"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 245,
     "companyName": "Elementum Purus Consulting",
     "jobTitle": "Ivan Gillespie",
@@ -3430,7 +3430,7 @@
     "description": "faucibus orci luctus et ultrices posuere cubilia Curae",
     "postingDate": "2022-10-08"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 246,
     "companyName": "Nec Luctus Inc.",
     "jobTitle": "Emery Delacruz",
@@ -3444,7 +3444,7 @@
     "description": "nulla. Integer urna. Vivamus molestie dapibus",
     "postingDate": "2022-04-25"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 247,
     "companyName": "In Aliquet Corporation",
     "jobTitle": "Amity Walker",
@@ -3458,7 +3458,7 @@
     "description": "in, hendrerit",
     "postingDate": "2020-11-13"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 248,
     "companyName": "Integer Sem LLP",
     "jobTitle": "Octavius Nguyen",
@@ -3472,7 +3472,7 @@
     "description": "purus, in molestie tortor nibh sit",
     "postingDate": "2022-01-13"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 249,
     "companyName": "Suspendisse Non Foundation",
     "jobTitle": "Akeem Vaughn",
@@ -3486,7 +3486,7 @@
     "description": "Duis elementum, dui",
     "postingDate": "2023-09-06"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 250,
     "companyName": "Nam Tempor Foundation",
     "jobTitle": "Candace Espinoza",
@@ -3500,7 +3500,7 @@
     "description": "ultrices a, auctor non, feugiat nec, diam. Duis mi enim,",
     "postingDate": "2024-01-09"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 251,
     "companyName": "Nisi Cum PC",
     "jobTitle": "Benjamin Contreras",
@@ -3514,7 +3514,7 @@
     "description": "Proin velit. Sed",
     "postingDate": "2024-01-29"
   },
-  {
+  { "skills": ["DevOps", "AWS"],
     "id": 252,
     "companyName": "Molestie Incorporated",
     "jobTitle": "Marsden Mccormick",
@@ -3528,7 +3528,7 @@
     "description": "erat eget ipsum. Suspendisse sagittis. Nullam vitae",
     "postingDate": "2022-01-10"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 253,
     "companyName": "Arcu Morbi Sit Ltd",
     "jobTitle": "Elaine Cherry",
@@ -3542,7 +3542,7 @@
     "description": "elit fermentum risus, at fringilla purus",
     "postingDate": "2022-06-18"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 254,
     "companyName": "Nullam Suscipit Est LLP",
     "jobTitle": "Eaton Garrett",
@@ -3556,7 +3556,7 @@
     "description": "odio. Nam interdum enim",
     "postingDate": "2022-07-08"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 255,
     "companyName": "A Inc.",
     "jobTitle": "Mari Castaneda",
@@ -3570,7 +3570,7 @@
     "description": "dis parturient montes, nascetur ridiculus mus. Proin vel",
     "postingDate": "2023-06-26"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 256,
     "companyName": "Aliquet Proin Velit Limited",
     "jobTitle": "Colton Irwin",
@@ -3584,7 +3584,7 @@
     "description": "et magnis dis parturient montes, nascetur",
     "postingDate": "2021-09-11"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 257,
     "companyName": "Lectus Justo PC",
     "jobTitle": "Upton Santana",
@@ -3598,7 +3598,7 @@
     "description": "Aenean euismod mauris eu elit.",
     "postingDate": "2023-01-03"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 258,
     "companyName": "Nunc Lectus Pede PC",
     "jobTitle": "Charlotte Joseph",
@@ -3612,7 +3612,7 @@
     "description": "amet ante. Vivamus non lorem vitae odio sagittis semper. Nam",
     "postingDate": "2022-04-14"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 259,
     "companyName": "Sem Ltd",
     "jobTitle": "Chanda Reyes",
@@ -3626,7 +3626,7 @@
     "description": "In lorem. Donec elementum, lorem",
     "postingDate": "2023-11-09"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 260,
     "companyName": "Blandit Mattis Cras Associates",
     "jobTitle": "Daniel Mckee",
@@ -3640,7 +3640,7 @@
     "description": "elit. Aliquam auctor, velit eget laoreet posuere,",
     "postingDate": "2022-11-28"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 261,
     "companyName": "Neque Venenatis Consulting",
     "jobTitle": "Thane Nielsen",
@@ -3654,7 +3654,7 @@
     "description": "augue ut lacus. Nulla",
     "postingDate": "2024-01-09"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 262,
     "companyName": "Vel Quam Dignissim LLP",
     "jobTitle": "Salvador Coffey",
@@ -3668,7 +3668,7 @@
     "description": "sit amet orci. Ut sagittis lobortis mauris. Suspendisse aliquet molestie",
     "postingDate": "2021-01-21"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 263,
     "companyName": "Lacus Quisque PC",
     "jobTitle": "Hayden Valdez",
@@ -3682,7 +3682,7 @@
     "description": "ornare sagittis felis.",
     "postingDate": "2022-10-12"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 264,
     "companyName": "Nunc Quis Corporation",
     "jobTitle": "Drake Mcdaniel",
@@ -3696,7 +3696,7 @@
     "description": "mi tempor lorem, eget mollis lectus pede et",
     "postingDate": "2021-10-18"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 265,
     "companyName": "Lorem Sit Incorporated",
     "jobTitle": "Mufutau Hunt",
@@ -3710,7 +3710,7 @@
     "description": "quis massa.",
     "postingDate": "2020-08-19"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 266,
     "companyName": "At Pretium Incorporated",
     "jobTitle": "Keely Blackwell",
@@ -3724,7 +3724,7 @@
     "description": "pharetra. Quisque",
     "postingDate": "2021-03-02"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 267,
     "companyName": "Purus Limited",
     "jobTitle": "Evelyn Fowler",
@@ -3738,7 +3738,7 @@
     "description": "Sed pharetra, felis eget varius ultrices, mauris ipsum porta",
     "postingDate": "2021-02-21"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 268,
     "companyName": "Tincidunt Vehicula LLC",
     "jobTitle": "Audra Estrada",
@@ -3752,7 +3752,7 @@
     "description": "tortor. Nunc",
     "postingDate": "2021-06-07"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 269,
     "companyName": "Magna Sed Institute",
     "jobTitle": "Kareem Bradford",
@@ -3766,7 +3766,7 @@
     "description": "In scelerisque scelerisque dui. Suspendisse",
     "postingDate": "2020-03-02"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 270,
     "companyName": "Per Inceptos Foundation",
     "jobTitle": "Vanna Fletcher",
@@ -3780,7 +3780,7 @@
     "description": "non, lacinia at, iaculis",
     "postingDate": "2023-12-25"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 271,
     "companyName": "Pede Cras Vulputate Institute",
     "jobTitle": "Hashim Mcclure",
@@ -3794,7 +3794,7 @@
     "description": "amet, faucibus ut, nulla. Cras eu tellus",
     "postingDate": "2023-03-06"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 272,
     "companyName": "Varius Et Euismod Corporation",
     "jobTitle": "Evelyn Rhodes",
@@ -3808,7 +3808,7 @@
     "description": "dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor.",
     "postingDate": "2023-01-25"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 273,
     "companyName": "Mauris Sapien Foundation",
     "jobTitle": "Bree Ray",
@@ -3822,7 +3822,7 @@
     "description": "ut cursus",
     "postingDate": "2022-12-14"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 274,
     "companyName": "Quisque Foundation",
     "jobTitle": "Kyla Johns",
@@ -3836,7 +3836,7 @@
     "description": "ligula elit, pretium et, rutrum non, hendrerit",
     "postingDate": "2021-02-14"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 275,
     "companyName": "Id Corp.",
     "jobTitle": "Claire Bolton",
@@ -3850,7 +3850,7 @@
     "description": "consectetuer euismod est arcu ac orci. Ut",
     "postingDate": "2020-11-07"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 276,
     "companyName": "Sed Malesuada Augue Ltd",
     "jobTitle": "Jordan Sweeney",
@@ -3864,7 +3864,7 @@
     "description": "egestas rhoncus. Proin nisl sem, consequat nec, mollis",
     "postingDate": "2023-08-18"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 277,
     "companyName": "Hendrerit Consectetuer Company",
     "jobTitle": "Beatrice Romero",
@@ -3878,7 +3878,7 @@
     "description": "nunc est, mollis",
     "postingDate": "2021-06-18"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 278,
     "companyName": "Amet LLC",
     "jobTitle": "Mara Frost",
@@ -3892,7 +3892,7 @@
     "description": "ad litora torquent per conubia nostra, per",
     "postingDate": "2023-07-05"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 279,
     "companyName": "Hymenaeos Mauris Ut Limited",
     "jobTitle": "Timothy Hoover",
@@ -3906,7 +3906,7 @@
     "description": "erat eget ipsum. Suspendisse sagittis.",
     "postingDate": "2022-10-01"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 280,
     "companyName": "Fringilla Porttitor Institute",
     "jobTitle": "Lane Knight",
@@ -3920,7 +3920,7 @@
     "description": "et, eros. Proin ultrices. Duis volutpat nunc",
     "postingDate": "2023-04-24"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 281,
     "companyName": "Fringilla Corp.",
     "jobTitle": "Macy Cameron",
@@ -3934,7 +3934,7 @@
     "description": "commodo auctor velit.",
     "postingDate": "2023-05-09"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 282,
     "companyName": "Tempor Bibendum Ltd",
     "jobTitle": "Guy Schmidt",
@@ -3948,7 +3948,7 @@
     "description": "vitae risus. Duis a mi fringilla mi lacinia",
     "postingDate": "2022-07-12"
   },
-  {
+  { "skills": ["Cyber Security", "OWASP"],
     "id": 283,
     "companyName": "Eget Venenatis Ltd",
     "jobTitle": "Florence Reynolds",
@@ -3962,7 +3962,7 @@
     "description": "Aliquam rutrum lorem ac risus.",
     "postingDate": "2021-03-01"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 284,
     "companyName": "Ridiculus Mus Ltd",
     "jobTitle": "Brooke Acosta",
@@ -3976,7 +3976,7 @@
     "description": "neque venenatis lacus. Etiam bibendum fermentum metus. Aenean",
     "postingDate": "2022-04-20"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 285,
     "companyName": "Tellus LLC",
     "jobTitle": "Asher Christian",
@@ -3990,7 +3990,7 @@
     "description": "non",
     "postingDate": "2022-11-25"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 286,
     "companyName": "Vitae Velit Egestas LLC",
     "jobTitle": "Unity Fitzgerald",
@@ -4004,7 +4004,7 @@
     "description": "non quam. Pellentesque",
     "postingDate": "2020-10-30"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 287,
     "companyName": "Facilisi Sed Neque Ltd",
     "jobTitle": "Eagan Guzman",
@@ -4018,7 +4018,7 @@
     "description": "euismod mauris eu elit.",
     "postingDate": "2022-03-11"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 288,
     "companyName": "Nec Tempus Foundation",
     "jobTitle": "Hollee Buchanan",
@@ -4032,7 +4032,7 @@
     "description": "Duis at",
     "postingDate": "2021-01-15"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 289,
     "companyName": "Odio Institute",
     "jobTitle": "Maris Whitley",
@@ -4046,7 +4046,7 @@
     "description": "libero mauris, aliquam eu, accumsan sed, facilisis",
     "postingDate": "2023-04-12"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 290,
     "companyName": "At Velit Incorporated",
     "jobTitle": "Amber Henry",
@@ -4060,7 +4060,7 @@
     "description": "et tristique pellentesque, tellus sem mollis",
     "postingDate": "2020-02-25"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 291,
     "companyName": "Egestas Industries",
     "jobTitle": "Reagan Dorsey",
@@ -4074,7 +4074,7 @@
     "description": "lectus. Cum sociis natoque penatibus et magnis dis parturient montes,",
     "postingDate": "2024-02-03"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 292,
     "companyName": "Suspendisse Sed Industries",
     "jobTitle": "Mechelle Hodges",
@@ -4088,7 +4088,7 @@
     "description": "ultrices iaculis odio. Nam interdum enim non",
     "postingDate": "2023-11-02"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 293,
     "companyName": "Massa Lobortis Ultrices Ltd",
     "jobTitle": "Germaine Nichols",
@@ -4102,7 +4102,7 @@
     "description": "Cras dolor dolor, tempus non, lacinia",
     "postingDate": "2020-04-10"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 294,
     "companyName": "Semper Erat Corp.",
     "jobTitle": "Amela Haney",
@@ -4116,7 +4116,7 @@
     "description": "aliquet molestie",
     "postingDate": "2021-04-29"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 295,
     "companyName": "Felis Orci Adipiscing PC",
     "jobTitle": "Armand Harvey",
@@ -4130,7 +4130,7 @@
     "description": "mauris id sapien. Cras",
     "postingDate": "2023-09-07"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 296,
     "companyName": "Diam Lorem Inc.",
     "jobTitle": "Kamal Mathis",
@@ -4144,7 +4144,7 @@
     "description": "nonummy ipsum non arcu. Vivamus sit amet risus. Donec",
     "postingDate": "2023-09-05"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 297,
     "companyName": "Risus Nulla Eget Incorporated",
     "jobTitle": "Austin Rodriquez",
@@ -4158,7 +4158,7 @@
     "description": "ullamcorper, velit in aliquet",
     "postingDate": "2023-01-08"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 298,
     "companyName": "Etiam Bibendum Limited",
     "jobTitle": "Keith Chan",
@@ -4172,7 +4172,7 @@
     "description": "Integer urna.",
     "postingDate": "2020-05-31"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 299,
     "companyName": "Tincidunt Vehicula Corporation",
     "jobTitle": "Wing Patel",
@@ -4186,7 +4186,7 @@
     "description": "lectus rutrum urna,",
     "postingDate": "2023-11-19"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 300,
     "companyName": "Integer In Limited",
     "jobTitle": "Zorita Sampson",
@@ -4200,7 +4200,7 @@
     "description": "Nam ac",
     "postingDate": "2023-08-28"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 301,
     "companyName": "Lacus Ut Incorporated",
     "jobTitle": "Zoe Sheppard",
@@ -4214,7 +4214,7 @@
     "description": "eleifend, nunc risus varius",
     "postingDate": "2020-09-14"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 302,
     "companyName": "At Velit Institute",
     "jobTitle": "Xavier Mejia",
@@ -4228,7 +4228,7 @@
     "description": "vel pede blandit congue. In scelerisque scelerisque dui.",
     "postingDate": "2023-11-03"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 303,
     "companyName": "Imperdiet Dictum Magna Inc.",
     "jobTitle": "Zane Chang",
@@ -4242,7 +4242,7 @@
     "description": "et magnis dis parturient",
     "postingDate": "2022-12-04"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 304,
     "companyName": "Nibh Enim Institute",
     "jobTitle": "Jason Irwin",
@@ -4256,7 +4256,7 @@
     "description": "eleifend",
     "postingDate": "2023-03-08"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 305,
     "companyName": "Nibh Enim Gravida Limited",
     "jobTitle": "Alfonso Duncan",
@@ -4270,7 +4270,7 @@
     "description": "egestas hendrerit neque. In ornare sagittis felis.",
     "postingDate": "2021-02-14"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 306,
     "companyName": "Non Limited",
     "jobTitle": "Alfreda Floyd",
@@ -4284,7 +4284,7 @@
     "description": "nec, euismod in, dolor. Fusce feugiat. Lorem ipsum dolor",
     "postingDate": "2022-02-13"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 307,
     "companyName": "Nec LLC",
     "jobTitle": "Nigel Mcintyre",
@@ -4298,7 +4298,7 @@
     "description": "mauris sapien, cursus in, hendrerit consectetuer, cursus et,",
     "postingDate": "2020-04-27"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 308,
     "companyName": "Malesuada Ut Sem Corporation",
     "jobTitle": "Cheryl Hull",
@@ -4312,7 +4312,7 @@
     "description": "ornare egestas ligula. Nullam",
     "postingDate": "2023-03-10"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 309,
     "companyName": "Enim Diam Vel Foundation",
     "jobTitle": "Hiram Alford",
@@ -4326,7 +4326,7 @@
     "description": "pharetra nibh. Aliquam ornare, libero at",
     "postingDate": "2021-04-23"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 310,
     "companyName": "Mollis Industries",
     "jobTitle": "Emily Henson",
@@ -4340,7 +4340,7 @@
     "description": "Donec luctus aliquet",
     "postingDate": "2022-08-04"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 311,
     "companyName": "Tortor PC",
     "jobTitle": "Hannah Underwood",
@@ -4354,7 +4354,7 @@
     "description": "In mi pede, nonummy ut, molestie in,",
     "postingDate": "2023-05-14"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 312,
     "companyName": "Nunc Ullamcorper Velit LLC",
     "jobTitle": "Winter Horn",
@@ -4368,7 +4368,7 @@
     "description": "diam nunc, ullamcorper eu, euismod ac, fermentum vel,",
     "postingDate": "2023-10-27"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 313,
     "companyName": "Nibh Consulting",
     "jobTitle": "Clinton Graham",
@@ -4382,7 +4382,7 @@
     "description": "non sapien molestie orci tincidunt adipiscing. Mauris molestie pharetra nibh.",
     "postingDate": "2023-12-03"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 314,
     "companyName": "Aliquam Company",
     "jobTitle": "Candice Evans",
@@ -4396,7 +4396,7 @@
     "description": "amet risus. Donec egestas. Aliquam nec enim. Nunc ut",
     "postingDate": "2024-01-23"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 315,
     "companyName": "Urna LLP",
     "jobTitle": "Mary Gaines",
@@ -4410,7 +4410,7 @@
     "description": "nulla ante, iaculis nec, eleifend non,",
     "postingDate": "2021-05-22"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 316,
     "companyName": "Orci Ut Semper LLC",
     "jobTitle": "Aspen Perez",
@@ -4424,7 +4424,7 @@
     "description": "posuere, enim nisl elementum",
     "postingDate": "2022-06-01"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 317,
     "companyName": "Elementum Ltd",
     "jobTitle": "Ashely Strong",
@@ -4438,7 +4438,7 @@
     "description": "tempus mauris erat eget ipsum. Suspendisse sagittis. Nullam",
     "postingDate": "2023-11-23"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 318,
     "companyName": "Scelerisque Mollis Incorporated",
     "jobTitle": "Barrett Yang",
@@ -4452,7 +4452,7 @@
     "description": "augue, eu tempor erat neque non quam. Pellentesque habitant morbi",
     "postingDate": "2020-04-23"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 319,
     "companyName": "Nunc Mauris Ltd",
     "jobTitle": "Zelenia Mercer",
@@ -4466,7 +4466,7 @@
     "description": "et arcu imperdiet ullamcorper. Duis at lacus. Quisque",
     "postingDate": "2021-01-27"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 320,
     "companyName": "Nullam Vitae Diam Consulting",
     "jobTitle": "Drake Stein",
@@ -4480,7 +4480,7 @@
     "description": "eget mollis lectus pede et risus. Quisque libero",
     "postingDate": "2023-04-30"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 321,
     "companyName": "Integer Tincidunt Industries",
     "jobTitle": "Britanney Woods",
@@ -4494,7 +4494,7 @@
     "description": "congue a, aliquet vel, vulputate eu, odio. Phasellus",
     "postingDate": "2022-06-22"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 322,
     "companyName": "Facilisis Non Inc.",
     "jobTitle": "Maggie Sweet",
@@ -4508,7 +4508,7 @@
     "description": "orci sem eget massa. Suspendisse eleifend.",
     "postingDate": "2022-11-18"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 323,
     "companyName": "Enim Mauris PC",
     "jobTitle": "Francesca Fry",
@@ -4522,7 +4522,7 @@
     "description": "Aliquam erat",
     "postingDate": "2020-07-22"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 324,
     "companyName": "Molestie Inc.",
     "jobTitle": "Theodore Robertson",
@@ -4536,7 +4536,7 @@
     "description": "placerat velit. Quisque varius. Nam porttitor scelerisque neque. Nullam",
     "postingDate": "2022-04-05"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 325,
     "companyName": "Enim Gravida Sit Incorporated",
     "jobTitle": "Imogene Goodwin",
@@ -4550,7 +4550,7 @@
     "description": "sem egestas blandit. Nam nulla magna, malesuada vel, convallis in,",
     "postingDate": "2023-03-29"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 326,
     "companyName": "Semper Industries",
     "jobTitle": "Illiana Petersen",
@@ -4564,7 +4564,7 @@
     "description": "malesuada augue ut lacus. Nulla tincidunt, neque vitae",
     "postingDate": "2023-03-05"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 327,
     "companyName": "Ac Eleifend LLC",
     "jobTitle": "Cleo Galloway",
@@ -4578,7 +4578,7 @@
     "description": "ligula eu enim. Etiam imperdiet dictum magna. Ut",
     "postingDate": "2023-05-03"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 328,
     "companyName": "Lorem Ipsum Dolor Industries",
     "jobTitle": "Clayton Charles",
@@ -4592,7 +4592,7 @@
     "description": "Lorem ipsum dolor sit amet,",
     "postingDate": "2023-09-05"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 329,
     "companyName": "Cursus Non Egestas Foundation",
     "jobTitle": "Palmer Solomon",
@@ -4606,7 +4606,7 @@
     "description": "et",
     "postingDate": "2023-11-22"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 330,
     "companyName": "Nec Incorporated",
     "jobTitle": "Dillon Middleton",
@@ -4620,7 +4620,7 @@
     "description": "et, eros. Proin ultrices. Duis volutpat",
     "postingDate": "2022-06-01"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 331,
     "companyName": "Et Lacinia Vitae LLC",
     "jobTitle": "Connor Henson",
@@ -4634,7 +4634,7 @@
     "description": "ut odio vel est tempor bibendum. Donec felis orci, adipiscing",
     "postingDate": "2022-01-16"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 332,
     "companyName": "Nunc Sed Ltd",
     "jobTitle": "Clayton Day",
@@ -4648,7 +4648,7 @@
     "description": "fermentum metus. Aenean",
     "postingDate": "2023-08-18"
   },
-  {
+  { "skills": ["Artificial Intelligence", "Machine Learning"],
     "id": 333,
     "companyName": "Diam Eu LLP",
     "jobTitle": "Angela Lambert",
@@ -4662,7 +4662,7 @@
     "description": "at, velit. Pellentesque ultricies dignissim lacus. Aliquam rutrum lorem",
     "postingDate": "2022-08-31"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 334,
     "companyName": "Vitae PC",
     "jobTitle": "Jin Puckett",
@@ -4676,7 +4676,7 @@
     "description": "Proin non massa non ante bibendum ullamcorper.",
     "postingDate": "2020-06-29"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 335,
     "companyName": "Nunc Sit Institute",
     "jobTitle": "Constance Cantrell",
@@ -4690,7 +4690,7 @@
     "description": "Donec est. Nunc ullamcorper, velit in aliquet lobortis, nisi",
     "postingDate": "2021-10-13"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 336,
     "companyName": "Commodo Auctor LLC",
     "jobTitle": "Keefe Norman",
@@ -4704,7 +4704,7 @@
     "description": "aliquam eros",
     "postingDate": "2021-10-15"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 337,
     "companyName": "Phasellus Elit Pede Industries",
     "jobTitle": "Carol Hale",
@@ -4718,7 +4718,7 @@
     "description": "ac mattis velit justo nec ante. Maecenas mi felis,",
     "postingDate": "2023-02-15"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 338,
     "companyName": "Dis Parturient Institute",
     "jobTitle": "Kelsie Stanley",
@@ -4732,7 +4732,7 @@
     "description": "nascetur ridiculus mus. Proin vel nisl.",
     "postingDate": "2021-06-24"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 339,
     "companyName": "Ultricies Adipiscing Consulting",
     "jobTitle": "Nevada Richardson",
@@ -4746,7 +4746,7 @@
     "description": "venenatis a, magna.",
     "postingDate": "2022-12-02"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 340,
     "companyName": "Nulla Aliquet Inc.",
     "jobTitle": "April Bean",
@@ -4760,7 +4760,7 @@
     "description": "nec orci. Donec nibh. Quisque",
     "postingDate": "2023-12-04"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 341,
     "companyName": "Ac Turpis Foundation",
     "jobTitle": "Kessie Mcneil",
@@ -4774,7 +4774,7 @@
     "description": "posuere cubilia Curae Phasellus ornare. Fusce mollis. Duis",
     "postingDate": "2020-08-25"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 342,
     "companyName": "Eget Inc.",
     "jobTitle": "Robert Christensen",
@@ -4788,7 +4788,7 @@
     "description": "est tempor bibendum. Donec felis orci,",
     "postingDate": "2023-03-10"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 343,
     "companyName": "Per Inceptos Inc.",
     "jobTitle": "Mechelle Guerrero",
@@ -4802,7 +4802,7 @@
     "description": "luctus et ultrices posuere cubilia",
     "postingDate": "2023-05-20"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 344,
     "companyName": "A PC",
     "jobTitle": "Kitra Hunt",
@@ -4816,7 +4816,7 @@
     "description": "justo sit amet",
     "postingDate": "2023-04-03"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 345,
     "companyName": "Cras Eu LLP",
     "jobTitle": "Simon Hays",
@@ -4830,7 +4830,7 @@
     "description": "tincidunt pede ac",
     "postingDate": "2022-07-19"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 346,
     "companyName": "Morbi Tristique Industries",
     "jobTitle": "Kamal Harvey",
@@ -4844,7 +4844,7 @@
     "description": "interdum enim non nisi. Aenean",
     "postingDate": "2023-03-22"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 347,
     "companyName": "Odio Auctor Vitae Corp.",
     "jobTitle": "Raphael Franklin",
@@ -4858,7 +4858,7 @@
     "description": "Mauris molestie pharetra",
     "postingDate": "2022-10-02"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 348,
     "companyName": "Hendrerit Id Corporation",
     "jobTitle": "Ebony Davidson",
@@ -4872,7 +4872,7 @@
     "description": "nisi a odio",
     "postingDate": "2020-09-22"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 349,
     "companyName": "Amet Faucibus Ut Institute",
     "jobTitle": "Ariana Chan",
@@ -4886,7 +4886,7 @@
     "description": "metus. In lorem. Donec",
     "postingDate": "2020-11-30"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 350,
     "companyName": "Sodales Ltd",
     "jobTitle": "Ronan Hickman",
@@ -4900,7 +4900,7 @@
     "description": "dictum ultricies ligula. Nullam enim. Sed nulla",
     "postingDate": "2022-05-16"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 351,
     "companyName": "Ut Lacus Nulla Corporation",
     "jobTitle": "Jaden Bond",
@@ -4914,7 +4914,7 @@
     "description": "neque et nunc. Quisque ornare tortor at",
     "postingDate": "2021-07-03"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 352,
     "companyName": "Suspendisse Incorporated",
     "jobTitle": "Bruno Paul",
@@ -4928,7 +4928,7 @@
     "description": "eu dui. Cum sociis natoque penatibus",
     "postingDate": "2023-11-16"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 353,
     "companyName": "Fringilla Donec Feugiat LLP",
     "jobTitle": "Grace Cleveland",
@@ -4942,7 +4942,7 @@
     "description": "Etiam bibendum fermentum metus. Aenean",
     "postingDate": "2021-07-30"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 354,
     "companyName": "Nunc Limited",
     "jobTitle": "Thane Clayton",
@@ -4956,7 +4956,7 @@
     "description": "lectus, a sollicitudin orci sem eget massa. Suspendisse",
     "postingDate": "2021-02-18"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 355,
     "companyName": "Vulputate PC",
     "jobTitle": "Jasmine Mercado",
@@ -4970,7 +4970,7 @@
     "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing",
     "postingDate": "2022-06-24"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 356,
     "companyName": "Etiam Corp.",
     "jobTitle": "Wang Copeland",
@@ -4984,7 +4984,7 @@
     "description": "eget massa.",
     "postingDate": "2023-02-10"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 357,
     "companyName": "Ipsum Dolor Corporation",
     "jobTitle": "Dante Barlow",
@@ -4998,7 +4998,7 @@
     "description": "erat vitae risus. Duis a mi fringilla mi lacinia mattis.",
     "postingDate": "2023-03-17"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 358,
     "companyName": "Orci Consectetuer Foundation",
     "jobTitle": "Kelsie Hoffman",
@@ -5012,7 +5012,7 @@
     "description": "ligula. Aliquam erat volutpat. Nulla dignissim. Maecenas ornare egestas ligula.",
     "postingDate": "2022-11-02"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 359,
     "companyName": "Orci Incorporated",
     "jobTitle": "Jennifer Munoz",
@@ -5026,7 +5026,7 @@
     "description": "a neque. Nullam ut nisi a",
     "postingDate": "2021-08-23"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 360,
     "companyName": "Fusce Mi Lorem Ltd",
     "jobTitle": "Geraldine Marshall",
@@ -5040,7 +5040,7 @@
     "description": "eu tellus. Phasellus elit pede, malesuada vel, venenatis",
     "postingDate": "2021-12-02"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 361,
     "companyName": "Morbi Quis Urna Limited",
     "jobTitle": "Athena Solis",
@@ -5054,7 +5054,7 @@
     "description": "Sed neque. Sed",
     "postingDate": "2022-01-12"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 362,
     "companyName": "Tincidunt Nibh Phasellus LLC",
     "jobTitle": "Craig Jarvis",
@@ -5068,7 +5068,7 @@
     "description": "erat volutpat. Nulla facilisis. Suspendisse commodo",
     "postingDate": "2023-03-22"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 363,
     "companyName": "Ligula Aliquam Erat Incorporated",
     "jobTitle": "Freya Reyes",
@@ -5082,7 +5082,7 @@
     "description": "magnis dis parturient montes, nascetur ridiculus mus. Proin vel",
     "postingDate": "2023-11-25"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 364,
     "companyName": "Orci Industries",
     "jobTitle": "Brett Monroe",
@@ -5096,7 +5096,7 @@
     "description": "et",
     "postingDate": "2021-02-20"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 365,
     "companyName": "Sed Molestie Inc.",
     "jobTitle": "Josephine Scott",
@@ -5110,7 +5110,7 @@
     "description": "quis diam. Pellentesque habitant morbi tristique senectus",
     "postingDate": "2022-09-29"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 366,
     "companyName": "Feugiat PC",
     "jobTitle": "Dora Massey",
@@ -5124,7 +5124,7 @@
     "description": "Vivamus nibh dolor, nonummy ac, feugiat non, lobortis quis,",
     "postingDate": "2020-08-10"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 367,
     "companyName": "Et Malesuada Fames Corp.",
     "jobTitle": "Regan Berry",
@@ -5138,7 +5138,7 @@
     "description": "quis accumsan convallis, ante lectus",
     "postingDate": "2020-08-20"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 368,
     "companyName": "Porttitor Interdum Sed LLC",
     "jobTitle": "Melinda Prince",
@@ -5152,7 +5152,7 @@
     "description": "In lorem. Donec elementum, lorem ut aliquam",
     "postingDate": "2023-09-23"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 369,
     "companyName": "Vulputate LLC",
     "jobTitle": "Mariko Reyes",
@@ -5166,7 +5166,7 @@
     "description": "nec, imperdiet nec, leo. Morbi",
     "postingDate": "2020-09-10"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 370,
     "companyName": "Congue Elit Foundation",
     "jobTitle": "Ross Roth",
@@ -5180,7 +5180,7 @@
     "description": "Phasellus vitae",
     "postingDate": "2020-02-26"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 371,
     "companyName": "Nec Metus Facilisis Associates",
     "jobTitle": "Oscar Sandoval",
@@ -5194,7 +5194,7 @@
     "description": "egestas. Fusce aliquet magna a",
     "postingDate": "2022-07-25"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 372,
     "companyName": "In Sodales Incorporated",
     "jobTitle": "Aladdin Bridges",
@@ -5208,7 +5208,7 @@
     "description": "nec mauris blandit mattis. Cras eget nisi dictum",
     "postingDate": "2023-01-08"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 373,
     "companyName": "Tellus Aenean Egestas PC",
     "jobTitle": "Nolan Sanford",
@@ -5222,7 +5222,7 @@
     "description": "elit, a feugiat tellus lorem eu",
     "postingDate": "2020-11-11"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 374,
     "companyName": "Lorem Incorporated",
     "jobTitle": "Wendy Meadows",
@@ -5236,7 +5236,7 @@
     "description": "Proin vel arcu eu odio tristique pharetra. Quisque",
     "postingDate": "2024-02-21"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 375,
     "companyName": "At Auctor Industries",
     "jobTitle": "Alfreda Wilkins",
@@ -5250,7 +5250,7 @@
     "description": "faucibus leo, in lobortis tellus justo",
     "postingDate": "2023-07-10"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 376,
     "companyName": "Rutrum Lorem Institute",
     "jobTitle": "Walker Rice",
@@ -5264,7 +5264,7 @@
     "description": "ac tellus. Suspendisse sed dolor. Fusce mi",
     "postingDate": "2022-06-20"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 377,
     "companyName": "Non Luctus Ltd",
     "jobTitle": "Graiden Bass",
@@ -5278,7 +5278,7 @@
     "description": "tempus mauris erat eget",
     "postingDate": "2021-04-15"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 378,
     "companyName": "Dictum Proin Incorporated",
     "jobTitle": "Christian Boyd",
@@ -5292,7 +5292,7 @@
     "description": "vulputate,",
     "postingDate": "2022-10-11"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 379,
     "companyName": "Laoreet Lectus Incorporated",
     "jobTitle": "Dolan Kirby",
@@ -5306,7 +5306,7 @@
     "description": "mauris sapien, cursus in, hendrerit consectetuer,",
     "postingDate": "2021-10-09"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 380,
     "companyName": "Metus Limited",
     "jobTitle": "Sybill Lee",
@@ -5320,7 +5320,7 @@
     "description": "sapien. Cras dolor dolor, tempus non, lacinia at,",
     "postingDate": "2020-04-24"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 381,
     "companyName": "Velit Dui Limited",
     "jobTitle": "Blossom Gay",
@@ -5334,7 +5334,7 @@
     "description": "bibendum fermentum metus. Aenean sed pede",
     "postingDate": "2020-04-30"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 382,
     "companyName": "Nullam Ltd",
     "jobTitle": "Gloria Dunlap",
@@ -5348,7 +5348,7 @@
     "description": "a, magna. Lorem ipsum dolor sit",
     "postingDate": "2022-03-15"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 383,
     "companyName": "Lacinia At Iaculis LLP",
     "jobTitle": "Idola Chase",
@@ -5362,7 +5362,7 @@
     "description": "lorem ac risus. Morbi metus. Vivamus euismod urna.",
     "postingDate": "2020-10-22"
   },
-  {
+  { "skills": ["Android", "Kotlin"],
     "id": 384,
     "companyName": "Id Ltd",
     "jobTitle": "Chava Wilkinson",
@@ -5376,7 +5376,7 @@
     "description": "fames ac turpis egestas. Aliquam fringilla cursus purus.",
     "postingDate": "2021-11-05"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 385,
     "companyName": "Dolor Nonummy Institute",
     "jobTitle": "Dora Cobb",
@@ -5390,7 +5390,7 @@
     "description": "dictum eleifend, nunc risus varius orci,",
     "postingDate": "2021-06-25"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 386,
     "companyName": "Enim Consequat Purus Industries",
     "jobTitle": "Desirae Cannon",
@@ -5404,7 +5404,7 @@
     "description": "magnis dis",
     "postingDate": "2020-11-14"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 387,
     "companyName": "Adipiscing Industries",
     "jobTitle": "Gil Hester",
@@ -5418,7 +5418,7 @@
     "description": "Phasellus elit pede, malesuada vel, venenatis vel,",
     "postingDate": "2020-05-06"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 388,
     "companyName": "Amet Faucibus Foundation",
     "jobTitle": "Abel Patel",
@@ -5432,7 +5432,7 @@
     "description": "dictum augue malesuada malesuada. Integer id magna et",
     "postingDate": "2021-04-12"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 389,
     "companyName": "Netus Associates",
     "jobTitle": "Keely Ross",
@@ -5446,7 +5446,7 @@
     "description": "ac urna.",
     "postingDate": "2022-07-04"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 390,
     "companyName": "Augue Malesuada Malesuada LLC",
     "jobTitle": "Nayda Peterson",
@@ -5460,7 +5460,7 @@
     "description": "a feugiat",
     "postingDate": "2023-12-02"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 391,
     "companyName": "Libero Associates",
     "jobTitle": "Penelope Banks",
@@ -5474,7 +5474,7 @@
     "description": "elit pede, malesuada vel, venenatis vel,",
     "postingDate": "2022-05-19"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 392,
     "companyName": "Neque Sed LLP",
     "jobTitle": "Odessa Conrad",
@@ -5488,7 +5488,7 @@
     "description": "laoreet lectus quis massa.",
     "postingDate": "2024-01-21"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 393,
     "companyName": "Eu Metus Inc.",
     "jobTitle": "Cameran Peters",
@@ -5502,7 +5502,7 @@
     "description": "velit. Aliquam nisl.",
     "postingDate": "2021-09-14"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 394,
     "companyName": "At Lacus Associates",
     "jobTitle": "George Dawson",
@@ -5516,7 +5516,7 @@
     "description": "lectus pede, ultrices a, auctor",
     "postingDate": "2021-08-21"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 395,
     "companyName": "Lorem PC",
     "jobTitle": "Amanda Cochran",
@@ -5530,7 +5530,7 @@
     "description": "sit amet",
     "postingDate": "2022-07-24"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 396,
     "companyName": "Elit Elit LLC",
     "jobTitle": "Cassady Cooley",
@@ -5544,7 +5544,7 @@
     "description": "arcu. Vestibulum ut eros non enim commodo",
     "postingDate": "2021-06-17"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 397,
     "companyName": "Egestas Urna Incorporated",
     "jobTitle": "Griffith Rice",
@@ -5558,7 +5558,7 @@
     "description": "risus. In mi pede,",
     "postingDate": "2023-09-19"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 398,
     "companyName": "Sapien Aenean Foundation",
     "jobTitle": "Karly Stephenson",
@@ -5572,7 +5572,7 @@
     "description": "quis turpis vitae",
     "postingDate": "2020-04-01"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 399,
     "companyName": "Parturient Foundation",
     "jobTitle": "Rosalyn Alvarado",
@@ -5586,7 +5586,7 @@
     "description": "magna",
     "postingDate": "2023-02-16"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 400,
     "companyName": "A Sollicitudin Orci Corp.",
     "jobTitle": "Jin Davenport",
@@ -5600,7 +5600,7 @@
     "description": "risus varius orci,",
     "postingDate": "2023-04-19"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 401,
     "companyName": "Fermentum Arcu Vestibulum Limited",
     "jobTitle": "Tobias Lowe",
@@ -5614,7 +5614,7 @@
     "description": "Cras vulputate velit eu",
     "postingDate": "2022-03-07"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 402,
     "companyName": "Odio Etiam Ligula Associates",
     "jobTitle": "Lucas Woodard",
@@ -5628,7 +5628,7 @@
     "description": "est tempor",
     "postingDate": "2021-10-20"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 403,
     "companyName": "At Corp.",
     "jobTitle": "Omar Grant",
@@ -5642,7 +5642,7 @@
     "description": "egestas ligula. Nullam feugiat placerat velit. Quisque",
     "postingDate": "2021-08-18"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 404,
     "companyName": "Urna Ut LLC",
     "jobTitle": "Quentin Mays",
@@ -5656,7 +5656,7 @@
     "description": "a, scelerisque sed,",
     "postingDate": "2021-06-25"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 405,
     "companyName": "Semper Egestas Foundation",
     "jobTitle": "Aurelia Kelley",
@@ -5670,7 +5670,7 @@
     "description": "eu lacus. Quisque imperdiet, erat nonummy ultricies ornare,",
     "postingDate": "2020-05-24"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 406,
     "companyName": "Vivamus LLC",
     "jobTitle": "Damon Graves",
@@ -5684,7 +5684,7 @@
     "description": "mauris a nunc.",
     "postingDate": "2022-07-03"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 407,
     "companyName": "Morbi PC",
     "jobTitle": "Perry Mooney",
@@ -5698,7 +5698,7 @@
     "description": "lacus pede",
     "postingDate": "2023-11-22"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 408,
     "companyName": "Nec Tempus Mauris Ltd",
     "jobTitle": "Ulla Mckinney",
@@ -5712,7 +5712,7 @@
     "description": "amet ante. Vivamus non lorem vitae",
     "postingDate": "2021-10-05"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 409,
     "companyName": "Sociis Natoque PC",
     "jobTitle": "Louis Mathis",
@@ -5726,7 +5726,7 @@
     "description": "eget, volutpat ornare, facilisis eget, ipsum.",
     "postingDate": "2023-10-20"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 410,
     "companyName": "At Pretium Corporation",
     "jobTitle": "Honorato Young",
@@ -5740,7 +5740,7 @@
     "description": "blandit viverra. Donec tempus, lorem fringilla ornare",
     "postingDate": "2022-09-18"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 411,
     "companyName": "Fermentum Arcu Vestibulum PC",
     "jobTitle": "Davis Washington",
@@ -5754,7 +5754,7 @@
     "description": "ac mattis ornare, lectus ante",
     "postingDate": "2023-11-23"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 412,
     "companyName": "Ac Fermentum Industries",
     "jobTitle": "Chava Perry",
@@ -5768,7 +5768,7 @@
     "description": "Vestibulum ut eros",
     "postingDate": "2021-09-22"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 413,
     "companyName": "Dictum Foundation",
     "jobTitle": "Cassidy Frank",
@@ -5782,7 +5782,7 @@
     "description": "sed sem egestas blandit. Nam nulla magna, malesuada vel,",
     "postingDate": "2023-10-09"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 414,
     "companyName": "Sapien Aenean Massa Corp.",
     "jobTitle": "Gavin Diaz",
@@ -5796,7 +5796,7 @@
     "description": "Sed diam lorem, auctor quis, tristique ac, eleifend vitae, erat.",
     "postingDate": "2021-01-15"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 415,
     "companyName": "Luctus Et Ultrices Foundation",
     "jobTitle": "Lester Holland",
@@ -5810,7 +5810,7 @@
     "description": "sociis natoque penatibus et magnis dis parturient",
     "postingDate": "2022-07-26"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 416,
     "companyName": "Risus LLP",
     "jobTitle": "Lev Frost",
@@ -5824,7 +5824,7 @@
     "description": "Integer id magna et ipsum cursus vestibulum. Mauris magna.",
     "postingDate": "2022-08-28"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 417,
     "companyName": "Nisi A Associates",
     "jobTitle": "Richard Molina",
@@ -5838,7 +5838,7 @@
     "description": "amet metus. Aliquam erat volutpat. Nulla",
     "postingDate": "2023-04-29"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 418,
     "companyName": "Quisque Varius Associates",
     "jobTitle": "Mari Schmidt",
@@ -5852,7 +5852,7 @@
     "description": "arcu iaculis enim, sit amet ornare lectus justo",
     "postingDate": "2022-09-16"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 419,
     "companyName": "Nonummy Fusce Fermentum PC",
     "jobTitle": "Quin Carey",
@@ -5866,7 +5866,7 @@
     "description": "blandit mattis. Cras eget nisi dictum augue malesuada malesuada. Integer",
     "postingDate": "2021-11-24"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 420,
     "companyName": "Quis Pede Corp.",
     "jobTitle": "Brynn Key",
@@ -5880,7 +5880,7 @@
     "description": "purus. Maecenas libero est, congue a, aliquet",
     "postingDate": "2024-01-31"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 421,
     "companyName": "Tellus Nunc Institute",
     "jobTitle": "Mark Smith",
@@ -5894,7 +5894,7 @@
     "description": "lobortis ultrices. Vivamus rhoncus.",
     "postingDate": "2023-08-06"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 422,
     "companyName": "Nec Enim Nunc Foundation",
     "jobTitle": "Emily English",
@@ -5908,7 +5908,7 @@
     "description": "massa",
     "postingDate": "2023-12-15"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 423,
     "companyName": "Sapien Aenean Massa Ltd",
     "jobTitle": "Ralph Joseph",
@@ -5922,7 +5922,7 @@
     "description": "In lorem. Donec elementum, lorem",
     "postingDate": "2023-10-04"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 424,
     "companyName": "Nascetur Ridiculus LLC",
     "jobTitle": "Cally Douglas",
@@ -5936,7 +5936,7 @@
     "description": "dapibus gravida. Aliquam tincidunt, nunc",
     "postingDate": "2023-09-25"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 425,
     "companyName": "Vivamus Nisi Limited",
     "jobTitle": "Jonah Suarez",
@@ -5950,7 +5950,7 @@
     "description": "nibh vulputate mauris sagittis placerat. Cras dictum",
     "postingDate": "2023-08-06"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 426,
     "companyName": "Eu Nibh Corp.",
     "jobTitle": "Leslie Harmon",
@@ -5964,7 +5964,7 @@
     "description": "ultrices, mauris ipsum porta elit, a feugiat tellus lorem eu",
     "postingDate": "2022-10-13"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 427,
     "companyName": "Bibendum Fermentum Foundation",
     "jobTitle": "Lane James",
@@ -5978,7 +5978,7 @@
     "description": "sem, consequat nec, mollis vitae, posuere at, velit.",
     "postingDate": "2022-02-11"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 428,
     "companyName": "Sociis Natoque LLP",
     "jobTitle": "Cailin Mccall",
@@ -5992,7 +5992,7 @@
     "description": "Cras",
     "postingDate": "2023-06-08"
   },
-  {
+  { "skills": ["React.js", "Redux", "React Native"],
     "id": 429,
     "companyName": "Arcu Ltd",
     "jobTitle": "Alexander Figueroa",
@@ -6006,7 +6006,7 @@
     "description": "amet ante. Vivamus non lorem vitae odio",
     "postingDate": "2021-02-27"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 430,
     "companyName": "Et Malesuada Fames Industries",
     "jobTitle": "Leo Valentine",
@@ -6020,7 +6020,7 @@
     "description": "ultricies sem magna",
     "postingDate": "2021-05-19"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 431,
     "companyName": "Ridiculus Industries",
     "jobTitle": "Wylie Hahn",
@@ -6034,7 +6034,7 @@
     "description": "lacus pede",
     "postingDate": "2020-07-29"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 432,
     "companyName": "Aliquam Eros Turpis Corporation",
     "jobTitle": "Trevor Clements",
@@ -6048,7 +6048,7 @@
     "description": "risus. Donec",
     "postingDate": "2021-04-27"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 433,
     "companyName": "Pellentesque Massa Ltd",
     "jobTitle": "Linus Glenn",
@@ -6062,7 +6062,7 @@
     "description": "interdum libero dui nec ipsum.",
     "postingDate": "2022-09-30"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 434,
     "companyName": "Vulputate Dui Associates",
     "jobTitle": "Leilani Morales",
@@ -6076,7 +6076,7 @@
     "description": "felis. Donec tempor, est ac",
     "postingDate": "2022-01-30"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 435,
     "companyName": "Enim Limited",
     "jobTitle": "Zeus Murphy",
@@ -6090,7 +6090,7 @@
     "description": "felis. Nulla tempor augue ac ipsum. Phasellus vitae mauris",
     "postingDate": "2022-07-20"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 436,
     "companyName": "Libero Nec Associates",
     "jobTitle": "Penelope Powell",
@@ -6104,7 +6104,7 @@
     "description": "lacus. Etiam bibendum fermentum metus. Aenean sed",
     "postingDate": "2022-12-19"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 437,
     "companyName": "Sit Amet Consectetuer LLC",
     "jobTitle": "Sebastian Blevins",
@@ -6118,7 +6118,7 @@
     "description": "Nam consequat dolor vitae dolor. Donec fringilla.",
     "postingDate": "2023-09-15"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 438,
     "companyName": "Diam Luctus Lobortis Corporation",
     "jobTitle": "Magee Mccoy",
@@ -6132,7 +6132,7 @@
     "description": "sagittis. Nullam",
     "postingDate": "2021-03-09"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 439,
     "companyName": "Sem Eget Foundation",
     "jobTitle": "Noble Bowers",
@@ -6146,7 +6146,7 @@
     "description": "lacinia orci, consectetuer",
     "postingDate": "2021-03-25"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 440,
     "companyName": "Ultricies Dignissim Limited",
     "jobTitle": "Merrill Charles",
@@ -6160,7 +6160,7 @@
     "description": "semper.",
     "postingDate": "2021-06-18"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 441,
     "companyName": "Augue Malesuada LLC",
     "jobTitle": "Jason Hoover",
@@ -6174,7 +6174,7 @@
     "description": "elit. Etiam laoreet, libero et tristique pellentesque, tellus sem",
     "postingDate": "2020-02-27"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 442,
     "companyName": "Ut Nec Corporation",
     "jobTitle": "Wyatt Avila",
@@ -6188,7 +6188,7 @@
     "description": "sapien. Cras dolor dolor, tempus",
     "postingDate": "2021-07-21"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 443,
     "companyName": "Phasellus Foundation",
     "jobTitle": "Scarlet Mcgee",
@@ -6202,7 +6202,7 @@
     "description": "in felis. Nulla tempor augue ac ipsum. Phasellus vitae",
     "postingDate": "2023-09-22"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 444,
     "companyName": "Nunc Risus Limited",
     "jobTitle": "Alma Yates",
@@ -6216,7 +6216,7 @@
     "description": "eget metus. In nec orci. Donec nibh. Quisque",
     "postingDate": "2022-07-02"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 445,
     "companyName": "Accumsan Laoreet Ipsum Inc.",
     "jobTitle": "Wade Baldwin",
@@ -6230,7 +6230,7 @@
     "description": "scelerisque dui. Suspendisse",
     "postingDate": "2020-11-13"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 446,
     "companyName": "Molestie In Tempus Institute",
     "jobTitle": "Germane Trujillo",
@@ -6244,7 +6244,7 @@
     "description": "Mauris magna. Duis dignissim tempor arcu.",
     "postingDate": "2021-03-23"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 447,
     "companyName": "Rutrum Magna Cras LLP",
     "jobTitle": "Wyoming Morrow",
@@ -6258,7 +6258,7 @@
     "description": "risus a ultricies adipiscing, enim mi tempor lorem, eget mollis",
     "postingDate": "2023-09-30"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 448,
     "companyName": "Adipiscing Lacus Corp.",
     "jobTitle": "Ginger Ochoa",
@@ -6272,7 +6272,7 @@
     "description": "penatibus et magnis",
     "postingDate": "2024-02-14"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 449,
     "companyName": "Vulputate Mauris Associates",
     "jobTitle": "Margaret Dickson",
@@ -6286,7 +6286,7 @@
     "description": "Etiam vestibulum massa",
     "postingDate": "2023-10-15"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 450,
     "companyName": "Nibh Aliquam Industries",
     "jobTitle": "Cheryl Taylor",
@@ -6300,7 +6300,7 @@
     "description": "non, bibendum",
     "postingDate": "2021-06-13"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 451,
     "companyName": "Aliquam Adipiscing Company",
     "jobTitle": "Moana Mccormick",
@@ -6314,7 +6314,7 @@
     "description": "Quisque ac libero nec ligula consectetuer rhoncus.",
     "postingDate": "2020-03-08"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 452,
     "companyName": "Gravida Praesent Limited",
     "jobTitle": "Bruno Kane",
@@ -6328,7 +6328,7 @@
     "description": "neque. Nullam ut nisi a odio",
     "postingDate": "2022-06-20"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 453,
     "companyName": "Venenatis Vel Corporation",
     "jobTitle": "Winter Mason",
@@ -6342,7 +6342,7 @@
     "description": "felis orci, adipiscing non, luctus sit amet, faucibus ut,",
     "postingDate": "2021-07-26"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 454,
     "companyName": "Turpis Egestas Corporation",
     "jobTitle": "Tobias Glover",
@@ -6356,7 +6356,7 @@
     "description": "nec",
     "postingDate": "2023-08-01"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 455,
     "companyName": "Dolor Tempus Non Inc.",
     "jobTitle": "Simon Rosario",
@@ -6370,7 +6370,7 @@
     "description": "mi fringilla mi lacinia mattis. Integer eu lacus. Quisque",
     "postingDate": "2022-03-27"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 456,
     "companyName": "Id Sapien Limited",
     "jobTitle": "Camille Warner",
@@ -6384,7 +6384,7 @@
     "description": "sollicitudin a, malesuada id,",
     "postingDate": "2022-10-08"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 457,
     "companyName": "Nulla Cras Consulting",
     "jobTitle": "Cecilia Sharpe",
@@ -6398,7 +6398,7 @@
     "description": "eu nibh vulputate mauris sagittis placerat. Cras dictum ultricies",
     "postingDate": "2020-05-03"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 458,
     "companyName": "Facilisis Suspendisse Commodo Corporation",
     "jobTitle": "Cally Duncan",
@@ -6412,7 +6412,7 @@
     "description": "fringilla, porttitor vulputate, posuere vulputate, lacus. Cras interdum. Nunc",
     "postingDate": "2020-09-24"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 459,
     "companyName": "Quisque Tincidunt Ltd",
     "jobTitle": "Guinevere Russo",
@@ -6426,7 +6426,7 @@
     "description": "et, magna. Praesent interdum ligula eu enim. Etiam",
     "postingDate": "2022-05-17"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 460,
     "companyName": "Vestibulum Lorem Ltd",
     "jobTitle": "Galena Owen",
@@ -6440,7 +6440,7 @@
     "description": "et nunc. Quisque ornare tortor at risus.",
     "postingDate": "2021-07-02"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 461,
     "companyName": "Tellus Corporation",
     "jobTitle": "Elvis Gallegos",
@@ -6454,7 +6454,7 @@
     "description": "Nunc ut erat. Sed nunc est, mollis non, cursus",
     "postingDate": "2021-09-17"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 462,
     "companyName": "Malesuada Fames LLP",
     "jobTitle": "Natalie Owens",
@@ -6468,7 +6468,7 @@
     "description": "Vivamus euismod urna. Nullam lobortis quam",
     "postingDate": "2021-12-21"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 463,
     "companyName": "Vel Nisl Associates",
     "jobTitle": "Nyssa Huber",
@@ -6482,7 +6482,7 @@
     "description": "pellentesque, tellus sem mollis dui,",
     "postingDate": "2023-06-23"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 464,
     "companyName": "Vel Sapien PC",
     "jobTitle": "Branden Crane",
@@ -6496,7 +6496,7 @@
     "description": "leo. Morbi neque tellus, imperdiet non, vestibulum nec, euismod in,",
     "postingDate": "2023-07-05"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 465,
     "companyName": "Faucibus Corporation",
     "jobTitle": "Idola Richard",
@@ -6510,7 +6510,7 @@
     "description": "fermentum vel, mauris. Integer sem elit,",
     "postingDate": "2021-06-10"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 466,
     "companyName": "Non Magna Limited",
     "jobTitle": "Brett Nixon",
@@ -6524,7 +6524,7 @@
     "description": "in consequat enim diam vel arcu. Curabitur",
     "postingDate": "2021-09-23"
   },
-  {
+  { "skills": ["React.js", "Redux", "HTML"],
     "id": 467,
     "companyName": "Semper Nam LLC",
     "jobTitle": "Cooper Stout",
@@ -6538,7 +6538,7 @@
     "description": "neque. Nullam",
     "postingDate": "2020-10-09"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 468,
     "companyName": "Arcu Associates",
     "jobTitle": "Kibo Lindsey",
@@ -6552,7 +6552,7 @@
     "description": "nunc, ullamcorper eu, euismod",
     "postingDate": "2020-03-27"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 469,
     "companyName": "Egestas Nunc Inc.",
     "jobTitle": "Callum Ray",
@@ -6566,7 +6566,7 @@
     "description": "elit erat vitae risus. Duis a",
     "postingDate": "2021-03-28"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 470,
     "companyName": "Ante Foundation",
     "jobTitle": "Hedley Ratliff",
@@ -6580,7 +6580,7 @@
     "description": "felis. Donec tempor, est ac mattis semper, dui",
     "postingDate": "2021-05-04"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 471,
     "companyName": "Phasellus Foundation",
     "jobTitle": "Kasper Dyer",
@@ -6594,7 +6594,7 @@
     "description": "facilisi. Sed neque. Sed eget lacus. Mauris non",
     "postingDate": "2020-06-10"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 472,
     "companyName": "Consectetuer Rhoncus Corp.",
     "jobTitle": "Hermione Dennis",
@@ -6608,7 +6608,7 @@
     "description": "vel",
     "postingDate": "2023-07-01"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 473,
     "companyName": "Et Ultrices Foundation",
     "jobTitle": "Xena Dickson",
@@ -6622,7 +6622,7 @@
     "description": "Donec fringilla. Donec feugiat metus",
     "postingDate": "2023-06-03"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 474,
     "companyName": "Vel Est PC",
     "jobTitle": "Teegan Fry",
@@ -6636,7 +6636,7 @@
     "description": "Donec elementum, lorem ut aliquam iaculis, lacus",
     "postingDate": "2023-04-06"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 475,
     "companyName": "Purus Ac Tellus Corporation",
     "jobTitle": "Maile Young",
@@ -6650,7 +6650,7 @@
     "description": "vitae odio sagittis",
     "postingDate": "2022-04-24"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 476,
     "companyName": "Pellentesque Massa LLP",
     "jobTitle": "Scott Key",
@@ -6664,7 +6664,7 @@
     "description": "ut mi. Duis risus",
     "postingDate": "2022-08-12"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 477,
     "companyName": "Lorem Ut Limited",
     "jobTitle": "Halee Cardenas",
@@ -6678,7 +6678,7 @@
     "description": "massa. Vestibulum accumsan neque et",
     "postingDate": "2021-07-03"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 478,
     "companyName": "Dapibus Gravida Associates",
     "jobTitle": "Hiroko Wallace",
@@ -6692,7 +6692,7 @@
     "description": "Fusce aliquam, enim nec tempus scelerisque, lorem ipsum sodales",
     "postingDate": "2022-09-12"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 479,
     "companyName": "Ac LLC",
     "jobTitle": "Ginger Weiss",
@@ -6706,7 +6706,7 @@
     "description": "nunc. Quisque ornare tortor at risus. Nunc ac sem",
     "postingDate": "2020-05-06"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 480,
     "companyName": "Fringilla Donec Institute",
     "jobTitle": "Melyssa Christensen",
@@ -6720,7 +6720,7 @@
     "description": "dis parturient montes, nascetur ridiculus mus. Aenean eget magna.",
     "postingDate": "2020-04-15"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 481,
     "companyName": "Nunc Mauris Institute",
     "jobTitle": "Leigh Keith",
@@ -6734,7 +6734,7 @@
     "description": "arcu imperdiet ullamcorper.",
     "postingDate": "2022-11-20"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 482,
     "companyName": "Arcu Foundation",
     "jobTitle": "Galvin Burris",
@@ -6748,7 +6748,7 @@
     "description": "at, iaculis",
     "postingDate": "2021-10-15"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 483,
     "companyName": "Dictum Eu Eleifend Corp.",
     "jobTitle": "Kaye Dyer",
@@ -6762,7 +6762,7 @@
     "description": "Maecenas mi felis, adipiscing fringilla, porttitor vulputate, posuere",
     "postingDate": "2021-02-03"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 484,
     "companyName": "Est Mauris Eu Consulting",
     "jobTitle": "Alice Horton",
@@ -6776,7 +6776,7 @@
     "description": "ante ipsum primis in faucibus orci luctus et ultrices",
     "postingDate": "2021-07-02"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 485,
     "companyName": "Pede Suspendisse Institute",
     "jobTitle": "Bernard Sparks",
@@ -6790,7 +6790,7 @@
     "description": "tempor lorem, eget mollis lectus pede",
     "postingDate": "2021-10-07"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 486,
     "companyName": "Nunc Lectus Incorporated",
     "jobTitle": "Malik Quinn",
@@ -6804,7 +6804,7 @@
     "description": "sit amet, risus. Donec nibh enim, gravida sit amet, dapibus",
     "postingDate": "2021-03-22"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 487,
     "companyName": "In LLP",
     "jobTitle": "Walter Pacheco",
@@ -6818,7 +6818,7 @@
     "description": "penatibus et magnis dis parturient montes,",
     "postingDate": "2020-03-04"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 488,
     "companyName": "Lectus Limited",
     "jobTitle": "Leila Summers",
@@ -6832,7 +6832,7 @@
     "description": "mollis vitae, posuere at, velit. Cras lorem lorem, luctus",
     "postingDate": "2023-10-23"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 489,
     "companyName": "Nam Porttitor Scelerisque Limited",
     "jobTitle": "Violet Morin",
@@ -6846,7 +6846,7 @@
     "description": "enim, condimentum",
     "postingDate": "2021-07-02"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 490,
     "companyName": "Auctor Vitae Corporation",
     "jobTitle": "Jonah Kelley",
@@ -6860,7 +6860,7 @@
     "description": "sed tortor. Integer aliquam adipiscing lacus. Ut",
     "postingDate": "2023-02-25"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 491,
     "companyName": "Ac Orci Corp.",
     "jobTitle": "Naida Stevens",
@@ -6874,7 +6874,7 @@
     "description": "lacus. Aliquam rutrum lorem ac risus. Morbi metus. Vivamus",
     "postingDate": "2024-01-20"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 492,
     "companyName": "Rutrum Lorem Industries",
     "jobTitle": "Reece Beach",
@@ -6888,7 +6888,7 @@
     "description": "egestas. Aliquam fringilla cursus purus. Nullam scelerisque neque sed sem",
     "postingDate": "2021-11-12"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 493,
     "companyName": "Maecenas Mi Incorporated",
     "jobTitle": "Shay Nieves",
@@ -6902,7 +6902,7 @@
     "description": "justo faucibus lectus, a sollicitudin",
     "postingDate": "2020-04-24"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 494,
     "companyName": "Urna Vivamus Molestie Industries",
     "jobTitle": "Imelda Wilcox",
@@ -6916,7 +6916,7 @@
     "description": "Sed congue, elit sed consequat auctor,",
     "postingDate": "2020-05-08"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 495,
     "companyName": "Vulputate Velit Company",
     "jobTitle": "Sheila Oneal",
@@ -6930,7 +6930,7 @@
     "description": "hendrerit neque. In ornare sagittis felis. Donec tempor, est",
     "postingDate": "2022-10-11"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 496,
     "companyName": "Risus At PC",
     "jobTitle": "Jorden Colon",
@@ -6944,7 +6944,7 @@
     "description": "lacus. Cras interdum.",
     "postingDate": "2021-06-19"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 497,
     "companyName": "Semper Et Industries",
     "jobTitle": "Deirdre Stephens",
@@ -6958,7 +6958,7 @@
     "description": "velit egestas lacinia. Sed congue, elit sed consequat auctor,",
     "postingDate": "2020-05-21"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 498,
     "companyName": "Quisque Varius Nam Corp.",
     "jobTitle": "Zelda Simon",
@@ -6972,7 +6972,7 @@
     "description": "fringilla est. Mauris",
     "postingDate": "2021-12-08"
   },
-  {
+  { "skills": ["React.js", "Javascript", "HTML"],
     "id": 499,
     "companyName": "Imperdiet Industries",
     "jobTitle": "Bryar Leach",
@@ -6986,7 +6986,7 @@
     "description": "Praesent eu nulla at sem molestie sodales.",
     "postingDate": "2023-04-03"
   },
-  {
+  { "skills": ["CSS", "Javascript", "HTML"],
     "id": 500,
     "companyName": "In Faucibus Morbi Industries",
     "jobTitle": "Graiden Montoya",
@@ -7000,7 +7000,7 @@
     "description": "interdum ligula eu enim.",
     "postingDate": "2022-04-16"
   },
-  {
+  { "skills": ["CSS", "Javascript", "HTML"],
     "id": 501,
     "companyName": "Sed Eu Ltd",
     "jobTitle": "Byron Cherry",
@@ -7014,7 +7014,7 @@
     "description": "lorem vitae odio sagittis semper. Nam tempor",
     "postingDate": "2021-12-16"
   },
-  {
+  { "skills": ["CSS", "Javascript", "HTML"],
     "id": 502,
     "companyName": "Et Associates",
     "jobTitle": "Malachi Langley",
@@ -7028,7 +7028,7 @@
     "description": "Aenean eget",
     "postingDate": "2022-08-13"
   },
-  {
+  { "skills": ["CSS", "Javascript", "HTML"],
     "id": 503,
     "companyName": "Eget Odio Aliquam Institute",
     "jobTitle": "Hedy Caldwell",
@@ -7042,7 +7042,7 @@
     "description": "purus ac tellus. Suspendisse sed dolor. Fusce mi lorem,",
     "postingDate": "2023-01-27"
   },
-  {
+  { "skills": ["CSS", "Javascript", "HTML"],
     "id": 504,
     "companyName": "Curabitur Egestas Nunc Corporation",
     "jobTitle": "Deirdre Carlson",
@@ -7056,7 +7056,7 @@
     "description": "consectetuer adipiscing elit.",
     "postingDate": "2020-09-24"
   },
-  {
+  { "skills": ["CSS", "Javascript", "HTML"],
     "id": 505,
     "companyName": "Neque Nullam LLC",
     "jobTitle": "Kelly Rich",
@@ -7070,7 +7070,7 @@
     "description": "molestie dapibus ligula. Aliquam erat volutpat. Nulla dignissim. Maecenas ornare",
     "postingDate": "2023-02-20"
   },
-  {
+  { "skills": ["CSS", "Javascript", "HTML"],
     "id": 506,
     "companyName": "Interdum Feugiat Institute",
     "jobTitle": "Celeste Nicholson",
@@ -7084,7 +7084,7 @@
     "description": "dis",
     "postingDate": "2022-11-05"
   },
-  {
+  { "skills": ["CSS", "Javascript", "HTML"],
     "id": 507,
     "companyName": "Gravida Sit Associates",
     "jobTitle": "Callie Singleton",
@@ -7098,7 +7098,7 @@
     "description": "dolor. Fusce mi lorem, vehicula et, rutrum eu, ultrices",
     "postingDate": "2024-01-02"
   },
-  {
+  { "skills": ["CSS", "Javascript", "HTML"],
     "id": 508,
     "companyName": "Elementum Dui LLC",
     "jobTitle": "Aidan Coffey",
@@ -7112,7 +7112,7 @@
     "description": "ante blandit viverra.",
     "postingDate": "2022-07-06"
   },
-  {
+  { "skills": ["CSS", "Javascript", "HTML"],
     "id": 509,
     "companyName": "Duis Volutpat Nunc Corporation",
     "jobTitle": "Breanna Mckinney",
@@ -7126,7 +7126,7 @@
     "description": "dolor. Fusce mi",
     "postingDate": "2021-09-16"
   },
-  {
+  { "skills": ["CSS", "Javascript", "HTML"],
     "id": 510,
     "companyName": "Placerat Ltd",
     "jobTitle": "Ruby Larsen",
@@ -7140,7 +7140,7 @@
     "description": "Aliquam ornare, libero at",
     "postingDate": "2021-05-19"
   },
-  {
+  { "skills": ["CSS", "Javascript", "HTML"],
     "id": 511,
     "companyName": "Orci Corporation",
     "jobTitle": "Nadine Harding",
@@ -7155,6 +7155,7 @@
     "postingDate": "2023-10-23"
   },
   {
+    "skills": ["CSS", "Javascript", "HTML"],
     "id": 512,
     "companyName": "In Hendrerit Institute",
     "jobTitle": "Katell Reynolds",

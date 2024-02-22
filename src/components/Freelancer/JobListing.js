@@ -56,7 +56,7 @@ function JobListing({ jobs, isLoading, setJobs }) {
       setCurrentPage(currentPage - 1);
     }
   };
-
+  let filteredJobsCount = 0;
   const filteredData = (jobs, selected, query, locationQuery) => {
     let filteredJobs = jobs;
 
@@ -75,6 +75,7 @@ function JobListing({ jobs, isLoading, setJobs }) {
           maxPrice,
           postingDate,
           employmentType,
+          skills,
         }) => {
           const postingDateCondition =
             new Date(postingDate) >= new Date(selected);
@@ -89,6 +90,7 @@ function JobListing({ jobs, isLoading, setJobs }) {
             experienceLevel.toLowerCase() === selected.toLowerCase();
           const employmentTypeCondition =
             employmentType.toLowerCase() === selected.toLowerCase();
+          const skillsetCondition = skills?.includes(selected);
 
           return (
             postingDateCondition ||
@@ -96,12 +98,13 @@ function JobListing({ jobs, isLoading, setJobs }) {
             maxPriceCondition ||
             salaryTypeCondition ||
             experienceLevelCondition ||
-            employmentTypeCondition
+            employmentTypeCondition ||
+            skillsetCondition
           );
         }
       );
     }
-
+    filteredJobsCount = filteredJobs?.length;
     const { startIndex, endIndex } = calculatePageRange();
     filteredJobs = filteredJobs
       ?.sort((a, b) => b.id - a.id)
@@ -134,7 +137,14 @@ function JobListing({ jobs, isLoading, setJobs }) {
           {isLoading ? (
             <p className="font-medium">Loading...</p>
           ) : result?.length > 0 ? (
-            <Jobs result={result} jobs={jobs} />
+            <Jobs
+              result={result}
+              jobs={jobs}
+              filteredData={filteredJobsCount}
+              selectedCategory={selectedCategory}
+              query={query}
+              locationQuery={locationQuery}
+            />
           ) : (
             <>
               <h3 className="text-lg font-bold mb-2">{result.length} Jobs</h3>
