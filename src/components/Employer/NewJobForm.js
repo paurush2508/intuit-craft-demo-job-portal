@@ -71,6 +71,7 @@ const NewJobForm = ({ open, handleClose, jobs, updateAndStoreJobs, user }) => {
       const newJob = {
         id: jobs.length + 1,
         postedBy: user?.email,
+        isApplied: false,
         ...formData,
       };
       updateAndStoreJobs([...jobs, newJob]);

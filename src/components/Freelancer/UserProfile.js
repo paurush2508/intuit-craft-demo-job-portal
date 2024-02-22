@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import Projects from "../LandingPage/Projects";
 
 const ProfileContainer = styled.div`
   display: flex;
@@ -54,7 +55,33 @@ const ContactInfo = styled.div`
 `;
 
 const UserProfile = ({ userProfile }) => {
-  console.log("User Profile", userProfile);
+  const [repos, setRepos] = React.useState([]);
+  const userProfileLS = JSON.parse(localStorage.getItem("userProfileLS"));
+
+  React.useEffect(() => {
+    if (userProfile || userProfileLS) {
+      const username =
+        userProfile?.githubProfile?.split("/").pop() ||
+        userProfileLS?.githubProfile?.split("/").pop();
+
+      fetch(`https://api.github.com/users/${username}/repos`)
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error(
+              `Failed to fetch repositories: ${response.statusText}`
+            );
+          }
+          return response.json();
+        })
+        .then((repos) => {
+          setRepos(repos);
+        })
+        .catch((error) => {
+          console.error("Error fetching repositories:", error);
+        });
+    }
+  }, [userProfile, userProfileLS]);
+
   return (
     <ProfileContainer>
       <CoverPhoto
@@ -75,30 +102,45 @@ const UserProfile = ({ userProfile }) => {
           alignItems: "center",
         }}
       >
-        <Name>{userProfile?.name || userProfile?.nickname}</Name>
-        <h1 style={{ fontWeight: "bolder" }}>{userProfile?.primaryRole}</h1>
-        <h1 style={{ fontWeight: "bolder" }}>{userProfile?.email}</h1>
+        <Name>
+          {userProfile?.name ||
+            userProfile?.nickname ||
+            userProfileLS?.name ||
+            userProfileLS?.nickname}
+        </Name>
+        <h1 style={{ fontWeight: "bolder" }}>
+          {userProfile?.primaryRole || userProfileLS?.primaryRole}
+        </h1>
+        <h1 style={{ fontWeight: "bolder" }}>
+          {userProfile?.email || userProfileLS?.email}
+        </h1>
+        <br/>
         <h1 style={{ fontWeight: "bolder" }}>About Me</h1>
-        <Bio>{userProfile?.bio}</Bio>
+        <Bio>{userProfile?.bio || userProfileLS?.bio}</Bio>
         <ContactInfo>
           <p>
-            <strong>Contact:</strong> {userProfile?.contactNum}
+            <strong>Contact:</strong>{" "}
+            {userProfile?.contactNum || userProfileLS?.contactNum}
           </p>
           <p>
-            <strong>Location:</strong> {userProfile?.location}
-          </p>
-        </ContactInfo>
-        <ContactInfo>
-          <p>
-            <strong>LinkedIn Profile:</strong> {userProfile?.linkedinProfile}
+            <strong>Location:</strong>{" "}
+            {userProfile?.location || userProfileLS?.location}
           </p>
         </ContactInfo>
         <ContactInfo>
           <p>
-            <strong>Github Profile:</strong> {userProfile?.githubProfile}
+            <strong>LinkedIn Profile:</strong>{" "}
+            {userProfile?.linkedinProfile || userProfileLS?.linkedinProfile}
+          </p>
+        </ContactInfo>
+        <ContactInfo>
+          <p>
+            <strong>Github Profile:</strong>{" "}
+            {userProfile?.githubProfile || userProfileLS?.githubProfile}
           </p>
         </ContactInfo>
       </div>
+      <Projects repos={repos} />
     </ProfileContainer>
   );
 };
