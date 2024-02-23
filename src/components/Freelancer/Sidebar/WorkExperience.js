@@ -12,14 +12,26 @@ const WorkExperience = ({ handleChange }) => {
         </label>
         <InputField
           handleChange={handleChange}
-          value="Internship"
-          title="Internship"
+          value="Entry-level"
+          title="Entry-level"
           name="test"
         />
         <InputField
           handleChange={handleChange}
-          value="Work remotely"
-          title="Work remotely"
+          value="Intermediate"
+          title="Intermediate"
+          name="test"
+        />
+        <InputField
+          handleChange={handleChange}
+          value="Mid-level"
+          title="Mid-level"
+          name="test"
+        />
+        <InputField
+          handleChange={handleChange}
+          value="Senior-level"
+          title="Senior-level"
           name="test"
         />
       </div>

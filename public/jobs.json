@@ -9,7 +9,7 @@
       "salaryType": "Yearly",
       "jobLocation": "Brussels",
       "postingDate": "2023-11-03",
-      "experienceLevel": "Any experience",
+      "experienceLevel": "Entry-level",
       "employmentType": "Full-time",
       "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
     },
@@ -23,7 +23,7 @@
       "salaryType": "Yearly",
       "jobLocation": "San Francisco",
       "postingDate": "2023-11-02",
-      "experienceLevel": "Internship",
+      "experienceLevel": "Intermediate",
       "employmentType": "Temporary",
       "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
     },
@@ -37,7 +37,7 @@
       "salaryType": "Yearly",
       "jobLocation": "Seattle",
       "postingDate": "2023-10-28",
-      "experienceLevel": "Any experience",
+      "experienceLevel": "Entry-level",
       "employmentType": "Full-time", 
       "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
     },
@@ -177,7 +177,7 @@
     "maxPrice": 53,
     "salaryType": "Yearly",
     "jobLocation": "Valéncia",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "adipiscing lobortis risus. In mi pede, nonummy",
     "postingDate": "2022-05-03"
@@ -191,7 +191,7 @@
     "maxPrice": 91,
     "salaryType": "Yearly",
     "jobLocation": "Battagram",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "id magna et ipsum",
     "postingDate": "2021-08-07"
@@ -205,7 +205,7 @@
     "maxPrice": 64,
     "salaryType": "Yearly",
     "jobLocation": "Germersheim",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "conubia nostra, per inceptos hymenaeos. Mauris",
     "postingDate": "2021-10-11"
@@ -219,7 +219,7 @@
     "maxPrice": 47,
     "salaryType": "Yearly",
     "jobLocation": "Lima",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "est, congue a, aliquet vel, vulputate eu, odio.",
     "postingDate": "2022-02-10"
@@ -233,7 +233,7 @@
     "maxPrice": 64,
     "salaryType": "Yearly",
     "jobLocation": "Shillong",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "urna. Ut tincidunt vehicula risus. Nulla eget",
     "postingDate": "2020-12-13"
@@ -247,7 +247,7 @@
     "maxPrice": 21,
     "salaryType": "Yearly",
     "jobLocation": "Iksan",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "mauris a nunc. In",
     "postingDate": "2022-10-30"
@@ -261,7 +261,7 @@
     "maxPrice": 69,
     "salaryType": "Yearly",
     "jobLocation": "Pamplona",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "luctus sit amet, faucibus",
     "postingDate": "2020-08-19"
@@ -275,7 +275,7 @@
     "maxPrice": 41,
     "salaryType": "Yearly",
     "jobLocation": "Mercedes",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "est arcu",
     "postingDate": "2022-11-19"
@@ -289,7 +289,7 @@
     "maxPrice": 60,
     "salaryType": "Yearly",
     "jobLocation": "Xinjiang",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "quam a felis ullamcorper viverra. Maecenas iaculis aliquet diam. Sed",
     "postingDate": "2021-09-18"
@@ -303,7 +303,7 @@
     "maxPrice": 49,
     "salaryType": "Yearly",
     "jobLocation": "Gorinchem",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "non, dapibus rutrum, justo. Praesent luctus. Curabitur egestas",
     "postingDate": "2020-07-11"
@@ -317,7 +317,7 @@
     "maxPrice": 87,
     "salaryType": "Yearly",
     "jobLocation": "Beijing",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "ipsum non",
     "postingDate": "2021-05-03"
@@ -331,7 +331,7 @@
     "maxPrice": 45,
     "salaryType": "Yearly",
     "jobLocation": "Skudeneshavn",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "egestas. Fusce aliquet magna a neque.",
     "postingDate": "2020-08-07"
@@ -345,7 +345,7 @@
     "maxPrice": 23,
     "salaryType": "Yearly",
     "jobLocation": "Winchester",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "lorem lorem, luctus ut,",
     "postingDate": "2021-01-22"
@@ -359,7 +359,7 @@
     "maxPrice": 66,
     "salaryType": "Yearly",
     "jobLocation": "Coalville",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "sit amet ornare lectus justo eu arcu. Morbi sit amet",
     "postingDate": "2021-04-15"
@@ -373,7 +373,7 @@
     "maxPrice": 79,
     "salaryType": "Yearly",
     "jobLocation": "Palmerston",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "fames ac turpis egestas. Aliquam fringilla",
     "postingDate": "2022-02-07"
@@ -387,7 +387,7 @@
     "maxPrice": 47,
     "salaryType": "Yearly",
     "jobLocation": "Cheongju",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "nostra, per inceptos hymenaeos. Mauris ut quam vel sapien",
     "postingDate": "2023-11-21"
@@ -401,7 +401,7 @@
     "maxPrice": 86,
     "salaryType": "Yearly",
     "jobLocation": "Bangalore",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "sollicitudin orci sem eget massa. Suspendisse eleifend. Cras sed",
     "postingDate": "2022-05-18"
@@ -415,7 +415,7 @@
     "maxPrice": 34,
     "salaryType": "Yearly",
     "jobLocation": "Wismar",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "Praesent interdum ligula eu enim. Etiam imperdiet dictum magna.",
     "postingDate": "2022-11-22"
@@ -429,7 +429,7 @@
     "maxPrice": 39,
     "salaryType": "Yearly",
     "jobLocation": "Bamberg",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "ultrices. Duis volutpat nunc sit amet",
     "postingDate": "2022-02-21"
@@ -443,7 +443,7 @@
     "maxPrice": 83,
     "salaryType": "Yearly",
     "jobLocation": "Elmshorn",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "ligula. Aenean euismod mauris eu elit.",
     "postingDate": "2020-03-13"
@@ -457,7 +457,7 @@
     "maxPrice": 62,
     "salaryType": "Yearly",
     "jobLocation": "Herk-de-Stad",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "nulla. Cras eu",
     "postingDate": "2022-09-02"
@@ -471,7 +471,7 @@
     "maxPrice": 41,
     "salaryType": "Yearly",
     "jobLocation": "Silchar",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "velit. Quisque varius. Nam",
     "postingDate": "2022-12-02"
@@ -485,7 +485,7 @@
     "maxPrice": 51,
     "salaryType": "Yearly",
     "jobLocation": "Oosterhout",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "tempus scelerisque, lorem ipsum sodales purus, in molestie",
     "postingDate": "2022-01-09"
@@ -499,7 +499,7 @@
     "maxPrice": 23,
     "salaryType": "Yearly",
     "jobLocation": "Tarma",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "montes, nascetur ridiculus mus. Aenean eget magna.",
     "postingDate": "2022-09-27"
@@ -513,7 +513,7 @@
     "maxPrice": 50,
     "salaryType": "Yearly",
     "jobLocation": "Vienna",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "orci luctus et ultrices posuere cubilia",
     "postingDate": "2021-08-15"
@@ -527,7 +527,7 @@
     "maxPrice": 71,
     "salaryType": "Yearly",
     "jobLocation": "Sneek",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "elit, a feugiat tellus lorem eu metus.",
     "postingDate": "2021-10-28"
@@ -541,7 +541,7 @@
     "maxPrice": 23,
     "salaryType": "Yearly",
     "jobLocation": "Blue Mountains",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "convallis in, cursus et,",
     "postingDate": "2022-02-24"
@@ -555,7 +555,7 @@
     "maxPrice": 48,
     "salaryType": "Yearly",
     "jobLocation": "Spijkenisse",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "in consequat",
     "postingDate": "2022-12-18"
@@ -569,7 +569,7 @@
     "maxPrice": 80,
     "salaryType": "Yearly",
     "jobLocation": "Châtellerault",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "nunc interdum feugiat.",
     "postingDate": "2023-09-24"
@@ -583,7 +583,7 @@
     "maxPrice": 58,
     "salaryType": "Yearly",
     "jobLocation": "Rostov",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "Integer",
     "postingDate": "2020-06-28"
@@ -597,7 +597,7 @@
     "maxPrice": 89,
     "salaryType": "Yearly",
     "jobLocation": "Cáceres",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "malesuada vel, convallis in, cursus et,",
     "postingDate": "2021-10-25"
@@ -611,7 +611,7 @@
     "maxPrice": 76,
     "salaryType": "Yearly",
     "jobLocation": "Gyeongju",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "fringilla. Donec feugiat metus sit amet ante.",
     "postingDate": "2021-03-11"
@@ -625,7 +625,7 @@
     "maxPrice": 28,
     "salaryType": "Yearly",
     "jobLocation": "Klagenfurt",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "ligula consectetuer rhoncus.",
     "postingDate": "2020-05-27"
@@ -639,7 +639,7 @@
     "maxPrice": 90,
     "salaryType": "Yearly",
     "jobLocation": "Amiens",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "turpis. Aliquam adipiscing lobortis risus. In mi",
     "postingDate": "2021-06-22"
@@ -653,7 +653,7 @@
     "maxPrice": 52,
     "salaryType": "Yearly",
     "jobLocation": "Saarbrücken",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "Sed eu",
     "postingDate": "2020-04-01"
@@ -667,7 +667,7 @@
     "maxPrice": 94,
     "salaryType": "Yearly",
     "jobLocation": "Bregenz",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "velit. Pellentesque ultricies dignissim lacus.",
     "postingDate": "2023-10-20"
@@ -681,7 +681,7 @@
     "maxPrice": 79,
     "salaryType": "Yearly",
     "jobLocation": "Radom",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "semper cursus. Integer",
     "postingDate": "2021-10-19"
@@ -695,7 +695,7 @@
     "maxPrice": 42,
     "salaryType": "Yearly",
     "jobLocation": "Heinsch",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "ipsum sodales purus, in molestie tortor nibh",
     "postingDate": "2020-02-24"
@@ -709,7 +709,7 @@
     "maxPrice": 36,
     "salaryType": "Yearly",
     "jobLocation": "Hwaseong",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "nisi sem semper",
     "postingDate": "2022-09-25"
@@ -723,7 +723,7 @@
     "maxPrice": 97,
     "salaryType": "Yearly",
     "jobLocation": "Murray Bridge",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "urna. Nunc quis arcu vel quam dignissim pharetra.",
     "postingDate": "2022-08-17"
@@ -737,7 +737,7 @@
     "maxPrice": 76,
     "salaryType": "Yearly",
     "jobLocation": "Camaçari",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "volutpat. Nulla dignissim. Maecenas ornare",
     "postingDate": "2023-08-25"
@@ -751,7 +751,7 @@
     "maxPrice": 97,
     "salaryType": "Yearly",
     "jobLocation": "Mérida",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "a feugiat tellus",
     "postingDate": "2021-09-01"
@@ -765,7 +765,7 @@
     "maxPrice": 54,
     "salaryType": "Yearly",
     "jobLocation": "Alexandra",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "molestie in, tempus eu, ligula. Aenean euismod mauris eu",
     "postingDate": "2021-10-01"
@@ -779,7 +779,7 @@
     "maxPrice": 71,
     "salaryType": "Yearly",
     "jobLocation": "Bacolod",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "hendrerit id, ante. Nunc mauris sapien, cursus in, hendrerit",
     "postingDate": "2022-08-02"
@@ -793,7 +793,7 @@
     "maxPrice": 71,
     "salaryType": "Yearly",
     "jobLocation": "Kaduna",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "et, lacinia vitae, sodales at, velit. Pellentesque ultricies",
     "postingDate": "2022-02-01"
@@ -807,7 +807,7 @@
     "maxPrice": 98,
     "salaryType": "Yearly",
     "jobLocation": "Borriana",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "nisi a odio",
     "postingDate": "2020-02-22"
@@ -821,7 +821,7 @@
     "maxPrice": 98,
     "salaryType": "Yearly",
     "jobLocation": "Birori",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "neque vitae semper egestas, urna justo faucibus lectus,",
     "postingDate": "2021-03-21"
@@ -835,7 +835,7 @@
     "maxPrice": 84,
     "salaryType": "Yearly",
     "jobLocation": "Mulhouse",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "luctus ut, pellentesque eget, dictum placerat, augue.",
     "postingDate": "2022-12-06"
@@ -849,7 +849,7 @@
     "maxPrice": 68,
     "salaryType": "Yearly",
     "jobLocation": "Puerto López",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "in faucibus orci",
     "postingDate": "2020-04-28"
@@ -863,7 +863,7 @@
     "maxPrice": 84,
     "salaryType": "Yearly",
     "jobLocation": "Schifferstadt",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "sodales. Mauris blandit enim consequat purus.",
     "postingDate": "2020-02-29"
@@ -877,7 +877,7 @@
     "maxPrice": 87,
     "salaryType": "Yearly",
     "jobLocation": "Canberra",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "eget, ipsum. Donec sollicitudin adipiscing ligula. Aenean gravida",
     "postingDate": "2022-05-28"
@@ -891,7 +891,7 @@
     "maxPrice": 71,
     "salaryType": "Yearly",
     "jobLocation": "Gols",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "ultrices a, auctor non, feugiat nec, diam. Duis mi enim,",
     "postingDate": "2021-03-22"
@@ -905,7 +905,7 @@
     "maxPrice": 72,
     "salaryType": "Yearly",
     "jobLocation": "Novena",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "aliquam iaculis, lacus",
     "postingDate": "2023-03-16"
@@ -919,7 +919,7 @@
     "maxPrice": 37,
     "salaryType": "Yearly",
     "jobLocation": "Sudhanoti",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "vitae diam. Proin dolor. Nulla semper tellus id",
     "postingDate": "2022-07-31"
@@ -933,7 +933,7 @@
     "maxPrice": 75,
     "salaryType": "Yearly",
     "jobLocation": "Picton",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "massa non",
     "postingDate": "2020-10-20"
@@ -947,7 +947,7 @@
     "maxPrice": 60,
     "salaryType": "Yearly",
     "jobLocation": "Kursk",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "tortor at risus. Nunc ac sem ut",
     "postingDate": "2020-08-01"
@@ -961,7 +961,7 @@
     "maxPrice": 63,
     "salaryType": "Yearly",
     "jobLocation": "Oostkamp",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "lorem ut aliquam iaculis, lacus pede sagittis augue, eu",
     "postingDate": "2022-08-22"
@@ -975,7 +975,7 @@
     "maxPrice": 75,
     "salaryType": "Yearly",
     "jobLocation": "Zona Bananera",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "torquent per conubia nostra, per inceptos hymenaeos. Mauris",
     "postingDate": "2020-12-26"
@@ -989,7 +989,7 @@
     "maxPrice": 65,
     "salaryType": "Yearly",
     "jobLocation": "Guizhou",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "eros. Proin",
     "postingDate": "2022-12-16"
@@ -1003,7 +1003,7 @@
     "maxPrice": 68,
     "salaryType": "Yearly",
     "jobLocation": "Ningxia",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "in aliquet lobortis, nisi nibh lacinia",
     "postingDate": "2022-09-07"
@@ -1017,7 +1017,7 @@
     "maxPrice": 97,
     "salaryType": "Yearly",
     "jobLocation": "Hà Tĩnh",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "ullamcorper, velit in aliquet lobortis, nisi nibh lacinia",
     "postingDate": "2022-01-24"
@@ -1031,7 +1031,7 @@
     "maxPrice": 98,
     "salaryType": "Yearly",
     "jobLocation": "Puntarenas",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "lectus sit amet luctus vulputate, nisi sem semper",
     "postingDate": "2023-08-03"
@@ -1045,7 +1045,7 @@
     "maxPrice": 45,
     "salaryType": "Yearly",
     "jobLocation": "Mokpo",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "interdum ligula eu enim. Etiam",
     "postingDate": "2020-03-26"
@@ -1059,7 +1059,7 @@
     "maxPrice": 73,
     "salaryType": "Yearly",
     "jobLocation": "Castelló",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "Sed nec metus",
     "postingDate": "2021-01-19"
@@ -1073,7 +1073,7 @@
     "maxPrice": 28,
     "salaryType": "Yearly",
     "jobLocation": "Volgograd",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "urna justo faucibus lectus, a sollicitudin",
     "postingDate": "2023-05-06"
@@ -1087,7 +1087,7 @@
     "maxPrice": 80,
     "salaryType": "Yearly",
     "jobLocation": "Borås",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "a feugiat tellus",
     "postingDate": "2020-04-29"
@@ -1101,7 +1101,7 @@
     "maxPrice": 48,
     "salaryType": "Yearly",
     "jobLocation": "Baguio",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "Sed eu eros. Nam consequat dolor vitae dolor.",
     "postingDate": "2020-04-14"
@@ -1115,7 +1115,7 @@
     "maxPrice": 65,
     "salaryType": "Yearly",
     "jobLocation": "Tebing Tinggi",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "Mauris magna. Duis dignissim tempor arcu.",
     "postingDate": "2022-04-24"
@@ -1129,7 +1129,7 @@
     "maxPrice": 95,
     "salaryType": "Yearly",
     "jobLocation": "Kinross",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "et magnis dis parturient montes,",
     "postingDate": "2022-03-30"
@@ -1143,7 +1143,7 @@
     "maxPrice": 64,
     "salaryType": "Yearly",
     "jobLocation": "Laoag",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "viverra. Maecenas iaculis aliquet diam. Sed diam lorem, auctor",
     "postingDate": "2020-07-18"
@@ -1157,7 +1157,7 @@
     "maxPrice": 97,
     "salaryType": "Yearly",
     "jobLocation": "Jecheon",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "feugiat. Lorem ipsum dolor sit amet, consectetuer adipiscing",
     "postingDate": "2023-05-05"
@@ -1171,7 +1171,7 @@
     "maxPrice": 99,
     "salaryType": "Yearly",
     "jobLocation": "Córdoba",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "Nunc mauris. Morbi non",
     "postingDate": "2020-11-14"
@@ -1185,7 +1185,7 @@
     "maxPrice": 57,
     "salaryType": "Yearly",
     "jobLocation": "Chuncheon",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "et libero.",
     "postingDate": "2020-03-21"
@@ -1199,7 +1199,7 @@
     "maxPrice": 72,
     "salaryType": "Yearly",
     "jobLocation": "Rollegem",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "sapien. Aenean massa. Integer vitae nibh. Donec",
     "postingDate": "2022-02-11"
@@ -1213,7 +1213,7 @@
     "maxPrice": 46,
     "salaryType": "Yearly",
     "jobLocation": "Sicuani",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "mattis velit justo nec ante.",
     "postingDate": "2024-01-07"
@@ -1227,7 +1227,7 @@
     "maxPrice": 94,
     "salaryType": "Yearly",
     "jobLocation": "Kraków",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "ac urna. Ut tincidunt vehicula risus. Nulla eget",
     "postingDate": "2022-06-24"
@@ -1241,7 +1241,7 @@
     "maxPrice": 90,
     "salaryType": "Yearly",
     "jobLocation": "Governador Valadares",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "turpis non enim. Mauris quis turpis vitae",
     "postingDate": "2020-11-03"
@@ -1255,7 +1255,7 @@
     "maxPrice": 70,
     "salaryType": "Yearly",
     "jobLocation": "Ayr",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "odio. Etiam ligula tortor, dictum eu, placerat eget, venenatis a,",
     "postingDate": "2020-12-25"
@@ -1269,7 +1269,7 @@
     "maxPrice": 73,
     "salaryType": "Yearly",
     "jobLocation": "Quimbaya",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "mattis.",
     "postingDate": "2022-01-14"
@@ -1283,7 +1283,7 @@
     "maxPrice": 65,
     "salaryType": "Yearly",
     "jobLocation": "Thái Nguyên",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "molestie tortor nibh sit amet orci. Ut sagittis",
     "postingDate": "2023-09-30"
@@ -1297,7 +1297,7 @@
     "maxPrice": 81,
     "salaryType": "Yearly",
     "jobLocation": "Belfast",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "et netus",
     "postingDate": "2021-01-09"
@@ -1311,7 +1311,7 @@
     "maxPrice": 61,
     "salaryType": "Yearly",
     "jobLocation": "Tczew",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "cubilia Curae Donec tincidunt.",
     "postingDate": "2021-10-18"
@@ -1325,7 +1325,7 @@
     "maxPrice": 26,
     "salaryType": "Yearly",
     "jobLocation": "Vienna",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "ultricies adipiscing,",
     "postingDate": "2023-01-10"
@@ -1339,7 +1339,7 @@
     "maxPrice": 74,
     "salaryType": "Yearly",
     "jobLocation": "Canberra",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "sit amet, faucibus ut, nulla. Cras eu tellus",
     "postingDate": "2020-08-03"
@@ -1353,7 +1353,7 @@
     "maxPrice": 88,
     "salaryType": "Yearly",
     "jobLocation": "Galzignano Terme",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "sem elit, pharetra ut, pharetra sed, hendrerit a,",
     "postingDate": "2020-11-26"
@@ -1367,7 +1367,7 @@
     "maxPrice": 52,
     "salaryType": "Yearly",
     "jobLocation": "Camarones",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "nibh enim, gravida",
     "postingDate": "2023-02-06"
@@ -1381,7 +1381,7 @@
     "maxPrice": 83,
     "salaryType": "Yearly",
     "jobLocation": "Polesella",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "semper et, lacinia vitae, sodales at, velit. Pellentesque",
     "postingDate": "2021-02-21"
@@ -1395,7 +1395,7 @@
     "maxPrice": 33,
     "salaryType": "Yearly",
     "jobLocation": "Zutendaal",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "Ut semper pretium neque. Morbi quis urna.",
     "postingDate": "2021-09-09"
@@ -1409,7 +1409,7 @@
     "maxPrice": 30,
     "salaryType": "Yearly",
     "jobLocation": "Bắc Giang",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "vitae dolor.",
     "postingDate": "2021-03-20"
@@ -1423,7 +1423,7 @@
     "maxPrice": 43,
     "salaryType": "Yearly",
     "jobLocation": "Vienna",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "varius et, euismod et, commodo",
     "postingDate": "2022-05-25"
@@ -1437,7 +1437,7 @@
     "maxPrice": 89,
     "salaryType": "Yearly",
     "jobLocation": "Katsina",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "Nulla tempor augue ac",
     "postingDate": "2024-01-27"
@@ -1451,7 +1451,7 @@
     "maxPrice": 22,
     "salaryType": "Yearly",
     "jobLocation": "Cork",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "dui. Fusce diam nunc,",
     "postingDate": "2021-09-03"
@@ -1465,7 +1465,7 @@
     "maxPrice": 45,
     "salaryType": "Yearly",
     "jobLocation": "Leticia",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "id ante dictum cursus. Nunc mauris elit,",
     "postingDate": "2021-07-23"
@@ -1479,7 +1479,7 @@
     "maxPrice": 85,
     "salaryType": "Yearly",
     "jobLocation": "Chernivtsi",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "ultricies adipiscing,",
     "postingDate": "2020-03-21"
@@ -1493,7 +1493,7 @@
     "maxPrice": 75,
     "salaryType": "Yearly",
     "jobLocation": "Kohistan",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "ut dolor dapibus gravida.",
     "postingDate": "2021-01-28"
@@ -1507,7 +1507,7 @@
     "maxPrice": 97,
     "salaryType": "Yearly",
     "jobLocation": "Maidenhead",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "quam. Curabitur vel lectus. Cum sociis natoque penatibus",
     "postingDate": "2020-12-02"
@@ -1521,7 +1521,7 @@
     "maxPrice": 61,
     "salaryType": "Yearly",
     "jobLocation": "Pali",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "est. Nunc ullamcorper, velit in",
     "postingDate": "2023-02-27"
@@ -1535,7 +1535,7 @@
     "maxPrice": 22,
     "salaryType": "Yearly",
     "jobLocation": "Vladimir",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "torquent per conubia",
     "postingDate": "2022-09-01"
@@ -1549,7 +1549,7 @@
     "maxPrice": 83,
     "salaryType": "Yearly",
     "jobLocation": "Perchtoldsdorf",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "a, arcu. Sed et libero. Proin mi. Aliquam gravida",
     "postingDate": "2020-04-01"
@@ -1563,7 +1563,7 @@
     "maxPrice": 43,
     "salaryType": "Yearly",
     "jobLocation": "Ciudad Valles",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "dapibus id, blandit at, nisi. Cum sociis natoque penatibus",
     "postingDate": "2022-07-12"
@@ -1577,7 +1577,7 @@
     "maxPrice": 64,
     "salaryType": "Yearly",
     "jobLocation": "Aguacaliente (San Francisco]",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "lacus. Quisque purus sapien, gravida non, sollicitudin a, malesuada id,",
     "postingDate": "2021-12-11"
@@ -1591,7 +1591,7 @@
     "maxPrice": 88,
     "salaryType": "Yearly",
     "jobLocation": "Greymouth",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "erat volutpat. Nulla dignissim. Maecenas ornare egestas ligula. Nullam",
     "postingDate": "2022-01-08"
@@ -1605,7 +1605,7 @@
     "maxPrice": 64,
     "salaryType": "Yearly",
     "jobLocation": "Kristiansand",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "sodales elit erat vitae risus. Duis a mi",
     "postingDate": "2020-11-21"
@@ -1619,7 +1619,7 @@
     "maxPrice": 26,
     "salaryType": "Yearly",
     "jobLocation": "Brye",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "ut,",
     "postingDate": "2022-10-16"
@@ -1633,7 +1633,7 @@
     "maxPrice": 75,
     "salaryType": "Yearly",
     "jobLocation": "Pondicherry",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "eros nec tellus. Nunc lectus pede, ultrices a, auctor",
     "postingDate": "2021-01-25"
@@ -1647,7 +1647,7 @@
     "maxPrice": 74,
     "salaryType": "Yearly",
     "jobLocation": "Ternate",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "non enim commodo hendrerit.",
     "postingDate": "2022-10-31"
@@ -1661,7 +1661,7 @@
     "maxPrice": 25,
     "salaryType": "Yearly",
     "jobLocation": "Iqaluit",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "mi. Aliquam gravida mauris ut mi. Duis risus odio,",
     "postingDate": "2021-10-18"
@@ -1675,7 +1675,7 @@
     "maxPrice": 88,
     "salaryType": "Yearly",
     "jobLocation": "Dibrugarh",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "quam. Curabitur vel lectus.",
     "postingDate": "2023-08-04"
@@ -1689,7 +1689,7 @@
     "maxPrice": 65,
     "salaryType": "Yearly",
     "jobLocation": "Zielona Góra",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing",
     "postingDate": "2022-11-10"
@@ -1703,7 +1703,7 @@
     "maxPrice": 58,
     "salaryType": "Yearly",
     "jobLocation": "Boneffe",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "In at pede. Cras vulputate velit eu",
     "postingDate": "2020-06-23"
@@ -1717,7 +1717,7 @@
     "maxPrice": 64,
     "salaryType": "Yearly",
     "jobLocation": "Łomża",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "dictum. Proin eget odio. Aliquam vulputate ullamcorper magna. Sed",
     "postingDate": "2021-11-23"
@@ -1731,7 +1731,7 @@
     "maxPrice": 38,
     "salaryType": "Yearly",
     "jobLocation": "Gaziantep",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "Vivamus nisi. Mauris nulla. Integer urna. Vivamus",
     "postingDate": "2023-09-19"
@@ -1745,7 +1745,7 @@
     "maxPrice": 59,
     "salaryType": "Yearly",
     "jobLocation": "Villafranca Tirrena",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "Suspendisse non leo. Vivamus nibh dolor, nonummy ac,",
     "postingDate": "2022-12-01"
@@ -1759,7 +1759,7 @@
     "maxPrice": 29,
     "salaryType": "Yearly",
     "jobLocation": "Gisborne",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "vestibulum nec, euismod in, dolor. Fusce",
     "postingDate": "2023-01-31"
@@ -1773,7 +1773,7 @@
     "maxPrice": 84,
     "salaryType": "Yearly",
     "jobLocation": "Oslo",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "lectus justo eu arcu. Morbi sit amet",
     "postingDate": "2021-07-28"
@@ -1787,7 +1787,7 @@
     "maxPrice": 57,
     "salaryType": "Yearly",
     "jobLocation": "Okene",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "hendrerit neque. In ornare sagittis felis. Donec",
     "postingDate": "2022-02-03"
@@ -1801,7 +1801,7 @@
     "maxPrice": 91,
     "salaryType": "Yearly",
     "jobLocation": "Gojal Upper Hunza",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "dolor dolor, tempus non, lacinia",
     "postingDate": "2023-12-30"
@@ -1815,7 +1815,7 @@
     "maxPrice": 53,
     "salaryType": "Yearly",
     "jobLocation": "Iquitos",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "malesuada fames ac turpis egestas. Aliquam fringilla cursus",
     "postingDate": "2021-09-10"
@@ -1829,7 +1829,7 @@
     "maxPrice": 84,
     "salaryType": "Yearly",
     "jobLocation": "Huntly",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "quis diam luctus lobortis. Class aptent taciti",
     "postingDate": "2023-07-26"
@@ -1843,7 +1843,7 @@
     "maxPrice": 66,
     "salaryType": "Yearly",
     "jobLocation": "Río Ibáñez",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "at, velit. Cras lorem lorem, luctus ut, pellentesque eget, dictum",
     "postingDate": "2023-10-10"
@@ -1857,7 +1857,7 @@
     "maxPrice": 46,
     "salaryType": "Yearly",
     "jobLocation": "Cuenca",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "faucibus id, libero. Donec",
     "postingDate": "2023-02-14"
@@ -1871,7 +1871,7 @@
     "maxPrice": 87,
     "salaryType": "Yearly",
     "jobLocation": "Port Harcourt",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "pede ac urna. Ut tincidunt vehicula risus. Nulla",
     "postingDate": "2020-12-03"
@@ -1885,7 +1885,7 @@
     "maxPrice": 64,
     "salaryType": "Yearly",
     "jobLocation": "Osgoode",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "sapien imperdiet ornare. In faucibus. Morbi vehicula.",
     "postingDate": "2022-11-01"
@@ -1899,7 +1899,7 @@
     "maxPrice": 25,
     "salaryType": "Yearly",
     "jobLocation": "Naumburg",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "nec ante. Maecenas mi felis, adipiscing fringilla, porttitor vulputate,",
     "postingDate": "2024-02-06"
@@ -1913,7 +1913,7 @@
     "maxPrice": 29,
     "salaryType": "Yearly",
     "jobLocation": "Ang Mo Kio",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "luctus, ipsum",
     "postingDate": "2021-05-16"
@@ -1927,7 +1927,7 @@
     "maxPrice": 64,
     "salaryType": "Yearly",
     "jobLocation": "Pamplona",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "posuere vulputate,",
     "postingDate": "2020-03-09"
@@ -1941,7 +1941,7 @@
     "maxPrice": 22,
     "salaryType": "Yearly",
     "jobLocation": "Lasbela",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "natoque penatibus et magnis dis parturient montes,",
     "postingDate": "2022-12-13"
@@ -1955,7 +1955,7 @@
     "maxPrice": 56,
     "salaryType": "Yearly",
     "jobLocation": "Badin",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "neque pellentesque massa lobortis ultrices. Vivamus",
     "postingDate": "2022-09-30"
@@ -1969,7 +1969,7 @@
     "maxPrice": 89,
     "salaryType": "Yearly",
     "jobLocation": "Palmerston",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "nec urna suscipit nonummy. Fusce fermentum fermentum arcu. Vestibulum ante",
     "postingDate": "2021-03-15"
@@ -1983,7 +1983,7 @@
     "maxPrice": 43,
     "salaryType": "Yearly",
     "jobLocation": "Saint-Sébastien-sur-Loire",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "posuere at, velit. Cras lorem lorem, luctus ut, pellentesque",
     "postingDate": "2023-04-30"
@@ -1997,7 +1997,7 @@
     "maxPrice": 75,
     "salaryType": "Yearly",
     "jobLocation": "Sandefjord",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "aliquet",
     "postingDate": "2021-12-28"
@@ -2011,7 +2011,7 @@
     "maxPrice": 90,
     "salaryType": "Yearly",
     "jobLocation": "Ostrowiec Świętokrzyski",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "vitae mauris sit amet lorem semper auctor. Mauris vel",
     "postingDate": "2023-07-06"
@@ -2025,7 +2025,7 @@
     "maxPrice": 99,
     "salaryType": "Yearly",
     "jobLocation": "Sloviansk",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "sem eget massa. Suspendisse eleifend. Cras sed",
     "postingDate": "2020-09-21"
@@ -2039,7 +2039,7 @@
     "maxPrice": 77,
     "salaryType": "Yearly",
     "jobLocation": "Sapele",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "a, scelerisque sed, sapien. Nunc",
     "postingDate": "2021-09-19"
@@ -2053,7 +2053,7 @@
     "maxPrice": 42,
     "salaryType": "Yearly",
     "jobLocation": "Lutsel K'e",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "id nunc interdum feugiat.",
     "postingDate": "2023-02-09"
@@ -2067,7 +2067,7 @@
     "maxPrice": 62,
     "salaryType": "Yearly",
     "jobLocation": "Caledon",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "nulla magna,",
     "postingDate": "2021-12-22"
@@ -2081,7 +2081,7 @@
     "maxPrice": 70,
     "salaryType": "Yearly",
     "jobLocation": "Jeonju",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Donec est mauris,",
     "postingDate": "2020-10-22"
@@ -2095,7 +2095,7 @@
     "maxPrice": 52,
     "salaryType": "Yearly",
     "jobLocation": "Wolfville",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "dignissim lacus. Aliquam rutrum",
     "postingDate": "2021-05-02"
@@ -2109,7 +2109,7 @@
     "maxPrice": 37,
     "salaryType": "Yearly",
     "jobLocation": "Zielona Góra",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "ipsum. Phasellus vitae mauris sit amet lorem",
     "postingDate": "2022-07-14"
@@ -2123,7 +2123,7 @@
     "maxPrice": 83,
     "salaryType": "Yearly",
     "jobLocation": "Okene",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "vehicula et, rutrum eu, ultrices",
     "postingDate": "2023-08-09"
@@ -2137,7 +2137,7 @@
     "maxPrice": 45,
     "salaryType": "Yearly",
     "jobLocation": "Kremenchuk",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "dapibus rutrum, justo. Praesent luctus. Curabitur egestas nunc",
     "postingDate": "2022-07-13"
@@ -2151,7 +2151,7 @@
     "maxPrice": 91,
     "salaryType": "Yearly",
     "jobLocation": "Uman",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "non, bibendum",
     "postingDate": "2022-08-02"
@@ -2165,7 +2165,7 @@
     "maxPrice": 25,
     "salaryType": "Yearly",
     "jobLocation": "Cà Mau",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "auctor odio a purus. Duis elementum, dui quis",
     "postingDate": "2023-04-19"
@@ -2179,7 +2179,7 @@
     "maxPrice": 56,
     "salaryType": "Yearly",
     "jobLocation": "Chongqing",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "neque. Morbi",
     "postingDate": "2024-02-13"
@@ -2193,7 +2193,7 @@
     "maxPrice": 30,
     "salaryType": "Yearly",
     "jobLocation": "Castelbianco",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "fames ac turpis egestas. Fusce",
     "postingDate": "2020-08-26"
@@ -2207,7 +2207,7 @@
     "maxPrice": 64,
     "salaryType": "Yearly",
     "jobLocation": "Calama",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "lobortis tellus justo sit",
     "postingDate": "2020-06-27"
@@ -2221,7 +2221,7 @@
     "maxPrice": 55,
     "salaryType": "Yearly",
     "jobLocation": "Cổ Lễ",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "sed, est. Nunc laoreet lectus quis massa. Mauris vestibulum, neque",
     "postingDate": "2021-05-23"
@@ -2235,7 +2235,7 @@
     "maxPrice": 78,
     "salaryType": "Yearly",
     "jobLocation": "Mokpo",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "at sem molestie sodales. Mauris blandit enim",
     "postingDate": "2022-10-28"
@@ -2249,7 +2249,7 @@
     "maxPrice": 56,
     "salaryType": "Yearly",
     "jobLocation": "Gangtok",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "odio. Etiam ligula tortor, dictum eu,",
     "postingDate": "2022-05-25"
@@ -2263,7 +2263,7 @@
     "maxPrice": 62,
     "salaryType": "Yearly",
     "jobLocation": "Jönköping",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "nec, euismod in, dolor.",
     "postingDate": "2022-05-06"
@@ -2277,7 +2277,7 @@
     "maxPrice": 100,
     "salaryType": "Yearly",
     "jobLocation": "Gunungsitoli",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "malesuada vel, venenatis vel,",
     "postingDate": "2022-01-11"
@@ -2291,7 +2291,7 @@
     "maxPrice": 48,
     "salaryType": "Yearly",
     "jobLocation": "Greater Hobart",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "hendrerit a, arcu. Sed et libero. Proin",
     "postingDate": "2022-11-04"
@@ -2305,7 +2305,7 @@
     "maxPrice": 71,
     "salaryType": "Yearly",
     "jobLocation": "Carapicuíba",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "nec ligula consectetuer rhoncus. Nullam velit dui, semper",
     "postingDate": "2023-09-30"
@@ -2319,7 +2319,7 @@
     "maxPrice": 49,
     "salaryType": "Yearly",
     "jobLocation": "Vigan",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "neque. In ornare sagittis felis. Donec",
     "postingDate": "2022-05-31"
@@ -2333,7 +2333,7 @@
     "maxPrice": 67,
     "salaryType": "Yearly",
     "jobLocation": "Dublin",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "non enim",
     "postingDate": "2022-05-10"
@@ -2347,7 +2347,7 @@
     "maxPrice": 69,
     "salaryType": "Yearly",
     "jobLocation": "İskenderun",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "porttitor scelerisque neque. Nullam nisl. Maecenas malesuada",
     "postingDate": "2023-07-22"
@@ -2361,7 +2361,7 @@
     "maxPrice": 84,
     "salaryType": "Yearly",
     "jobLocation": "Minna",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Cras vulputate velit eu",
     "postingDate": "2020-05-11"
@@ -2375,7 +2375,7 @@
     "maxPrice": 29,
     "salaryType": "Yearly",
     "jobLocation": "Elverum",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Nullam enim. Sed nulla ante, iaculis nec, eleifend",
     "postingDate": "2020-11-23"
@@ -2389,7 +2389,7 @@
     "maxPrice": 24,
     "salaryType": "Yearly",
     "jobLocation": "Jecheon",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "eu elit. Nulla facilisi. Sed neque.",
     "postingDate": "2020-10-20"
@@ -2403,7 +2403,7 @@
     "maxPrice": 67,
     "salaryType": "Yearly",
     "jobLocation": "Boksburg",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Nunc",
     "postingDate": "2020-06-14"
@@ -2417,7 +2417,7 @@
     "maxPrice": 36,
     "salaryType": "Yearly",
     "jobLocation": "Puntarenas",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "augue ac ipsum. Phasellus vitae mauris sit",
     "postingDate": "2022-03-02"
@@ -2431,7 +2431,7 @@
     "maxPrice": 79,
     "salaryType": "Yearly",
     "jobLocation": "Yishun",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "purus. Nullam scelerisque neque sed sem",
     "postingDate": "2022-12-09"
@@ -2445,7 +2445,7 @@
     "maxPrice": 31,
     "salaryType": "Yearly",
     "jobLocation": "Cork",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Proin dolor. Nulla semper tellus id nunc interdum feugiat.",
     "postingDate": "2023-07-09"
@@ -2459,7 +2459,7 @@
     "maxPrice": 94,
     "salaryType": "Yearly",
     "jobLocation": "Larkana",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "massa. Integer vitae nibh. Donec",
     "postingDate": "2023-06-27"
@@ -2473,7 +2473,7 @@
     "maxPrice": 76,
     "salaryType": "Yearly",
     "jobLocation": "Moelv",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Ut tincidunt vehicula risus. Nulla eget metus eu erat semper",
     "postingDate": "2022-05-15"
@@ -2487,7 +2487,7 @@
     "maxPrice": 29,
     "salaryType": "Yearly",
     "jobLocation": "Haridwar",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "nascetur ridiculus mus. Proin vel arcu eu",
     "postingDate": "2020-07-15"
@@ -2501,7 +2501,7 @@
     "maxPrice": 25,
     "salaryType": "Yearly",
     "jobLocation": "Söderhamn",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "orci. Phasellus dapibus",
     "postingDate": "2023-09-16"
@@ -2515,7 +2515,7 @@
     "maxPrice": 91,
     "salaryType": "Yearly",
     "jobLocation": "Pukekohe",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "dictum augue malesuada malesuada. Integer id magna et ipsum cursus",
     "postingDate": "2022-04-12"
@@ -2529,7 +2529,7 @@
     "maxPrice": 40,
     "salaryType": "Yearly",
     "jobLocation": "Western Islands",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "magnis dis parturient montes, nascetur",
     "postingDate": "2020-07-24"
@@ -2543,7 +2543,7 @@
     "maxPrice": 37,
     "salaryType": "Yearly",
     "jobLocation": "Gwangyang",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "justo. Praesent luctus. Curabitur egestas nunc sed",
     "postingDate": "2023-06-21"
@@ -2557,7 +2557,7 @@
     "maxPrice": 31,
     "salaryType": "Yearly",
     "jobLocation": "San Nicolás",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Etiam laoreet, libero et tristique pellentesque, tellus sem",
     "postingDate": "2020-05-21"
@@ -2571,7 +2571,7 @@
     "maxPrice": 93,
     "salaryType": "Yearly",
     "jobLocation": "Shaheed Benazirabad",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Sed diam",
     "postingDate": "2024-02-09"
@@ -2585,7 +2585,7 @@
     "maxPrice": 28,
     "salaryType": "Yearly",
     "jobLocation": "Ophoven",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "dolor",
     "postingDate": "2020-06-25"
@@ -2599,7 +2599,7 @@
     "maxPrice": 23,
     "salaryType": "Yearly",
     "jobLocation": "Jelenia Góra",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "purus mauris a nunc. In at pede. Cras",
     "postingDate": "2023-07-17"
@@ -2613,7 +2613,7 @@
     "maxPrice": 50,
     "salaryType": "Yearly",
     "jobLocation": "Villers-Poterie",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "pede blandit congue. In scelerisque",
     "postingDate": "2023-08-28"
@@ -2627,7 +2627,7 @@
     "maxPrice": 45,
     "salaryType": "Yearly",
     "jobLocation": "Serang",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "dictum mi, ac mattis velit justo",
     "postingDate": "2021-01-02"
@@ -2641,7 +2641,7 @@
     "maxPrice": 49,
     "salaryType": "Yearly",
     "jobLocation": "Brive-la-Gaillarde",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "nunc. Quisque ornare tortor at risus. Nunc ac sem",
     "postingDate": "2020-12-01"
@@ -2655,7 +2655,7 @@
     "maxPrice": 80,
     "salaryType": "Yearly",
     "jobLocation": "Sapele",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Aenean gravida nunc sed pede. Cum sociis",
     "postingDate": "2022-12-21"
@@ -2669,7 +2669,7 @@
     "maxPrice": 86,
     "salaryType": "Yearly",
     "jobLocation": "Waver",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "sem",
     "postingDate": "2023-03-16"
@@ -2683,7 +2683,7 @@
     "maxPrice": 71,
     "salaryType": "Yearly",
     "jobLocation": "Incheon",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Phasellus elit pede, malesuada vel, venenatis vel, faucibus",
     "postingDate": "2023-06-25"
@@ -2697,7 +2697,7 @@
     "maxPrice": 68,
     "salaryType": "Yearly",
     "jobLocation": "Bergen",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "elementum sem, vitae aliquam eros turpis",
     "postingDate": "2022-05-27"
@@ -2711,7 +2711,7 @@
     "maxPrice": 58,
     "salaryType": "Yearly",
     "jobLocation": "Cabo de Santo Agostinho",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Ut tincidunt orci quis",
     "postingDate": "2020-04-26"
@@ -2725,7 +2725,7 @@
     "maxPrice": 99,
     "salaryType": "Yearly",
     "jobLocation": "Machilipatnam",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "fringilla ornare placerat, orci lacus vestibulum lorem,",
     "postingDate": "2020-07-20"
@@ -2739,7 +2739,7 @@
     "maxPrice": 52,
     "salaryType": "Yearly",
     "jobLocation": "Tocopilla",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "lectus. Nullam suscipit, est ac",
     "postingDate": "2022-09-04"
@@ -2753,7 +2753,7 @@
     "maxPrice": 24,
     "salaryType": "Yearly",
     "jobLocation": "Melilla",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Quisque ac",
     "postingDate": "2023-07-14"
@@ -2767,7 +2767,7 @@
     "maxPrice": 88,
     "salaryType": "Yearly",
     "jobLocation": "Dublin",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "tristique pellentesque, tellus sem mollis",
     "postingDate": "2023-06-23"
@@ -2781,7 +2781,7 @@
     "maxPrice": 60,
     "salaryType": "Yearly",
     "jobLocation": "Vienna",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "ullamcorper viverra. Maecenas iaculis aliquet diam. Sed",
     "postingDate": "2021-09-18"
@@ -2795,7 +2795,7 @@
     "maxPrice": 65,
     "salaryType": "Yearly",
     "jobLocation": "Loralai",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "feugiat nec, diam. Duis mi enim,",
     "postingDate": "2023-12-10"
@@ -2809,7 +2809,7 @@
     "maxPrice": 84,
     "salaryType": "Yearly",
     "jobLocation": "Dublin",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Phasellus fermentum convallis ligula. Donec luctus",
     "postingDate": "2020-09-03"
@@ -2823,7 +2823,7 @@
     "maxPrice": 78,
     "salaryType": "Yearly",
     "jobLocation": "Olinda",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "massa. Mauris vestibulum, neque",
     "postingDate": "2023-04-28"
@@ -2837,7 +2837,7 @@
     "maxPrice": 67,
     "salaryType": "Yearly",
     "jobLocation": "North Waziristan",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "et magnis dis parturient montes, nascetur",
     "postingDate": "2022-04-27"
@@ -2851,7 +2851,7 @@
     "maxPrice": 47,
     "salaryType": "Yearly",
     "jobLocation": "Ninh Bình",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "facilisis, magna tellus",
     "postingDate": "2020-05-06"
@@ -2865,7 +2865,7 @@
     "maxPrice": 25,
     "salaryType": "Yearly",
     "jobLocation": "Temuka",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "sem ut cursus",
     "postingDate": "2024-01-06"
@@ -2879,7 +2879,7 @@
     "maxPrice": 87,
     "salaryType": "Yearly",
     "jobLocation": "Burhaniye",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "orci quis lectus.",
     "postingDate": "2023-06-12"
@@ -2893,7 +2893,7 @@
     "maxPrice": 34,
     "salaryType": "Yearly",
     "jobLocation": "Melilla",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "Curae Donec tincidunt.",
     "postingDate": "2022-07-05"
@@ -2907,7 +2907,7 @@
     "maxPrice": 40,
     "salaryType": "Yearly",
     "jobLocation": "Balikpapan",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "dolor. Quisque tincidunt pede ac urna. Ut tincidunt vehicula",
     "postingDate": "2020-06-27"
@@ -2921,7 +2921,7 @@
     "maxPrice": 45,
     "salaryType": "Yearly",
     "jobLocation": "Pangkalpinang",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "egestas hendrerit neque. In ornare sagittis felis.",
     "postingDate": "2020-11-27"
@@ -2935,7 +2935,7 @@
     "maxPrice": 67,
     "salaryType": "Yearly",
     "jobLocation": "Pasir Ris",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "at risus. Nunc ac sem ut dolor dapibus",
     "postingDate": "2024-01-11"
@@ -2949,7 +2949,7 @@
     "maxPrice": 88,
     "salaryType": "Yearly",
     "jobLocation": "Watson Lake",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "Duis a mi fringilla",
     "postingDate": "2023-08-19"
@@ -2963,7 +2963,7 @@
     "maxPrice": 36,
     "salaryType": "Yearly",
     "jobLocation": "Westmeerbeek",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "sed, hendrerit a, arcu. Sed et libero. Proin mi.",
     "postingDate": "2020-12-17"
@@ -2977,7 +2977,7 @@
     "maxPrice": 99,
     "salaryType": "Yearly",
     "jobLocation": "Melipeuco",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "non ante",
     "postingDate": "2021-11-23"
@@ -2991,7 +2991,7 @@
     "maxPrice": 83,
     "salaryType": "Yearly",
     "jobLocation": "Altach",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "dui. Fusce diam nunc, ullamcorper",
     "postingDate": "2023-09-15"
@@ -3005,7 +3005,7 @@
     "maxPrice": 60,
     "salaryType": "Yearly",
     "jobLocation": "Port Blair",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "tortor. Nunc commodo auctor velit. Aliquam nisl. Nulla eu neque",
     "postingDate": "2023-04-30"
@@ -3019,7 +3019,7 @@
     "maxPrice": 66,
     "salaryType": "Yearly",
     "jobLocation": "Trujillo",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "Duis cursus, diam at pretium",
     "postingDate": "2022-08-29"
@@ -3033,7 +3033,7 @@
     "maxPrice": 75,
     "salaryType": "Yearly",
     "jobLocation": "Maidstone",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "odio tristique pharetra. Quisque",
     "postingDate": "2020-03-22"
@@ -3047,7 +3047,7 @@
     "maxPrice": 82,
     "salaryType": "Yearly",
     "jobLocation": "Carapicuíba",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "pulvinar arcu et pede.",
     "postingDate": "2022-05-20"
@@ -3061,7 +3061,7 @@
     "maxPrice": 92,
     "salaryType": "Yearly",
     "jobLocation": "Sortland",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "elit, pretium et, rutrum non, hendrerit id,",
     "postingDate": "2020-06-16"
@@ -3075,7 +3075,7 @@
     "maxPrice": 74,
     "salaryType": "Yearly",
     "jobLocation": "Hamburg",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "urna. Vivamus molestie dapibus ligula. Aliquam erat",
     "postingDate": "2020-05-15"
@@ -3089,7 +3089,7 @@
     "maxPrice": 73,
     "salaryType": "Yearly",
     "jobLocation": "Yogyakarta",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "diam lorem, auctor quis, tristique ac, eleifend vitae, erat.",
     "postingDate": "2021-04-01"
@@ -3103,7 +3103,7 @@
     "maxPrice": 91,
     "salaryType": "Yearly",
     "jobLocation": "Graz",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "sed pede nec ante",
     "postingDate": "2020-09-28"
@@ -3117,7 +3117,7 @@
     "maxPrice": 43,
     "salaryType": "Yearly",
     "jobLocation": "Darwin",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "nisi a odio semper cursus. Integer mollis. Integer tincidunt",
     "postingDate": "2022-04-15"
@@ -3131,7 +3131,7 @@
     "maxPrice": 63,
     "salaryType": "Yearly",
     "jobLocation": "Saravena",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "neque. Nullam ut nisi a odio semper cursus.",
     "postingDate": "2021-05-05"
@@ -3145,7 +3145,7 @@
     "maxPrice": 81,
     "salaryType": "Yearly",
     "jobLocation": "Sarreguemines",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "mi. Duis risus odio, auctor vitae, aliquet",
     "postingDate": "2022-02-18"
@@ -3159,7 +3159,7 @@
     "maxPrice": 45,
     "salaryType": "Yearly",
     "jobLocation": "Southern Islands",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "mollis. Phasellus libero mauris, aliquam eu,",
     "postingDate": "2022-09-18"
@@ -3173,7 +3173,7 @@
     "maxPrice": 46,
     "salaryType": "Yearly",
     "jobLocation": "New Haven",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "sociis natoque penatibus et",
     "postingDate": "2023-05-26"
@@ -3187,7 +3187,7 @@
     "maxPrice": 77,
     "salaryType": "Yearly",
     "jobLocation": "Olmen",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "ut cursus luctus, ipsum leo elementum",
     "postingDate": "2024-02-03"
@@ -3201,7 +3201,7 @@
     "maxPrice": 26,
     "salaryType": "Yearly",
     "jobLocation": "A Coruña",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "et tristique pellentesque,",
     "postingDate": "2023-12-14"
@@ -3215,7 +3215,7 @@
     "maxPrice": 58,
     "salaryType": "Yearly",
     "jobLocation": "Huaraz",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "felis eget varius ultrices, mauris",
     "postingDate": "2020-10-21"
@@ -3229,7 +3229,7 @@
     "maxPrice": 57,
     "salaryType": "Yearly",
     "jobLocation": "Fort Simpson",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "Nam nulla magna, malesuada vel, convallis in, cursus et,",
     "postingDate": "2020-08-16"
@@ -3243,7 +3243,7 @@
     "maxPrice": 80,
     "salaryType": "Yearly",
     "jobLocation": "Port Augusta",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "mi. Duis risus odio, auctor vitae, aliquet",
     "postingDate": "2021-01-26"
@@ -3257,7 +3257,7 @@
     "maxPrice": 51,
     "salaryType": "Yearly",
     "jobLocation": "Ostrowiec Świętokrzyski",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "non justo. Proin non massa non",
     "postingDate": "2020-12-14"
@@ -3271,7 +3271,7 @@
     "maxPrice": 73,
     "salaryType": "Yearly",
     "jobLocation": "Uruapan",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "inceptos",
     "postingDate": "2020-03-14"
@@ -3285,7 +3285,7 @@
     "maxPrice": 89,
     "salaryType": "Yearly",
     "jobLocation": "Kroonstad",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "ipsum. Curabitur consequat,",
     "postingDate": "2021-09-05"
@@ -3299,7 +3299,7 @@
     "maxPrice": 38,
     "salaryType": "Yearly",
     "jobLocation": "Norrköping",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "hymenaeos. Mauris ut quam vel",
     "postingDate": "2021-03-30"
@@ -3313,7 +3313,7 @@
     "maxPrice": 58,
     "salaryType": "Yearly",
     "jobLocation": "Cajamarca",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "scelerisque sed, sapien. Nunc pulvinar",
     "postingDate": "2022-10-26"
@@ -3327,7 +3327,7 @@
     "maxPrice": 50,
     "salaryType": "Yearly",
     "jobLocation": "Poviglio",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "nec enim. Nunc ut erat. Sed",
     "postingDate": "2023-04-19"
@@ -3341,7 +3341,7 @@
     "maxPrice": 48,
     "salaryType": "Yearly",
     "jobLocation": "Novgorod",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "euismod et, commodo",
     "postingDate": "2022-03-04"
@@ -3355,7 +3355,7 @@
     "maxPrice": 47,
     "salaryType": "Yearly",
     "jobLocation": "Palma de Mallorca",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "Morbi vehicula. Pellentesque tincidunt tempus risus. Donec egestas. Duis ac",
     "postingDate": "2021-12-19"
@@ -3369,7 +3369,7 @@
     "maxPrice": 35,
     "salaryType": "Yearly",
     "jobLocation": "İzmit",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "Morbi neque tellus, imperdiet non, vestibulum nec, euismod in, dolor.",
     "postingDate": "2023-07-27"
@@ -3383,7 +3383,7 @@
     "maxPrice": 100,
     "salaryType": "Yearly",
     "jobLocation": "Yeosu",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "fringilla. Donec feugiat metus sit amet ante. Vivamus non",
     "postingDate": "2023-11-09"
@@ -3397,7 +3397,7 @@
     "maxPrice": 99,
     "salaryType": "Yearly",
     "jobLocation": "Tarnów",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "elit. Aliquam auctor, velit eget",
     "postingDate": "2020-02-26"
@@ -3411,7 +3411,7 @@
     "maxPrice": 99,
     "salaryType": "Yearly",
     "jobLocation": "Bastia",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "lorem, vehicula et, rutrum",
     "postingDate": "2022-05-10"
@@ -3425,7 +3425,7 @@
     "maxPrice": 79,
     "salaryType": "Yearly",
     "jobLocation": "Rangiora",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "faucibus orci luctus et ultrices posuere cubilia Curae",
     "postingDate": "2022-10-08"
@@ -3439,7 +3439,7 @@
     "maxPrice": 80,
     "salaryType": "Yearly",
     "jobLocation": "Adrano",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "nulla. Integer urna. Vivamus molestie dapibus",
     "postingDate": "2022-04-25"
@@ -3453,7 +3453,7 @@
     "maxPrice": 36,
     "salaryType": "Yearly",
     "jobLocation": "Urdaneta",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "in, hendrerit",
     "postingDate": "2020-11-13"
@@ -3467,7 +3467,7 @@
     "maxPrice": 39,
     "salaryType": "Yearly",
     "jobLocation": "Guaymas",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "purus, in molestie tortor nibh sit",
     "postingDate": "2022-01-13"
@@ -3481,7 +3481,7 @@
     "maxPrice": 57,
     "salaryType": "Yearly",
     "jobLocation": "Baguio",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "Duis elementum, dui",
     "postingDate": "2023-09-06"
@@ -3495,7 +3495,7 @@
     "maxPrice": 98,
     "salaryType": "Yearly",
     "jobLocation": "Hougang",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "ultrices a, auctor non, feugiat nec, diam. Duis mi enim,",
     "postingDate": "2024-01-09"
@@ -3509,7 +3509,7 @@
     "maxPrice": 70,
     "salaryType": "Yearly",
     "jobLocation": "Huechuraba",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "Proin velit. Sed",
     "postingDate": "2024-01-29"
@@ -3523,7 +3523,7 @@
     "maxPrice": 43,
     "salaryType": "Yearly",
     "jobLocation": "Dunedin",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "erat eget ipsum. Suspendisse sagittis. Nullam vitae",
     "postingDate": "2022-01-10"
@@ -3537,7 +3537,7 @@
     "maxPrice": 35,
     "salaryType": "Yearly",
     "jobLocation": "Gdynia",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "elit fermentum risus, at fringilla purus",
     "postingDate": "2022-06-18"
@@ -3551,7 +3551,7 @@
     "maxPrice": 88,
     "salaryType": "Yearly",
     "jobLocation": "Canlaon",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "odio. Nam interdum enim",
     "postingDate": "2022-07-08"
@@ -3565,7 +3565,7 @@
     "maxPrice": 44,
     "salaryType": "Yearly",
     "jobLocation": "Heilongjiang",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "dis parturient montes, nascetur ridiculus mus. Proin vel",
     "postingDate": "2023-06-26"
@@ -3579,7 +3579,7 @@
     "maxPrice": 45,
     "salaryType": "Yearly",
     "jobLocation": "San Vicente de Cañete",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "et magnis dis parturient montes, nascetur",
     "postingDate": "2021-09-11"
@@ -3593,7 +3593,7 @@
     "maxPrice": 63,
     "salaryType": "Yearly",
     "jobLocation": "Baracaldo",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "Aenean euismod mauris eu elit.",
     "postingDate": "2023-01-03"
@@ -3607,7 +3607,7 @@
     "maxPrice": 25,
     "salaryType": "Yearly",
     "jobLocation": "Kielce",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "amet ante. Vivamus non lorem vitae odio sagittis semper. Nam",
     "postingDate": "2022-04-14"
@@ -3621,7 +3621,7 @@
     "maxPrice": 62,
     "salaryType": "Yearly",
     "jobLocation": "Nova Kakhovka",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "In lorem. Donec elementum, lorem",
     "postingDate": "2023-11-09"
@@ -3635,7 +3635,7 @@
     "maxPrice": 67,
     "salaryType": "Yearly",
     "jobLocation": "Merzig",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "elit. Aliquam auctor, velit eget laoreet posuere,",
     "postingDate": "2022-11-28"
@@ -3649,7 +3649,7 @@
     "maxPrice": 58,
     "salaryType": "Yearly",
     "jobLocation": "Linköping",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "augue ut lacus. Nulla",
     "postingDate": "2024-01-09"
@@ -3663,7 +3663,7 @@
     "maxPrice": 56,
     "salaryType": "Yearly",
     "jobLocation": "Orenburg",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "sit amet orci. Ut sagittis lobortis mauris. Suspendisse aliquet molestie",
     "postingDate": "2021-01-21"
@@ -3677,7 +3677,7 @@
     "maxPrice": 51,
     "salaryType": "Yearly",
     "jobLocation": "Tuluá",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "ornare sagittis felis.",
     "postingDate": "2022-10-12"
@@ -3691,7 +3691,7 @@
     "maxPrice": 76,
     "salaryType": "Yearly",
     "jobLocation": "Palangka Raya",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "mi tempor lorem, eget mollis lectus pede et",
     "postingDate": "2021-10-18"
@@ -3705,7 +3705,7 @@
     "maxPrice": 67,
     "salaryType": "Yearly",
     "jobLocation": "Jurong West",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "quis massa.",
     "postingDate": "2020-08-19"
@@ -3719,7 +3719,7 @@
     "maxPrice": 87,
     "salaryType": "Yearly",
     "jobLocation": "Jeongeup",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "pharetra. Quisque",
     "postingDate": "2021-03-02"
@@ -3733,7 +3733,7 @@
     "maxPrice": 97,
     "salaryType": "Yearly",
     "jobLocation": "Beypazarı",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "Sed pharetra, felis eget varius ultrices, mauris ipsum porta",
     "postingDate": "2021-02-21"
@@ -3747,7 +3747,7 @@
     "maxPrice": 73,
     "salaryType": "Yearly",
     "jobLocation": "Tranås",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "tortor. Nunc",
     "postingDate": "2021-06-07"
@@ -3761,7 +3761,7 @@
     "maxPrice": 85,
     "salaryType": "Yearly",
     "jobLocation": "Bocchigliero",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "In scelerisque scelerisque dui. Suspendisse",
     "postingDate": "2020-03-02"
@@ -3775,7 +3775,7 @@
     "maxPrice": 34,
     "salaryType": "Yearly",
     "jobLocation": "Waret-l'Evque",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "non, lacinia at, iaculis",
     "postingDate": "2023-12-25"
@@ -3789,7 +3789,7 @@
     "maxPrice": 69,
     "salaryType": "Yearly",
     "jobLocation": "Dublin",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "amet, faucibus ut, nulla. Cras eu tellus",
     "postingDate": "2023-03-06"
@@ -3803,7 +3803,7 @@
     "maxPrice": 46,
     "salaryType": "Yearly",
     "jobLocation": "Monte Patria",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor.",
     "postingDate": "2023-01-25"
@@ -3817,7 +3817,7 @@
     "maxPrice": 60,
     "salaryType": "Yearly",
     "jobLocation": "Quảng Ngãi",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "ut cursus",
     "postingDate": "2022-12-14"
@@ -3831,7 +3831,7 @@
     "maxPrice": 23,
     "salaryType": "Yearly",
     "jobLocation": "Aguacaliente (San Francisco]",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "ligula elit, pretium et, rutrum non, hendrerit",
     "postingDate": "2021-02-14"
@@ -3845,7 +3845,7 @@
     "maxPrice": 95,
     "salaryType": "Yearly",
     "jobLocation": "Linköping",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "consectetuer euismod est arcu ac orci. Ut",
     "postingDate": "2020-11-07"
@@ -3859,7 +3859,7 @@
     "maxPrice": 55,
     "salaryType": "Yearly",
     "jobLocation": "Gongju",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "egestas rhoncus. Proin nisl sem, consequat nec, mollis",
     "postingDate": "2023-08-18"
@@ -3873,7 +3873,7 @@
     "maxPrice": 38,
     "salaryType": "Yearly",
     "jobLocation": "Cajamarca",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "nunc est, mollis",
     "postingDate": "2021-06-18"
@@ -3887,7 +3887,7 @@
     "maxPrice": 27,
     "salaryType": "Yearly",
     "jobLocation": "Istanbul",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "ad litora torquent per conubia nostra, per",
     "postingDate": "2023-07-05"
@@ -3901,7 +3901,7 @@
     "maxPrice": 26,
     "salaryType": "Yearly",
     "jobLocation": "Sicuani",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "erat eget ipsum. Suspendisse sagittis.",
     "postingDate": "2022-10-01"
@@ -3915,7 +3915,7 @@
     "maxPrice": 89,
     "salaryType": "Yearly",
     "jobLocation": "Emalahleni",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "et, eros. Proin ultrices. Duis volutpat nunc",
     "postingDate": "2023-04-24"
@@ -3929,7 +3929,7 @@
     "maxPrice": 38,
     "salaryType": "Yearly",
     "jobLocation": "Ñiquén",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "commodo auctor velit.",
     "postingDate": "2023-05-09"
@@ -3943,7 +3943,7 @@
     "maxPrice": 24,
     "salaryType": "Yearly",
     "jobLocation": "Bowden",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "vitae risus. Duis a mi fringilla mi lacinia",
     "postingDate": "2022-07-12"
@@ -3957,7 +3957,7 @@
     "maxPrice": 59,
     "salaryType": "Yearly",
     "jobLocation": "Alanya",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "Aliquam rutrum lorem ac risus.",
     "postingDate": "2021-03-01"
@@ -3971,7 +3971,7 @@
     "maxPrice": 75,
     "salaryType": "Yearly",
     "jobLocation": "San Rafael Abajo",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "neque venenatis lacus. Etiam bibendum fermentum metus. Aenean",
     "postingDate": "2022-04-20"
@@ -3985,7 +3985,7 @@
     "maxPrice": 80,
     "salaryType": "Yearly",
     "jobLocation": "Ibagué",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "non",
     "postingDate": "2022-11-25"
@@ -3999,7 +3999,7 @@
     "maxPrice": 52,
     "salaryType": "Yearly",
     "jobLocation": "Toruń",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "non quam. Pellentesque",
     "postingDate": "2020-10-30"
@@ -4013,7 +4013,7 @@
     "maxPrice": 79,
     "salaryType": "Yearly",
     "jobLocation": "Pelotas",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "euismod mauris eu elit.",
     "postingDate": "2022-03-11"
@@ -4027,7 +4027,7 @@
     "maxPrice": 47,
     "salaryType": "Yearly",
     "jobLocation": "Gwangyang",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "Duis at",
     "postingDate": "2021-01-15"
@@ -4041,7 +4041,7 @@
     "maxPrice": 81,
     "salaryType": "Yearly",
     "jobLocation": "Zona Bananera",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "libero mauris, aliquam eu, accumsan sed, facilisis",
     "postingDate": "2023-04-12"
@@ -4055,7 +4055,7 @@
     "maxPrice": 90,
     "salaryType": "Yearly",
     "jobLocation": "Lunel",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "et tristique pellentesque, tellus sem mollis",
     "postingDate": "2020-02-25"
@@ -4069,7 +4069,7 @@
     "maxPrice": 84,
     "salaryType": "Yearly",
     "jobLocation": "Jaén",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "lectus. Cum sociis natoque penatibus et magnis dis parturient montes,",
     "postingDate": "2024-02-03"
@@ -4083,7 +4083,7 @@
     "maxPrice": 34,
     "salaryType": "Yearly",
     "jobLocation": "Jönköping",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "ultrices iaculis odio. Nam interdum enim non",
     "postingDate": "2023-11-02"
@@ -4097,7 +4097,7 @@
     "maxPrice": 49,
     "salaryType": "Yearly",
     "jobLocation": "Heidelberg",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "Cras dolor dolor, tempus non, lacinia",
     "postingDate": "2020-04-10"
@@ -4111,7 +4111,7 @@
     "maxPrice": 47,
     "salaryType": "Yearly",
     "jobLocation": "Hisar",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "aliquet molestie",
     "postingDate": "2021-04-29"
@@ -4125,7 +4125,7 @@
     "maxPrice": 94,
     "salaryType": "Yearly",
     "jobLocation": "Owerri",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "mauris id sapien. Cras",
     "postingDate": "2023-09-07"
@@ -4139,7 +4139,7 @@
     "maxPrice": 53,
     "salaryType": "Yearly",
     "jobLocation": "Gwadar",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "nonummy ipsum non arcu. Vivamus sit amet risus. Donec",
     "postingDate": "2023-09-05"
@@ -4153,7 +4153,7 @@
     "maxPrice": 90,
     "salaryType": "Yearly",
     "jobLocation": "Ełk",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "ullamcorper, velit in aliquet",
     "postingDate": "2023-01-08"
@@ -4167,7 +4167,7 @@
     "maxPrice": 62,
     "salaryType": "Yearly",
     "jobLocation": "Wonju",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "Integer urna.",
     "postingDate": "2020-05-31"
@@ -4181,7 +4181,7 @@
     "maxPrice": 32,
     "salaryType": "Yearly",
     "jobLocation": "Ereğli",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "lectus rutrum urna,",
     "postingDate": "2023-11-19"
@@ -4195,7 +4195,7 @@
     "maxPrice": 38,
     "salaryType": "Yearly",
     "jobLocation": "Lutsk",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "Nam ac",
     "postingDate": "2023-08-28"
@@ -4209,7 +4209,7 @@
     "maxPrice": 84,
     "salaryType": "Yearly",
     "jobLocation": "Temuka",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "eleifend, nunc risus varius",
     "postingDate": "2020-09-14"
@@ -4223,7 +4223,7 @@
     "maxPrice": 66,
     "salaryType": "Yearly",
     "jobLocation": "Rochor",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "vel pede blandit congue. In scelerisque scelerisque dui.",
     "postingDate": "2023-11-03"
@@ -4237,7 +4237,7 @@
     "maxPrice": 78,
     "salaryType": "Yearly",
     "jobLocation": "Imphal",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "et magnis dis parturient",
     "postingDate": "2022-12-04"
@@ -4251,7 +4251,7 @@
     "maxPrice": 89,
     "salaryType": "Yearly",
     "jobLocation": "Hall in Tirol",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "eleifend",
     "postingDate": "2023-03-08"
@@ -4265,7 +4265,7 @@
     "maxPrice": 23,
     "salaryType": "Yearly",
     "jobLocation": "Fishguard",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "egestas hendrerit neque. In ornare sagittis felis.",
     "postingDate": "2021-02-14"
@@ -4279,7 +4279,7 @@
     "maxPrice": 82,
     "salaryType": "Yearly",
     "jobLocation": "Serangoon",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "nec, euismod in, dolor. Fusce feugiat. Lorem ipsum dolor",
     "postingDate": "2022-02-13"
@@ -4293,7 +4293,7 @@
     "maxPrice": 46,
     "salaryType": "Yearly",
     "jobLocation": "León",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "mauris sapien, cursus in, hendrerit consectetuer, cursus et,",
     "postingDate": "2020-04-27"
@@ -4307,7 +4307,7 @@
     "maxPrice": 93,
     "salaryType": "Yearly",
     "jobLocation": "Saravena",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "ornare egestas ligula. Nullam",
     "postingDate": "2023-03-10"
@@ -4321,7 +4321,7 @@
     "maxPrice": 89,
     "salaryType": "Yearly",
     "jobLocation": "Shanxi",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "pharetra nibh. Aliquam ornare, libero at",
     "postingDate": "2021-04-23"
@@ -4335,7 +4335,7 @@
     "maxPrice": 67,
     "salaryType": "Yearly",
     "jobLocation": "Đồng Hới",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "Donec luctus aliquet",
     "postingDate": "2022-08-04"
@@ -4349,7 +4349,7 @@
     "maxPrice": 33,
     "salaryType": "Yearly",
     "jobLocation": "Cartagena",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "In mi pede, nonummy ut, molestie in,",
     "postingDate": "2023-05-14"
@@ -4363,7 +4363,7 @@
     "maxPrice": 70,
     "salaryType": "Yearly",
     "jobLocation": "Zhytomyr",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "diam nunc, ullamcorper eu, euismod ac, fermentum vel,",
     "postingDate": "2023-10-27"
@@ -4377,7 +4377,7 @@
     "maxPrice": 65,
     "salaryType": "Yearly",
     "jobLocation": "Izmail",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "non sapien molestie orci tincidunt adipiscing. Mauris molestie pharetra nibh.",
     "postingDate": "2023-12-03"
@@ -4391,7 +4391,7 @@
     "maxPrice": 81,
     "salaryType": "Yearly",
     "jobLocation": "Hunstanton",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "amet risus. Donec egestas. Aliquam nec enim. Nunc ut",
     "postingDate": "2024-01-23"
@@ -4405,7 +4405,7 @@
     "maxPrice": 53,
     "salaryType": "Yearly",
     "jobLocation": "Kovel",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "nulla ante, iaculis nec, eleifend non,",
     "postingDate": "2021-05-22"
@@ -4419,7 +4419,7 @@
     "maxPrice": 97,
     "salaryType": "Yearly",
     "jobLocation": "Tianjin",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "posuere, enim nisl elementum",
     "postingDate": "2022-06-01"
@@ -4433,7 +4433,7 @@
     "maxPrice": 98,
     "salaryType": "Yearly",
     "jobLocation": "Cajamarca",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "tempus mauris erat eget ipsum. Suspendisse sagittis. Nullam",
     "postingDate": "2023-11-23"
@@ -4447,7 +4447,7 @@
     "maxPrice": 56,
     "salaryType": "Yearly",
     "jobLocation": "Puno",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "augue, eu tempor erat neque non quam. Pellentesque habitant morbi",
     "postingDate": "2020-04-23"
@@ -4461,7 +4461,7 @@
     "maxPrice": 73,
     "salaryType": "Yearly",
     "jobLocation": "Mariupol",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "et arcu imperdiet ullamcorper. Duis at lacus. Quisque",
     "postingDate": "2021-01-27"
@@ -4475,7 +4475,7 @@
     "maxPrice": 29,
     "salaryType": "Yearly",
     "jobLocation": "Bauchi",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "eget mollis lectus pede et risus. Quisque libero",
     "postingDate": "2023-04-30"
@@ -4489,7 +4489,7 @@
     "maxPrice": 37,
     "salaryType": "Yearly",
     "jobLocation": "Ivano-Frankivsk",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "congue a, aliquet vel, vulputate eu, odio. Phasellus",
     "postingDate": "2022-06-22"
@@ -4503,7 +4503,7 @@
     "maxPrice": 60,
     "salaryType": "Yearly",
     "jobLocation": "Owerri",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "orci sem eget massa. Suspendisse eleifend.",
     "postingDate": "2022-11-18"
@@ -4517,7 +4517,7 @@
     "maxPrice": 96,
     "salaryType": "Yearly",
     "jobLocation": "Hougang",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "Aliquam erat",
     "postingDate": "2020-07-22"
@@ -4531,7 +4531,7 @@
     "maxPrice": 20,
     "salaryType": "Yearly",
     "jobLocation": "Kidapawan",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "placerat velit. Quisque varius. Nam porttitor scelerisque neque. Nullam",
     "postingDate": "2022-04-05"
@@ -4545,7 +4545,7 @@
     "maxPrice": 24,
     "salaryType": "Yearly",
     "jobLocation": "Konotop",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "sem egestas blandit. Nam nulla magna, malesuada vel, convallis in,",
     "postingDate": "2023-03-29"
@@ -4559,7 +4559,7 @@
     "maxPrice": 31,
     "salaryType": "Yearly",
     "jobLocation": "Herenthout",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "malesuada augue ut lacus. Nulla tincidunt, neque vitae",
     "postingDate": "2023-03-05"
@@ -4573,7 +4573,7 @@
     "maxPrice": 30,
     "salaryType": "Yearly",
     "jobLocation": "Lillehammer",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "ligula eu enim. Etiam imperdiet dictum magna. Ut",
     "postingDate": "2023-05-03"
@@ -4587,7 +4587,7 @@
     "maxPrice": 25,
     "salaryType": "Yearly",
     "jobLocation": "Mount Pearl",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "Lorem ipsum dolor sit amet,",
     "postingDate": "2023-09-05"
@@ -4601,7 +4601,7 @@
     "maxPrice": 52,
     "salaryType": "Yearly",
     "jobLocation": "Almere",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "et",
     "postingDate": "2023-11-22"
@@ -4615,7 +4615,7 @@
     "maxPrice": 81,
     "salaryType": "Yearly",
     "jobLocation": "Gboko",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "et, eros. Proin ultrices. Duis volutpat",
     "postingDate": "2022-06-01"
@@ -4629,7 +4629,7 @@
     "maxPrice": 41,
     "salaryType": "Yearly",
     "jobLocation": "Tucson",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "ut odio vel est tempor bibendum. Donec felis orci, adipiscing",
     "postingDate": "2022-01-16"
@@ -4643,7 +4643,7 @@
     "maxPrice": 30,
     "salaryType": "Yearly",
     "jobLocation": "Panjim",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "fermentum metus. Aenean",
     "postingDate": "2023-08-18"
@@ -4657,7 +4657,7 @@
     "maxPrice": 45,
     "salaryType": "Yearly",
     "jobLocation": "Los Mochis",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "at, velit. Pellentesque ultricies dignissim lacus. Aliquam rutrum lorem",
     "postingDate": "2022-08-31"
@@ -4671,7 +4671,7 @@
     "maxPrice": 83,
     "salaryType": "Yearly",
     "jobLocation": "Chile Chico",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "Proin non massa non ante bibendum ullamcorper.",
     "postingDate": "2020-06-29"
@@ -4685,7 +4685,7 @@
     "maxPrice": 94,
     "salaryType": "Yearly",
     "jobLocation": "Melbourne",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "Donec est. Nunc ullamcorper, velit in aliquet lobortis, nisi",
     "postingDate": "2021-10-13"
@@ -4699,7 +4699,7 @@
     "maxPrice": 65,
     "salaryType": "Yearly",
     "jobLocation": "Ingolstadt",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "aliquam eros",
     "postingDate": "2021-10-15"
@@ -4713,7 +4713,7 @@
     "maxPrice": 46,
     "salaryType": "Yearly",
     "jobLocation": "Vaulx-lez-Chimay",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "ac mattis velit justo nec ante. Maecenas mi felis,",
     "postingDate": "2023-02-15"
@@ -4727,7 +4727,7 @@
     "maxPrice": 55,
     "salaryType": "Yearly",
     "jobLocation": "Fujian",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "nascetur ridiculus mus. Proin vel nisl.",
     "postingDate": "2021-06-24"
@@ -4741,7 +4741,7 @@
     "maxPrice": 88,
     "salaryType": "Yearly",
     "jobLocation": "Yeosu",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "venenatis a, magna.",
     "postingDate": "2022-12-02"
@@ -4755,7 +4755,7 @@
     "maxPrice": 70,
     "salaryType": "Yearly",
     "jobLocation": "Bad Ischl",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "nec orci. Donec nibh. Quisque",
     "postingDate": "2023-12-04"
@@ -4769,7 +4769,7 @@
     "maxPrice": 41,
     "salaryType": "Yearly",
     "jobLocation": "Western Water Catchment",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "posuere cubilia Curae Phasellus ornare. Fusce mollis. Duis",
     "postingDate": "2020-08-25"
@@ -4783,7 +4783,7 @@
     "maxPrice": 60,
     "salaryType": "Yearly",
     "jobLocation": "Chitral",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "est tempor bibendum. Donec felis orci,",
     "postingDate": "2023-03-10"
@@ -4797,7 +4797,7 @@
     "maxPrice": 71,
     "salaryType": "Yearly",
     "jobLocation": "Nieuwkapelle",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "luctus et ultrices posuere cubilia",
     "postingDate": "2023-05-20"
@@ -4811,7 +4811,7 @@
     "maxPrice": 32,
     "salaryType": "Yearly",
     "jobLocation": "Topeka",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "justo sit amet",
     "postingDate": "2023-04-03"
@@ -4825,7 +4825,7 @@
     "maxPrice": 32,
     "salaryType": "Yearly",
     "jobLocation": "Columbus",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "tincidunt pede ac",
     "postingDate": "2022-07-19"
@@ -4839,7 +4839,7 @@
     "maxPrice": 79,
     "salaryType": "Yearly",
     "jobLocation": "Falun",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "interdum enim non nisi. Aenean",
     "postingDate": "2023-03-22"
@@ -4853,7 +4853,7 @@
     "maxPrice": 97,
     "salaryType": "Yearly",
     "jobLocation": "Dera Ismail Khan",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "Mauris molestie pharetra",
     "postingDate": "2022-10-02"
@@ -4867,7 +4867,7 @@
     "maxPrice": 59,
     "salaryType": "Yearly",
     "jobLocation": "Muiden",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "nisi a odio",
     "postingDate": "2020-09-22"
@@ -4881,7 +4881,7 @@
     "maxPrice": 75,
     "salaryType": "Yearly",
     "jobLocation": "Berlin",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "metus. In lorem. Donec",
     "postingDate": "2020-11-30"
@@ -4895,7 +4895,7 @@
     "maxPrice": 87,
     "salaryType": "Yearly",
     "jobLocation": "Camarones",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "dictum ultricies ligula. Nullam enim. Sed nulla",
     "postingDate": "2022-05-16"
@@ -4909,7 +4909,7 @@
     "maxPrice": 20,
     "salaryType": "Yearly",
     "jobLocation": "Amersfoort",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "neque et nunc. Quisque ornare tortor at",
     "postingDate": "2021-07-03"
@@ -4923,7 +4923,7 @@
     "maxPrice": 61,
     "salaryType": "Yearly",
     "jobLocation": "Valéncia",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "eu dui. Cum sociis natoque penatibus",
     "postingDate": "2023-11-16"
@@ -4937,7 +4937,7 @@
     "maxPrice": 100,
     "salaryType": "Yearly",
     "jobLocation": "Brive-la-Gaillarde",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "Etiam bibendum fermentum metus. Aenean",
     "postingDate": "2021-07-30"
@@ -4951,7 +4951,7 @@
     "maxPrice": 40,
     "salaryType": "Yearly",
     "jobLocation": "Yên Ninh",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "lectus, a sollicitudin orci sem eget massa. Suspendisse",
     "postingDate": "2021-02-18"
@@ -4965,7 +4965,7 @@
     "maxPrice": 29,
     "salaryType": "Yearly",
     "jobLocation": "Westkapelle",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Intermediate",
     "employmentType": "Full-time",
     "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing",
     "postingDate": "2022-06-24"
@@ -4979,7 +4979,7 @@
     "maxPrice": 100,
     "salaryType": "Yearly",
     "jobLocation": "Cheongju",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "eget massa.",
     "postingDate": "2023-02-10"
@@ -4993,7 +4993,7 @@
     "maxPrice": 61,
     "salaryType": "Yearly",
     "jobLocation": "Petit-Thier",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "erat vitae risus. Duis a mi fringilla mi lacinia mattis.",
     "postingDate": "2023-03-17"
@@ -5007,7 +5007,7 @@
     "maxPrice": 52,
     "salaryType": "Yearly",
     "jobLocation": "Husum",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "ligula. Aliquam erat volutpat. Nulla dignissim. Maecenas ornare egestas ligula.",
     "postingDate": "2022-11-02"
@@ -5021,7 +5021,7 @@
     "maxPrice": 81,
     "salaryType": "Yearly",
     "jobLocation": "Tomaszów Mazowiecki",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "a neque. Nullam ut nisi a",
     "postingDate": "2021-08-23"
@@ -5035,7 +5035,7 @@
     "maxPrice": 79,
     "salaryType": "Yearly",
     "jobLocation": "Corte Brugnatella",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "eu tellus. Phasellus elit pede, malesuada vel, venenatis",
     "postingDate": "2021-12-02"
@@ -5049,7 +5049,7 @@
     "maxPrice": 80,
     "salaryType": "Yearly",
     "jobLocation": "Constantia",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "Sed neque. Sed",
     "postingDate": "2022-01-12"
@@ -5063,7 +5063,7 @@
     "maxPrice": 43,
     "salaryType": "Yearly",
     "jobLocation": "Seogwipo",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "erat volutpat. Nulla facilisis. Suspendisse commodo",
     "postingDate": "2023-03-22"
@@ -5077,7 +5077,7 @@
     "maxPrice": 71,
     "salaryType": "Yearly",
     "jobLocation": "Ghanche",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "magnis dis parturient montes, nascetur ridiculus mus. Proin vel",
     "postingDate": "2023-11-25"
@@ -5091,7 +5091,7 @@
     "maxPrice": 21,
     "salaryType": "Yearly",
     "jobLocation": "Chandigarh",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "et",
     "postingDate": "2021-02-20"
@@ -5105,7 +5105,7 @@
     "maxPrice": 67,
     "salaryType": "Yearly",
     "jobLocation": "Kherson",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "quis diam. Pellentesque habitant morbi tristique senectus",
     "postingDate": "2022-09-29"
@@ -5119,7 +5119,7 @@
     "maxPrice": 53,
     "salaryType": "Yearly",
     "jobLocation": "Huancayo",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "Vivamus nibh dolor, nonummy ac, feugiat non, lobortis quis,",
     "postingDate": "2020-08-10"
@@ -5133,7 +5133,7 @@
     "maxPrice": 57,
     "salaryType": "Yearly",
     "jobLocation": "Bekasi",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "quis accumsan convallis, ante lectus",
     "postingDate": "2020-08-20"
@@ -5147,7 +5147,7 @@
     "maxPrice": 23,
     "salaryType": "Yearly",
     "jobLocation": "Jaén",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "In lorem. Donec elementum, lorem ut aliquam",
     "postingDate": "2023-09-23"
@@ -5161,7 +5161,7 @@
     "maxPrice": 92,
     "salaryType": "Yearly",
     "jobLocation": "Görlitz",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "nec, imperdiet nec, leo. Morbi",
     "postingDate": "2020-09-10"
@@ -5175,7 +5175,7 @@
     "maxPrice": 24,
     "salaryType": "Yearly",
     "jobLocation": "Valenzuela",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "Phasellus vitae",
     "postingDate": "2020-02-26"
@@ -5189,7 +5189,7 @@
     "maxPrice": 56,
     "salaryType": "Yearly",
     "jobLocation": "Melilla",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "egestas. Fusce aliquet magna a",
     "postingDate": "2022-07-25"
@@ -5203,7 +5203,7 @@
     "maxPrice": 23,
     "salaryType": "Yearly",
     "jobLocation": "Tula",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "nec mauris blandit mattis. Cras eget nisi dictum",
     "postingDate": "2023-01-08"
@@ -5217,7 +5217,7 @@
     "maxPrice": 63,
     "salaryType": "Yearly",
     "jobLocation": "Mora",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "elit, a feugiat tellus lorem eu",
     "postingDate": "2020-11-11"
@@ -5231,7 +5231,7 @@
     "maxPrice": 88,
     "salaryType": "Yearly",
     "jobLocation": "Chiclayo",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "Proin vel arcu eu odio tristique pharetra. Quisque",
     "postingDate": "2024-02-21"
@@ -5245,7 +5245,7 @@
     "maxPrice": 70,
     "salaryType": "Yearly",
     "jobLocation": "San José",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "faucibus leo, in lobortis tellus justo",
     "postingDate": "2023-07-10"
@@ -5259,7 +5259,7 @@
     "maxPrice": 48,
     "salaryType": "Yearly",
     "jobLocation": "Kurram Agency",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "ac tellus. Suspendisse sed dolor. Fusce mi",
     "postingDate": "2022-06-20"
@@ -5273,7 +5273,7 @@
     "maxPrice": 78,
     "salaryType": "Yearly",
     "jobLocation": "Jundiaí",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "tempus mauris erat eget",
     "postingDate": "2021-04-15"
@@ -5287,7 +5287,7 @@
     "maxPrice": 75,
     "salaryType": "Yearly",
     "jobLocation": "Dnipro",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "vulputate,",
     "postingDate": "2022-10-11"
@@ -5301,7 +5301,7 @@
     "maxPrice": 24,
     "salaryType": "Yearly",
     "jobLocation": "Lillehammer",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "mauris sapien, cursus in, hendrerit consectetuer,",
     "postingDate": "2021-10-09"
@@ -5315,7 +5315,7 @@
     "maxPrice": 57,
     "salaryType": "Yearly",
     "jobLocation": "Owerri",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "sapien. Cras dolor dolor, tempus non, lacinia at,",
     "postingDate": "2020-04-24"
@@ -5329,7 +5329,7 @@
     "maxPrice": 24,
     "salaryType": "Yearly",
     "jobLocation": "Frederikstad",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "bibendum fermentum metus. Aenean sed pede",
     "postingDate": "2020-04-30"
@@ -5343,7 +5343,7 @@
     "maxPrice": 37,
     "salaryType": "Yearly",
     "jobLocation": "Bo",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "a, magna. Lorem ipsum dolor sit",
     "postingDate": "2022-03-15"
@@ -5357,7 +5357,7 @@
     "maxPrice": 54,
     "salaryType": "Yearly",
     "jobLocation": "Makiivka",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "lorem ac risus. Morbi metus. Vivamus euismod urna.",
     "postingDate": "2020-10-22"
@@ -5371,7 +5371,7 @@
     "maxPrice": 25,
     "salaryType": "Yearly",
     "jobLocation": "Bến Tre",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "fames ac turpis egestas. Aliquam fringilla cursus purus.",
     "postingDate": "2021-11-05"
@@ -5385,7 +5385,7 @@
     "maxPrice": 98,
     "salaryType": "Yearly",
     "jobLocation": "Riosucio",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "dictum eleifend, nunc risus varius orci,",
     "postingDate": "2021-06-25"
@@ -5399,7 +5399,7 @@
     "maxPrice": 40,
     "salaryType": "Yearly",
     "jobLocation": "Chemnitz",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "magnis dis",
     "postingDate": "2020-11-14"
@@ -5413,7 +5413,7 @@
     "maxPrice": 78,
     "salaryType": "Yearly",
     "jobLocation": "Gorinchem",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "Phasellus elit pede, malesuada vel, venenatis vel,",
     "postingDate": "2020-05-06"
@@ -5427,7 +5427,7 @@
     "maxPrice": 55,
     "salaryType": "Yearly",
     "jobLocation": "Hubei",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "dictum augue malesuada malesuada. Integer id magna et",
     "postingDate": "2021-04-12"
@@ -5441,7 +5441,7 @@
     "maxPrice": 55,
     "salaryType": "Yearly",
     "jobLocation": "Knittelfeld",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "ac urna.",
     "postingDate": "2022-07-04"
@@ -5455,7 +5455,7 @@
     "maxPrice": 97,
     "salaryType": "Yearly",
     "jobLocation": "Punggol",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "a feugiat",
     "postingDate": "2023-12-02"
@@ -5469,7 +5469,7 @@
     "maxPrice": 44,
     "salaryType": "Yearly",
     "jobLocation": "Balikpapan",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "elit pede, malesuada vel, venenatis vel,",
     "postingDate": "2022-05-19"
@@ -5483,7 +5483,7 @@
     "maxPrice": 22,
     "salaryType": "Yearly",
     "jobLocation": "Simpang",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "laoreet lectus quis massa.",
     "postingDate": "2024-01-21"
@@ -5497,7 +5497,7 @@
     "maxPrice": 73,
     "salaryType": "Yearly",
     "jobLocation": "Jayapura",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "velit. Aliquam nisl.",
     "postingDate": "2021-09-14"
@@ -5511,7 +5511,7 @@
     "maxPrice": 50,
     "salaryType": "Yearly",
     "jobLocation": "Butterworth",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "lectus pede, ultrices a, auctor",
     "postingDate": "2021-08-21"
@@ -5525,7 +5525,7 @@
     "maxPrice": 94,
     "salaryType": "Yearly",
     "jobLocation": "Dieppe",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "sit amet",
     "postingDate": "2022-07-24"
@@ -5539,7 +5539,7 @@
     "maxPrice": 73,
     "salaryType": "Yearly",
     "jobLocation": "Hannover",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "arcu. Vestibulum ut eros non enim commodo",
     "postingDate": "2021-06-17"
@@ -5553,7 +5553,7 @@
     "maxPrice": 68,
     "salaryType": "Yearly",
     "jobLocation": "Vigo",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "risus. In mi pede,",
     "postingDate": "2023-09-19"
@@ -5567,7 +5567,7 @@
     "maxPrice": 44,
     "salaryType": "Yearly",
     "jobLocation": "Dipolog",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "quis turpis vitae",
     "postingDate": "2020-04-01"
@@ -5581,7 +5581,7 @@
     "maxPrice": 34,
     "salaryType": "Yearly",
     "jobLocation": "Goslar",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "magna",
     "postingDate": "2023-02-16"
@@ -5595,7 +5595,7 @@
     "maxPrice": 66,
     "salaryType": "Yearly",
     "jobLocation": "San José del Guaviare",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "risus varius orci,",
     "postingDate": "2023-04-19"
@@ -5609,7 +5609,7 @@
     "maxPrice": 62,
     "salaryType": "Yearly",
     "jobLocation": "San Andrés",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "Cras vulputate velit eu",
     "postingDate": "2022-03-07"
@@ -5623,7 +5623,7 @@
     "maxPrice": 64,
     "salaryType": "Yearly",
     "jobLocation": "Lions Bay",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "est tempor",
     "postingDate": "2021-10-20"
@@ -5637,7 +5637,7 @@
     "maxPrice": 43,
     "salaryType": "Yearly",
     "jobLocation": "Bremen",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "egestas ligula. Nullam feugiat placerat velit. Quisque",
     "postingDate": "2021-08-18"
@@ -5651,7 +5651,7 @@
     "maxPrice": 42,
     "salaryType": "Yearly",
     "jobLocation": "Muñoz",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "a, scelerisque sed,",
     "postingDate": "2021-06-25"
@@ -5665,7 +5665,7 @@
     "maxPrice": 75,
     "salaryType": "Yearly",
     "jobLocation": "Logroño",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "eu lacus. Quisque imperdiet, erat nonummy ultricies ornare,",
     "postingDate": "2020-05-24"
@@ -5679,7 +5679,7 @@
     "maxPrice": 39,
     "salaryType": "Yearly",
     "jobLocation": "Panabo",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "mauris a nunc.",
     "postingDate": "2022-07-03"
@@ -5693,7 +5693,7 @@
     "maxPrice": 35,
     "salaryType": "Yearly",
     "jobLocation": "Huizingen",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "lacus pede",
     "postingDate": "2023-11-22"
@@ -5707,7 +5707,7 @@
     "maxPrice": 85,
     "salaryType": "Yearly",
     "jobLocation": "Belfort",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "amet ante. Vivamus non lorem vitae",
     "postingDate": "2021-10-05"
@@ -5721,7 +5721,7 @@
     "maxPrice": 56,
     "salaryType": "Yearly",
     "jobLocation": "Skien",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "eget, volutpat ornare, facilisis eget, ipsum.",
     "postingDate": "2023-10-20"
@@ -5735,7 +5735,7 @@
     "maxPrice": 53,
     "salaryType": "Yearly",
     "jobLocation": "Wodonga",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "blandit viverra. Donec tempus, lorem fringilla ornare",
     "postingDate": "2022-09-18"
@@ -5749,7 +5749,7 @@
     "maxPrice": 65,
     "salaryType": "Yearly",
     "jobLocation": "Lillehammer",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "ac mattis ornare, lectus ante",
     "postingDate": "2023-11-23"
@@ -5763,7 +5763,7 @@
     "maxPrice": 56,
     "salaryType": "Yearly",
     "jobLocation": "Stroitel",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Mid-level",
     "employmentType": "Full-time",
     "description": "Vestibulum ut eros",
     "postingDate": "2021-09-22"
@@ -5777,7 +5777,7 @@
     "maxPrice": 88,
     "salaryType": "Yearly",
     "jobLocation": "Kaliningrad",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "sed sem egestas blandit. Nam nulla magna, malesuada vel,",
     "postingDate": "2023-10-09"
@@ -5791,7 +5791,7 @@
     "maxPrice": 60,
     "salaryType": "Yearly",
     "jobLocation": "Darwin",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Sed diam lorem, auctor quis, tristique ac, eleifend vitae, erat.",
     "postingDate": "2021-01-15"
@@ -5805,7 +5805,7 @@
     "maxPrice": 83,
     "salaryType": "Yearly",
     "jobLocation": "Mamuju",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "sociis natoque penatibus et magnis dis parturient",
     "postingDate": "2022-07-26"
@@ -5819,7 +5819,7 @@
     "maxPrice": 91,
     "salaryType": "Yearly",
     "jobLocation": "Vetlanda",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Integer id magna et ipsum cursus vestibulum. Mauris magna.",
     "postingDate": "2022-08-28"
@@ -5833,7 +5833,7 @@
     "maxPrice": 83,
     "salaryType": "Yearly",
     "jobLocation": "Şereflikoçhisar",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "amet metus. Aliquam erat volutpat. Nulla",
     "postingDate": "2023-04-29"
@@ -5847,7 +5847,7 @@
     "maxPrice": 29,
     "salaryType": "Yearly",
     "jobLocation": "Hougang",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "arcu iaculis enim, sit amet ornare lectus justo",
     "postingDate": "2022-09-16"
@@ -5861,7 +5861,7 @@
     "maxPrice": 79,
     "salaryType": "Yearly",
     "jobLocation": "Antipolo",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "blandit mattis. Cras eget nisi dictum augue malesuada malesuada. Integer",
     "postingDate": "2021-11-24"
@@ -5875,7 +5875,7 @@
     "maxPrice": 80,
     "salaryType": "Yearly",
     "jobLocation": "Narvik",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "purus. Maecenas libero est, congue a, aliquet",
     "postingDate": "2024-01-31"
@@ -5889,7 +5889,7 @@
     "maxPrice": 90,
     "salaryType": "Yearly",
     "jobLocation": "Olivar",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "lobortis ultrices. Vivamus rhoncus.",
     "postingDate": "2023-08-06"
@@ -5903,7 +5903,7 @@
     "maxPrice": 36,
     "salaryType": "Yearly",
     "jobLocation": "Saint Paul",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "massa",
     "postingDate": "2023-12-15"
@@ -5917,7 +5917,7 @@
     "maxPrice": 95,
     "salaryType": "Yearly",
     "jobLocation": "Zoetermeer",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "In lorem. Donec elementum, lorem",
     "postingDate": "2023-10-04"
@@ -5931,7 +5931,7 @@
     "maxPrice": 93,
     "salaryType": "Yearly",
     "jobLocation": "Pergola",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "dapibus gravida. Aliquam tincidunt, nunc",
     "postingDate": "2023-09-25"
@@ -5945,7 +5945,7 @@
     "maxPrice": 73,
     "salaryType": "Yearly",
     "jobLocation": "Belfast",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "nibh vulputate mauris sagittis placerat. Cras dictum",
     "postingDate": "2023-08-06"
@@ -5959,7 +5959,7 @@
     "maxPrice": 96,
     "salaryType": "Yearly",
     "jobLocation": "Skien",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "ultrices, mauris ipsum porta elit, a feugiat tellus lorem eu",
     "postingDate": "2022-10-13"
@@ -5973,7 +5973,7 @@
     "maxPrice": 86,
     "salaryType": "Yearly",
     "jobLocation": "Stintino",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "sem, consequat nec, mollis vitae, posuere at, velit.",
     "postingDate": "2022-02-11"
@@ -5987,7 +5987,7 @@
     "maxPrice": 22,
     "salaryType": "Yearly",
     "jobLocation": "Diego de Almagro",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Cras",
     "postingDate": "2023-06-08"
@@ -6001,7 +6001,7 @@
     "maxPrice": 44,
     "salaryType": "Yearly",
     "jobLocation": "Oslo",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "amet ante. Vivamus non lorem vitae odio",
     "postingDate": "2021-02-27"
@@ -6015,7 +6015,7 @@
     "maxPrice": 23,
     "salaryType": "Yearly",
     "jobLocation": "Huaral",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "ultricies sem magna",
     "postingDate": "2021-05-19"
@@ -6029,7 +6029,7 @@
     "maxPrice": 85,
     "salaryType": "Yearly",
     "jobLocation": "Florø",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "lacus pede",
     "postingDate": "2020-07-29"
@@ -6043,7 +6043,7 @@
     "maxPrice": 71,
     "salaryType": "Yearly",
     "jobLocation": "Gliwice",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "risus. Donec",
     "postingDate": "2021-04-27"
@@ -6057,7 +6057,7 @@
     "maxPrice": 29,
     "salaryType": "Yearly",
     "jobLocation": "Laval",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "interdum libero dui nec ipsum.",
     "postingDate": "2022-09-30"
@@ -6071,7 +6071,7 @@
     "maxPrice": 34,
     "salaryType": "Yearly",
     "jobLocation": "Chakwal",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "felis. Donec tempor, est ac",
     "postingDate": "2022-01-30"
@@ -6085,7 +6085,7 @@
     "maxPrice": 97,
     "salaryType": "Yearly",
     "jobLocation": "Wonju",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "felis. Nulla tempor augue ac ipsum. Phasellus vitae mauris",
     "postingDate": "2022-07-20"
@@ -6099,7 +6099,7 @@
     "maxPrice": 67,
     "salaryType": "Yearly",
     "jobLocation": "Oldenzaal",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "lacus. Etiam bibendum fermentum metus. Aenean sed",
     "postingDate": "2022-12-19"
@@ -6113,7 +6113,7 @@
     "maxPrice": 77,
     "salaryType": "Yearly",
     "jobLocation": "North Waziristan",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Nam consequat dolor vitae dolor. Donec fringilla.",
     "postingDate": "2023-09-15"
@@ -6127,7 +6127,7 @@
     "maxPrice": 57,
     "salaryType": "Yearly",
     "jobLocation": "Emmen",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "sagittis. Nullam",
     "postingDate": "2021-03-09"
@@ -6141,7 +6141,7 @@
     "maxPrice": 69,
     "salaryType": "Yearly",
     "jobLocation": "Thatta",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "lacinia orci, consectetuer",
     "postingDate": "2021-03-25"
@@ -6155,7 +6155,7 @@
     "maxPrice": 74,
     "salaryType": "Yearly",
     "jobLocation": "Leganés",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "semper.",
     "postingDate": "2021-06-18"
@@ -6169,7 +6169,7 @@
     "maxPrice": 95,
     "salaryType": "Yearly",
     "jobLocation": "Montrose",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "elit. Etiam laoreet, libero et tristique pellentesque, tellus sem",
     "postingDate": "2020-02-27"
@@ -6183,7 +6183,7 @@
     "maxPrice": 22,
     "salaryType": "Yearly",
     "jobLocation": "Manokwari",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "sapien. Cras dolor dolor, tempus",
     "postingDate": "2021-07-21"
@@ -6197,7 +6197,7 @@
     "maxPrice": 92,
     "salaryType": "Yearly",
     "jobLocation": "A Coruña",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "in felis. Nulla tempor augue ac ipsum. Phasellus vitae",
     "postingDate": "2023-09-22"
@@ -6211,7 +6211,7 @@
     "maxPrice": 46,
     "salaryType": "Yearly",
     "jobLocation": "Popayán",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "eget metus. In nec orci. Donec nibh. Quisque",
     "postingDate": "2022-07-02"
@@ -6225,7 +6225,7 @@
     "maxPrice": 96,
     "salaryType": "Yearly",
     "jobLocation": "Tomohon",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "scelerisque dui. Suspendisse",
     "postingDate": "2020-11-13"
@@ -6239,7 +6239,7 @@
     "maxPrice": 69,
     "salaryType": "Yearly",
     "jobLocation": "Tarma",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Mauris magna. Duis dignissim tempor arcu.",
     "postingDate": "2021-03-23"
@@ -6253,7 +6253,7 @@
     "maxPrice": 64,
     "salaryType": "Yearly",
     "jobLocation": "San Isidro de El General",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "risus a ultricies adipiscing, enim mi tempor lorem, eget mollis",
     "postingDate": "2023-09-30"
@@ -6267,7 +6267,7 @@
     "maxPrice": 66,
     "salaryType": "Yearly",
     "jobLocation": "Drohobych",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "penatibus et magnis",
     "postingDate": "2024-02-14"
@@ -6281,7 +6281,7 @@
     "maxPrice": 89,
     "salaryType": "Yearly",
     "jobLocation": "Jambi",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Etiam vestibulum massa",
     "postingDate": "2023-10-15"
@@ -6295,7 +6295,7 @@
     "maxPrice": 81,
     "salaryType": "Yearly",
     "jobLocation": "Borlänge",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "non, bibendum",
     "postingDate": "2021-06-13"
@@ -6309,7 +6309,7 @@
     "maxPrice": 51,
     "salaryType": "Yearly",
     "jobLocation": "Fort Smith",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Quisque ac libero nec ligula consectetuer rhoncus.",
     "postingDate": "2020-03-08"
@@ -6323,7 +6323,7 @@
     "maxPrice": 47,
     "salaryType": "Yearly",
     "jobLocation": "Arequipa",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "neque. Nullam ut nisi a odio",
     "postingDate": "2022-06-20"
@@ -6337,7 +6337,7 @@
     "maxPrice": 29,
     "salaryType": "Yearly",
     "jobLocation": "Lustenau",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "felis orci, adipiscing non, luctus sit amet, faucibus ut,",
     "postingDate": "2021-07-26"
@@ -6351,7 +6351,7 @@
     "maxPrice": 42,
     "salaryType": "Yearly",
     "jobLocation": "Lebowakgomo",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "nec",
     "postingDate": "2023-08-01"
@@ -6365,7 +6365,7 @@
     "maxPrice": 80,
     "salaryType": "Yearly",
     "jobLocation": "Hoyerswerda",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "mi fringilla mi lacinia mattis. Integer eu lacus. Quisque",
     "postingDate": "2022-03-27"
@@ -6379,7 +6379,7 @@
     "maxPrice": 97,
     "salaryType": "Yearly",
     "jobLocation": "Kohima",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "sollicitudin a, malesuada id,",
     "postingDate": "2022-10-08"
@@ -6393,7 +6393,7 @@
     "maxPrice": 52,
     "salaryType": "Yearly",
     "jobLocation": "Bukit Batok",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "eu nibh vulputate mauris sagittis placerat. Cras dictum ultricies",
     "postingDate": "2020-05-03"
@@ -6407,7 +6407,7 @@
     "maxPrice": 98,
     "salaryType": "Yearly",
     "jobLocation": "Kaduna",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "fringilla, porttitor vulputate, posuere vulputate, lacus. Cras interdum. Nunc",
     "postingDate": "2020-09-24"
@@ -6421,7 +6421,7 @@
     "maxPrice": 95,
     "salaryType": "Yearly",
     "jobLocation": "Ryazan",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "et, magna. Praesent interdum ligula eu enim. Etiam",
     "postingDate": "2022-05-17"
@@ -6435,7 +6435,7 @@
     "maxPrice": 26,
     "salaryType": "Yearly",
     "jobLocation": "Ibagué",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "et nunc. Quisque ornare tortor at risus.",
     "postingDate": "2021-07-02"
@@ -6449,7 +6449,7 @@
     "maxPrice": 91,
     "salaryType": "Yearly",
     "jobLocation": "Lelystad",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Nunc ut erat. Sed nunc est, mollis non, cursus",
     "postingDate": "2021-09-17"
@@ -6463,7 +6463,7 @@
     "maxPrice": 51,
     "salaryType": "Yearly",
     "jobLocation": "Jagersfontein",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Senior-level",
     "employmentType": "Full-time",
     "description": "Vivamus euismod urna. Nullam lobortis quam",
     "postingDate": "2021-12-21"
@@ -6477,7 +6477,7 @@
     "maxPrice": 98,
     "salaryType": "Yearly",
     "jobLocation": "Águas Lindas de Goiás",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "pellentesque, tellus sem mollis dui,",
     "postingDate": "2023-06-23"
@@ -6491,7 +6491,7 @@
     "maxPrice": 50,
     "salaryType": "Yearly",
     "jobLocation": "Puntarenas",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "leo. Morbi neque tellus, imperdiet non, vestibulum nec, euismod in,",
     "postingDate": "2023-07-05"
@@ -6505,7 +6505,7 @@
     "maxPrice": 77,
     "salaryType": "Yearly",
     "jobLocation": "Montluçon",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "fermentum vel, mauris. Integer sem elit,",
     "postingDate": "2021-06-10"
@@ -6519,7 +6519,7 @@
     "maxPrice": 98,
     "salaryType": "Yearly",
     "jobLocation": "Huancayo",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "in consequat enim diam vel arcu. Curabitur",
     "postingDate": "2021-09-23"
@@ -6533,7 +6533,7 @@
     "maxPrice": 26,
     "salaryType": "Yearly",
     "jobLocation": "Huaral",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "neque. Nullam",
     "postingDate": "2020-10-09"
@@ -6547,7 +6547,7 @@
     "maxPrice": 76,
     "salaryType": "Yearly",
     "jobLocation": "Ashburton",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "nunc, ullamcorper eu, euismod",
     "postingDate": "2020-03-27"
@@ -6561,7 +6561,7 @@
     "maxPrice": 30,
     "salaryType": "Yearly",
     "jobLocation": "Jiutepec",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "elit erat vitae risus. Duis a",
     "postingDate": "2021-03-28"
@@ -6575,7 +6575,7 @@
     "maxPrice": 57,
     "salaryType": "Yearly",
     "jobLocation": "Vejalpur",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "felis. Donec tempor, est ac mattis semper, dui",
     "postingDate": "2021-05-04"
@@ -6589,7 +6589,7 @@
     "maxPrice": 33,
     "salaryType": "Yearly",
     "jobLocation": "Mackay",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "facilisi. Sed neque. Sed eget lacus. Mauris non",
     "postingDate": "2020-06-10"
@@ -6603,7 +6603,7 @@
     "maxPrice": 58,
     "salaryType": "Yearly",
     "jobLocation": "Hebei",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "vel",
     "postingDate": "2023-07-01"
@@ -6617,7 +6617,7 @@
     "maxPrice": 48,
     "salaryType": "Yearly",
     "jobLocation": "Aguachica",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "Donec fringilla. Donec feugiat metus",
     "postingDate": "2023-06-03"
@@ -6631,7 +6631,7 @@
     "maxPrice": 68,
     "salaryType": "Yearly",
     "jobLocation": "Queenstown",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "Donec elementum, lorem ut aliquam iaculis, lacus",
     "postingDate": "2023-04-06"
@@ -6645,7 +6645,7 @@
     "maxPrice": 61,
     "salaryType": "Yearly",
     "jobLocation": "Lutsk",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "vitae odio sagittis",
     "postingDate": "2022-04-24"
@@ -6659,7 +6659,7 @@
     "maxPrice": 50,
     "salaryType": "Yearly",
     "jobLocation": "Kabankalan",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "ut mi. Duis risus",
     "postingDate": "2022-08-12"
@@ -6673,7 +6673,7 @@
     "maxPrice": 88,
     "salaryType": "Yearly",
     "jobLocation": "Temuka",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "massa. Vestibulum accumsan neque et",
     "postingDate": "2021-07-03"
@@ -6687,7 +6687,7 @@
     "maxPrice": 24,
     "salaryType": "Yearly",
     "jobLocation": "Ukkel",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "Fusce aliquam, enim nec tempus scelerisque, lorem ipsum sodales",
     "postingDate": "2022-09-12"
@@ -6701,7 +6701,7 @@
     "maxPrice": 37,
     "salaryType": "Yearly",
     "jobLocation": "Maicao",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "nunc. Quisque ornare tortor at risus. Nunc ac sem",
     "postingDate": "2020-05-06"
@@ -6715,7 +6715,7 @@
     "maxPrice": 89,
     "salaryType": "Yearly",
     "jobLocation": "Cuxhaven",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "dis parturient montes, nascetur ridiculus mus. Aenean eget magna.",
     "postingDate": "2020-04-15"
@@ -6729,7 +6729,7 @@
     "maxPrice": 67,
     "salaryType": "Yearly",
     "jobLocation": "Mexicali",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "arcu imperdiet ullamcorper.",
     "postingDate": "2022-11-20"
@@ -6743,7 +6743,7 @@
     "maxPrice": 28,
     "salaryType": "Yearly",
     "jobLocation": "Serangoon",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "at, iaculis",
     "postingDate": "2021-10-15"
@@ -6757,7 +6757,7 @@
     "maxPrice": 80,
     "salaryType": "Yearly",
     "jobLocation": "Spijkenisse",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "Maecenas mi felis, adipiscing fringilla, porttitor vulputate, posuere",
     "postingDate": "2021-02-03"
@@ -6771,7 +6771,7 @@
     "maxPrice": 74,
     "salaryType": "Yearly",
     "jobLocation": "Waren",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "ante ipsum primis in faucibus orci luctus et ultrices",
     "postingDate": "2021-07-02"
@@ -6785,7 +6785,7 @@
     "maxPrice": 82,
     "salaryType": "Yearly",
     "jobLocation": "Tczew",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "tempor lorem, eget mollis lectus pede",
     "postingDate": "2021-10-07"
@@ -6799,7 +6799,7 @@
     "maxPrice": 84,
     "salaryType": "Yearly",
     "jobLocation": "Kungälv",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "sit amet, risus. Donec nibh enim, gravida sit amet, dapibus",
     "postingDate": "2021-03-22"
@@ -6813,7 +6813,7 @@
     "maxPrice": 92,
     "salaryType": "Yearly",
     "jobLocation": "Cotabato City",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "penatibus et magnis dis parturient montes,",
     "postingDate": "2020-03-04"
@@ -6827,7 +6827,7 @@
     "maxPrice": 21,
     "salaryType": "Yearly",
     "jobLocation": "Simpang",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "mollis vitae, posuere at, velit. Cras lorem lorem, luctus",
     "postingDate": "2023-10-23"
@@ -6841,7 +6841,7 @@
     "maxPrice": 61,
     "salaryType": "Yearly",
     "jobLocation": "San Pablo",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "enim, condimentum",
     "postingDate": "2021-07-02"
@@ -6855,7 +6855,7 @@
     "maxPrice": 45,
     "salaryType": "Yearly",
     "jobLocation": "Toledo",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "sed tortor. Integer aliquam adipiscing lacus. Ut",
     "postingDate": "2023-02-25"
@@ -6869,7 +6869,7 @@
     "maxPrice": 61,
     "salaryType": "Yearly",
     "jobLocation": "Stirling",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "lacus. Aliquam rutrum lorem ac risus. Morbi metus. Vivamus",
     "postingDate": "2024-01-20"
@@ -6883,7 +6883,7 @@
     "maxPrice": 21,
     "salaryType": "Yearly",
     "jobLocation": "Carbonear",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "egestas. Aliquam fringilla cursus purus. Nullam scelerisque neque sed sem",
     "postingDate": "2021-11-12"
@@ -6897,7 +6897,7 @@
     "maxPrice": 23,
     "salaryType": "Yearly",
     "jobLocation": "Cupar",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "justo faucibus lectus, a sollicitudin",
     "postingDate": "2020-04-24"
@@ -6911,7 +6911,7 @@
     "maxPrice": 52,
     "salaryType": "Yearly",
     "jobLocation": "Pau",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "Sed congue, elit sed consequat auctor,",
     "postingDate": "2020-05-08"
@@ -6925,7 +6925,7 @@
     "maxPrice": 90,
     "salaryType": "Yearly",
     "jobLocation": "San Mauro Cilento",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "hendrerit neque. In ornare sagittis felis. Donec tempor, est",
     "postingDate": "2022-10-11"
@@ -6939,7 +6939,7 @@
     "maxPrice": 72,
     "salaryType": "Yearly",
     "jobLocation": "Lauro de Freitas",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "lacus. Cras interdum.",
     "postingDate": "2021-06-19"
@@ -6953,7 +6953,7 @@
     "maxPrice": 46,
     "salaryType": "Yearly",
     "jobLocation": "Raychikhinsk",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "velit egestas lacinia. Sed congue, elit sed consequat auctor,",
     "postingDate": "2020-05-21"
@@ -6967,7 +6967,7 @@
     "maxPrice": 80,
     "salaryType": "Yearly",
     "jobLocation": "Solok",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "fringilla est. Mauris",
     "postingDate": "2021-12-08"
@@ -6981,7 +6981,7 @@
     "maxPrice": 59,
     "salaryType": "Yearly",
     "jobLocation": "Zwickau",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "Praesent eu nulla at sem molestie sodales.",
     "postingDate": "2023-04-03"
@@ -6995,7 +6995,7 @@
     "maxPrice": 43,
     "salaryType": "Yearly",
     "jobLocation": "Gravataí",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "interdum ligula eu enim.",
     "postingDate": "2022-04-16"
@@ -7009,7 +7009,7 @@
     "maxPrice": 84,
     "salaryType": "Yearly",
     "jobLocation": "Shaftesbury",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "lorem vitae odio sagittis semper. Nam tempor",
     "postingDate": "2021-12-16"
@@ -7023,7 +7023,7 @@
     "maxPrice": 74,
     "salaryType": "Yearly",
     "jobLocation": "Iksan",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "Aenean eget",
     "postingDate": "2022-08-13"
@@ -7037,7 +7037,7 @@
     "maxPrice": 39,
     "salaryType": "Yearly",
     "jobLocation": "Caloundra",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "purus ac tellus. Suspendisse sed dolor. Fusce mi lorem,",
     "postingDate": "2023-01-27"
@@ -7051,7 +7051,7 @@
     "maxPrice": 28,
     "salaryType": "Yearly",
     "jobLocation": "Jönköping",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "consectetuer adipiscing elit.",
     "postingDate": "2020-09-24"
@@ -7065,7 +7065,7 @@
     "maxPrice": 47,
     "salaryType": "Yearly",
     "jobLocation": "Palma de Mallorca",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "molestie dapibus ligula. Aliquam erat volutpat. Nulla dignissim. Maecenas ornare",
     "postingDate": "2023-02-20"
@@ -7079,7 +7079,7 @@
     "maxPrice": 55,
     "salaryType": "Yearly",
     "jobLocation": "Sevastopol",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "dis",
     "postingDate": "2022-11-05"
@@ -7093,7 +7093,7 @@
     "maxPrice": 85,
     "salaryType": "Yearly",
     "jobLocation": "Biała Podlaska",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "dolor. Fusce mi lorem, vehicula et, rutrum eu, ultrices",
     "postingDate": "2024-01-02"
@@ -7107,7 +7107,7 @@
     "maxPrice": 24,
     "salaryType": "Yearly",
     "jobLocation": "Hervey Bay",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "ante blandit viverra.",
     "postingDate": "2022-07-06"
@@ -7121,7 +7121,7 @@
     "maxPrice": 36,
     "salaryType": "Yearly",
     "jobLocation": "Lower Hutt",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "dolor. Fusce mi",
     "postingDate": "2021-09-16"
@@ -7135,7 +7135,7 @@
     "maxPrice": 78,
     "salaryType": "Yearly",
     "jobLocation": "Buguma",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "Aliquam ornare, libero at",
     "postingDate": "2021-05-19"
@@ -7149,7 +7149,7 @@
     "maxPrice": 21,
     "salaryType": "Yearly",
     "jobLocation": "Vinh",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "eros turpis non enim.",
     "postingDate": "2023-10-23"
@@ -7164,7 +7164,7 @@
     "maxPrice": 68,
     "salaryType": "Yearly",
     "jobLocation": "Carmen",
-    "experienceLevel": "Internship",
+    "experienceLevel": "Entry-level",
     "employmentType": "Full-time",
     "description": "ut erat. Sed nunc est, mollis non, cursus",
     "postingDate": "2022-01-19"

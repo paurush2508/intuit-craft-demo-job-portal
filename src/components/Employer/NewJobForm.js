@@ -6,6 +6,9 @@ import FormControl from "@mui/material/FormControl";
 import InputLabel from "@mui/material/InputLabel";
 import Select from "@mui/material/Select";
 import MenuItem from "@mui/material/MenuItem";
+import { FormGroup } from "@mui/material";
+import { FormControlLabel } from "@mui/material";
+import { Checkbox } from "@mui/material";
 
 const NewJobForm = ({ open, handleClose, jobs, updateAndStoreJobs, user }) => {
   const [companyName, setCompanyName] = useState("");
@@ -19,6 +22,7 @@ const NewJobForm = ({ open, handleClose, jobs, updateAndStoreJobs, user }) => {
   const [experienceLevel, setExperienceLevel] = useState("");
   const [employmentType, setEmploymentType] = useState("");
   const [description, setDescription] = useState("");
+  const [skillRequired, setSkillRequired] = useState([]);
 
   const resetData = () => {
     setCompanyName("");
@@ -32,6 +36,7 @@ const NewJobForm = ({ open, handleClose, jobs, updateAndStoreJobs, user }) => {
     setExperienceLevel("");
     setEmploymentType("");
     setDescription("");
+    setSkillRequired([]);
   };
 
   const validateFormFields = () => {
@@ -46,7 +51,8 @@ const NewJobForm = ({ open, handleClose, jobs, updateAndStoreJobs, user }) => {
       postingDate &&
       experienceLevel &&
       employmentType &&
-      description
+      description &&
+      skillRequired?.length > 0
     ) {
       return true;
     } else return false;
@@ -67,16 +73,27 @@ const NewJobForm = ({ open, handleClose, jobs, updateAndStoreJobs, user }) => {
         experienceLevel,
         employmentType,
         description,
+        skillRequired,
       };
       const newJob = {
         id: jobs.length + 1,
         postedBy: user?.email,
         isApplied: false,
+        skills: skillRequired,
         ...formData,
       };
       updateAndStoreJobs([...jobs, newJob]);
       handleClose();
       resetData();
+    }
+  };
+
+  const handleCheckboxChange = (event) => {
+    const value = event?.target?.value;
+    if (skillRequired?.includes(value)) {
+      setSkillRequired(skillRequired?.filter((skill) => skill !== value));
+    } else {
+      setSkillRequired([...skillRequired, value]);
     }
   };
 
@@ -148,7 +165,7 @@ const NewJobForm = ({ open, handleClose, jobs, updateAndStoreJobs, user }) => {
               </FormControl>
             </div>
             <div>
-              <InputLabel htmlFor="min-salary">Minimum Salary</InputLabel>
+              <InputLabel htmlFor="min-salary">Minimum Salary ( in Lakhs )</InputLabel>
               <TextField
                 id="min-salary"
                 type="number"
@@ -159,7 +176,7 @@ const NewJobForm = ({ open, handleClose, jobs, updateAndStoreJobs, user }) => {
               />
             </div>
             <div>
-              <InputLabel htmlFor="max-salary">Maximum Salary</InputLabel>
+              <InputLabel htmlFor="max-salary">Maximum Salary ( in Lakhs )</InputLabel>
               <TextField
                 id="max-salary"
                 type="number"
@@ -202,9 +219,10 @@ const NewJobForm = ({ open, handleClose, jobs, updateAndStoreJobs, user }) => {
                   value={experienceLevel}
                   onChange={(e) => setExperienceLevel(e.target.value)}
                 >
-                  <MenuItem value="Any Experience">Any Experience</MenuItem>
-                  <MenuItem value="Internship">Internship</MenuItem>
-                  <MenuItem value="Work Remotely">Work Remotely</MenuItem>
+                  <MenuItem value="Entry-level">Entry-level</MenuItem>
+                  <MenuItem value="Intermediate">Intermediate</MenuItem>
+                  <MenuItem value="Mid-level">Mid-level</MenuItem>
+                  <MenuItem value="Senior-level">Senior-level</MenuItem>
                 </Select>
               </FormControl>
             </div>
@@ -223,6 +241,73 @@ const NewJobForm = ({ open, handleClose, jobs, updateAndStoreJobs, user }) => {
               </FormControl>
             </div>
           </form>
+          <div style={{margin: '20px 0px 10px 0px'}}>
+            <InputLabel>Required Skillset: </InputLabel>
+            <FormControl fullWidth required>
+              <FormGroup style={{ display: "flex", flexDirection: "row" }}>
+                <FormControlLabel
+                  control={
+                    <Checkbox
+                      checked={skillRequired.includes("Javascript")}
+                      onChange={handleCheckboxChange}
+                      value="Javascript"
+                    />
+                  }
+                  label="Javascript"
+                />
+                <FormControlLabel
+                  control={
+                    <Checkbox
+                      checked={skillRequired.includes("React.js")}
+                      onChange={handleCheckboxChange}
+                      value="React.js"
+                    />
+                  }
+                  label="React.js"
+                />
+                <FormControlLabel
+                  control={
+                    <Checkbox
+                      checked={skillRequired.includes("Python")}
+                      onChange={handleCheckboxChange}
+                      value="Python"
+                    />
+                  }
+                  label="Python"
+                />
+                <FormControlLabel
+                  control={
+                    <Checkbox
+                      checked={skillRequired.includes("React Native")}
+                      onChange={handleCheckboxChange}
+                      value="React Native"
+                    />
+                  }
+                  label="React Native"
+                />
+                <FormControlLabel
+                  control={
+                    <Checkbox
+                      checked={skillRequired.includes("DevOps")}
+                      onChange={handleCheckboxChange}
+                      value="DevOps"
+                    />
+                  }
+                  label="DevOps"
+                />
+                <FormControlLabel
+                  control={
+                    <Checkbox
+                      checked={skillRequired.includes("HTML")}
+                      onChange={handleCheckboxChange}
+                      value="HTML"
+                    />
+                  }
+                  label="HTML"
+                />
+              </FormGroup>
+            </FormControl>
+          </div>
           <div>
             <InputLabel htmlFor="description">Description</InputLabel>
             <TextField
