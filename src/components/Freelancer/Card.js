@@ -30,6 +30,7 @@ const Card = ({ data, setJobs, jobs }) => {
       const updatedJob = { ...jobs[index], isApplied: true };
       const updatedJobs = [...jobs];
       updatedJobs[index] = updatedJob;
+      localStorage.setItem("jobsList", JSON.stringify(updatedJobs));
       setJobs(updatedJobs);
       setOpen(true);
     }
@@ -40,7 +41,7 @@ const Card = ({ data, setJobs, jobs }) => {
       <section className="card">
         <Link className="flex gap-4 flex-col sm:flex-row items-start">
           <img src={companyLogo} alt={jobTitle} className="w-16 h-16 mb-4" />
-          <div className="card-details" style={{width: '100%'}}>
+          <div className="card-details" style={{ width: "100%" }}>
             <h4 className="text-primary mb-1">{companyName} </h4>
             <h3 className="text-lg font-semibold mb-2">{jobTitle}</h3>
 
@@ -60,7 +61,13 @@ const Card = ({ data, setJobs, jobs }) => {
             </div>
 
             <p className="text-base text-primary/70 ">{description}</p>
-            <div style={{display: 'flex', alignItems: 'center', justifyContent: 'space-between'}}>
+            <div
+              style={{
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "space-between",
+              }}
+            >
               <div>
                 <p
                   style={{ marginTop: "10px" }}
