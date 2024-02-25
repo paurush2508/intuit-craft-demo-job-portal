@@ -4,8 +4,10 @@ import FullButton from "../Buttons/FullButton";
 import HeaderImage from "../../assets/img/header-img.jpeg";
 import QuotesIcon from "../../assets/svg/Quotes";
 import Dots from "../../assets/svg/Dots";
+import { useAuth0 } from "@auth0/auth0-react";
 
 export default function Header() {
+  const { loginWithRedirect } = useAuth0();
   return (
     <Wrapper id="Home" className="container flexSpaceCenter">
       <LeftSide className="flexCenter">
@@ -20,7 +22,7 @@ export default function Header() {
             100,000 jobs — from top companies to fast-growing startups.
           </HeaderP>
           <BtnWrapper>
-            <FullButton title="Get Started" />
+            <FullButton title="Get Started" action={() => loginWithRedirect()} />
           </BtnWrapper>
         </div>
       </LeftSide>

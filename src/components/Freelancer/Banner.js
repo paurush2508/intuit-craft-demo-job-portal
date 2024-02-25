@@ -1,16 +1,19 @@
 import React from "react";
 import { FiMapPin, FiSearch } from "react-icons/fi";
 
-const Banner = ({handleInputChange,query, locationQuery, handleInputLocationChange}) => {
-    
+const Banner = ({
+  handleInputChange,
+  query,
+  locationQuery,
+  handleInputLocationChange,
+}) => {
   return (
     <div className="max-w-screen-2xl container mx-auto xl:px-24 md:py-20 py-14 px-4">
       <h1 className="text-5xl font-bold text-primary mb-3">
-        Find your <span style={{color: '#7620ff'}}>new job</span> today
+        Find your <span style={{ color: "#7620ff" }}>new job</span> today
       </h1>
       <p className="text-lg text-black/70 mb-8">
-        Thousands of jobs in multiple sectors
-        are waiting for you. Get hired.
+        Thousands of jobs in multiple sectors are waiting for you. Get hired.
       </p>
 
       <form className="">
@@ -25,7 +28,10 @@ const Banner = ({handleInputChange,query, locationQuery, handleInputLocationChan
               onChange={handleInputChange}
               value={query}
             />
-            <FiSearch className="absolute mt-2.5 ml-2 text-gray-400" />
+            <FiSearch
+              className="absolute mt-2.5 ml-2 text-gray-400"
+              style={{ color: "#FF7F7F" }}
+            />
           </div>
 
           <div className="flex md:rounded-none rounded ring-1 ring-inset ring-gray-300 focus-within:ring-2 focus-within:ring-inset focus-within:ring-indigo-600 md:w-1/3">
@@ -38,7 +44,10 @@ const Banner = ({handleInputChange,query, locationQuery, handleInputLocationChan
               onChange={handleInputLocationChange}
               value={locationQuery}
             />
-            <FiMapPin className="absolute mt-2.5 ml-2 text-gray-400" />
+            <FiMapPin
+              className="absolute mt-2.5 ml-2 text-gray-400"
+              style={{ color: "#FF7F7F" }}
+            />
           </div>
 
           <button

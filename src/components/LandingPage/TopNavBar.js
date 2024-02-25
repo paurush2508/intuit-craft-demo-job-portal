@@ -257,7 +257,5 @@ const UlWrapper = styled.ul`
   }
 `;
 const UlWrapperRight = styled.ul`
-  @media (max-width: 760px) {
-    display: none;
-  }
+ 
 `;

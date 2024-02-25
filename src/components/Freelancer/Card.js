@@ -38,7 +38,7 @@ const Card = ({ data, setJobs, jobs }) => {
   return (
     <div>
       <section className="card">
-        <div style={{ display: "flex" , gap: '20px'}}>
+        <div style={{ display: "flex", gap: "20px" }}>
           <div>
             <img src={companyLogo} alt={jobTitle} className="w-16 h-16 mb-4" />
           </div>
@@ -78,22 +78,23 @@ const Card = ({ data, setJobs, jobs }) => {
                     Required Skillset: {skills?.join(" • ")}
                   </p>
                 </div>
-
-                {user?.nickname !== "employer" && (
-                  <div style={{ marginLeft: "100px" }}>
-                    <Button
-                      variant="contained"
-                      color="primary"
-                      onClick={handleEasyApply}
-                      disabled={isApplied}
-                      style={{ width: "121px" }}
-                    >
-                      {!isApplied ? "Easy Apply" : "Applied"}
-                    </Button>
-                  </div>
-                )}
               </div>
             </div>
+          </div>
+          <div>
+            {user?.nickname !== "employer" && (
+              <div style={{ marginLeft: "100px" }}>
+                <Button
+                  variant="contained"
+                  color="primary"
+                  onClick={handleEasyApply}
+                  disabled={isApplied}
+                  style={{ width: "121px" }}
+                >
+                  {!isApplied ? "Easy Apply" : "Applied"}
+                </Button>
+              </div>
+            )}
           </div>
         </div>
         <Snackbar
