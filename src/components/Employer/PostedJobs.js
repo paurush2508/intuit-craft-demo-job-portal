@@ -1,43 +1,43 @@
-import React, { useState } from "react";
+import React from "react";
 import TopNavBar from "../LandingPage/TopNavBar";
 import { EMPLOYER_NAVIGATION_OPTIONS } from "../../constants/index";
 import JobListing from "../Freelancer/JobListing";
+import { fetchJobs, setJobList } from "../../reducers/dashboardReducer";
+import { connect } from "react-redux";
 
-function PostedJobs({ jobs, setJobs }) {
+function PostedJobs(props) {
+  const { jobsList, isLoading, setJobList } = props;
   const updateAndStoreJobs = (newJobs) => {
-    setJobs(newJobs);
-    localStorage.setItem("jobs", JSON.stringify(newJobs));
+    setJobList(newJobs);
   };
 
-  const [isLoading, setIsLoading] = useState(true);
-
   React.useEffect(() => {
-    const storedJobs = localStorage.getItem("jobs");
-    if (storedJobs) {
-      setJobs(JSON.parse(storedJobs));
-      setIsLoading(false);
-    } else
-      fetch("/jobs.json")
-        .then((res) => res.json())
-        .then((data) => {
-          setJobs(data);
-          setIsLoading(false);
-        });
-  }, [setJobs]);
+    props.fetchJobs();
+  }, []);
 
   return (
     <>
       <div>
         <TopNavBar
           navOptions={EMPLOYER_NAVIGATION_OPTIONS}
-          jobs={jobs}
-          setJobs={setJobs}
+          jobs={jobsList}
           updateAndStoreJobs={updateAndStoreJobs}
         />
-        <JobListing jobs={jobs} isLoading={isLoading} />
+        <JobListing
+          jobs={jobsList}
+          isLoading={isLoading}
+          setJobs={setJobList}
+        />
       </div>
     </>
   );
 }
 
-export default PostedJobs;
+const mapStateToProps = (state) => ({
+  jobsList: state.dashboardReducer.jobsList,
+  isLoading: state.dashboardReducer.isLoading,
+});
+export default connect(mapStateToProps, {
+  fetchJobs,
+  setJobList,
+})(PostedJobs);

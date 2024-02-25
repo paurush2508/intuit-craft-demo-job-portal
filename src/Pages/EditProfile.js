@@ -62,7 +62,6 @@ const EditProfile = ({ open, handleClose, user, setUserProfile }) => {
       setGithubProfile(githubProfile);
       setBio(bio);
       setUserProfile(formData);
-      localStorage.setItem("userProfileLS", JSON.stringify(formData));
       handleClose();
     }
   };

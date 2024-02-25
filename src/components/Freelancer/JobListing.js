@@ -56,7 +56,7 @@ function JobListing({ jobs, isLoading, setJobs }) {
       setCurrentPage(currentPage - 1);
     }
   };
-
+  let filteredJobsCount = 0;
   const filteredData = (jobs, selected, query, locationQuery) => {
     let filteredJobs = jobs;
 
@@ -72,38 +72,41 @@ function JobListing({ jobs, isLoading, setJobs }) {
           jobLocation,
           salaryType,
           experienceLevel,
-          maxPrice,
+          minPrice,
           postingDate,
           employmentType,
+          skills,
         }) => {
           const postingDateCondition =
-            new Date(postingDate) >= new Date(selected);
+          selected?.includes("-") && new Date(postingDate) >= new Date(selected);
           const jobLocationCondition =
             jobLocation.toLowerCase() === selected.toLowerCase();
-          const maxPriceCondition =
+          const minPriceCondition =
             !selected?.includes("-") &&
-            parseInt(maxPrice) <= parseInt(selected);
+            parseInt(minPrice) >= parseInt(selected);
           const salaryTypeCondition =
             salaryType.toLowerCase() === selected.toLowerCase();
           const experienceLevelCondition =
             experienceLevel.toLowerCase() === selected.toLowerCase();
           const employmentTypeCondition =
             employmentType.toLowerCase() === selected.toLowerCase();
+          const skillsetCondition = skills?.includes(selected);
 
           return (
             postingDateCondition ||
             jobLocationCondition ||
-            maxPriceCondition ||
+            minPriceCondition ||
             salaryTypeCondition ||
             experienceLevelCondition ||
-            employmentTypeCondition
+            employmentTypeCondition ||
+            skillsetCondition
           );
         }
       );
     }
-
+    filteredJobsCount = filteredJobs?.length;
     const { startIndex, endIndex } = calculatePageRange();
-    filteredJobs = filteredJobs
+    filteredJobs = [...filteredJobs]
       ?.sort((a, b) => b.id - a.id)
       .slice(startIndex, endIndex);
 
@@ -134,7 +137,14 @@ function JobListing({ jobs, isLoading, setJobs }) {
           {isLoading ? (
             <p className="font-medium">Loading...</p>
           ) : result?.length > 0 ? (
-            <Jobs result={result} jobs={jobs} />
+            <Jobs
+              result={result}
+              jobs={jobs}
+              filteredData={filteredJobsCount}
+              selectedCategory={selectedCategory}
+              query={query}
+              locationQuery={locationQuery}
+            />
           ) : (
             <>
               <h3 className="text-lg font-bold mb-2">{result.length} Jobs</h3>

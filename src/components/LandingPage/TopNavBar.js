@@ -68,7 +68,6 @@ export default function TopNavbar(props) {
             open={isPostJobModalOpen}
             handleClose={() => setIsPostJobModalOpen(false)}
             jobs={props?.jobs}
-            setJobs={props?.setJobs}
             updateAndStoreJobs={props?.updateAndStoreJobs}
             user={user}
           />
@@ -85,8 +84,8 @@ export default function TopNavbar(props) {
             </h1>
           </Link>
           <UlWrapper className="flexNullCenter">
-            {props?.navOptions?.map((item) => (
-              <li className="semiBold font15 pointer">
+            {props?.navOptions?.map((item, index) => (
+              <li key={index} className="semiBold font15 pointer">
                 <div>
                   {item === "Posted Jobs" ? (
                     <a
@@ -211,7 +210,6 @@ export default function TopNavbar(props) {
                 onClick={() => {
                   if (isAuthenticated) {
                     logout();
-                    localStorage.removeItem("jobs");
                   } else {
                     loginWithRedirect();
                   }

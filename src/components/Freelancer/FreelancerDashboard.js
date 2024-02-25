@@ -1,42 +1,39 @@
-import React, { useState } from "react";
+import React from "react";
 import TopNavBar from "../LandingPage/TopNavBar";
 import { FREELANCER_NAVIGATION_OPTIONS } from "../../constants/index";
 import JobListing from "../Freelancer/JobListing";
+import { connect } from "react-redux";
+import { fetchJobs, setJobList } from "../../reducers/dashboardReducer";
 
-function FreelancerDashboard({ jobs, setJobs, setUserProfile }) {
-  const [isLoading, setIsLoading] = useState(true);
+function FreelancerDashboard(props) {
+  const { jobsList, isLoading, setUserProfile, setJobList } = props;
   React.useEffect(() => {
-    const storedJobs = localStorage.getItem("jobs");
-    if (storedJobs) {
-      setJobs(JSON.parse(storedJobs));
-      setIsLoading(false);
-    } else
-      fetch("/jobs.json")
-        .then((res) => res.json())
-        .then((data) => {
-          setJobs(data);
-          setIsLoading(false);
-        });
-  }, [setJobs]);
+    props.fetchJobs();
+  }, []);
 
   return (
     <>
       <div>
         <TopNavBar
           navOptions={FREELANCER_NAVIGATION_OPTIONS}
-          jobs={jobs}
-          setJobs={setJobs}
+          jobs={jobsList}
           setUserProfile={setUserProfile}
         />
         <JobListing
-          jobs={jobs}
-          setJobs={setJobs}
+          jobs={jobsList}
           isLoading={isLoading}
-          setIsLoading={setIsLoading}
+          setJobs={setJobList}
         />
       </div>
     </>
   );
 }
 
-export default FreelancerDashboard;
+const mapStateToProps = (state) => ({
+  jobsList: state.dashboardReducer.jobsList,
+  isLoading: state.dashboardReducer.isLoading,
+});
+export default connect(mapStateToProps, {
+  fetchJobs,
+  setJobList,
+})(FreelancerDashboard);

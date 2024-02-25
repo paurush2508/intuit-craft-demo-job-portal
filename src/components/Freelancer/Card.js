@@ -18,6 +18,7 @@ const Card = ({ data, setJobs, jobs }) => {
     postingDate,
     description,
     isApplied,
+    skills,
   } = data;
 
   const [open, setOpen] = React.useState(false);
@@ -29,8 +30,8 @@ const Card = ({ data, setJobs, jobs }) => {
       const updatedJob = { ...jobs[index], isApplied: true };
       const updatedJobs = [...jobs];
       updatedJobs[index] = updatedJob;
+      localStorage.setItem("jobsList", JSON.stringify(updatedJobs));
       setJobs(updatedJobs);
-      localStorage.setItem("jobs", JSON.stringify(updatedJobs));
       setOpen(true);
     }
   };
@@ -40,16 +41,16 @@ const Card = ({ data, setJobs, jobs }) => {
       <section className="card">
         <Link className="flex gap-4 flex-col sm:flex-row items-start">
           <img src={companyLogo} alt={jobTitle} className="w-16 h-16 mb-4" />
-          <div className="card-details">
+          <div className="card-details" style={{ width: "100%" }}>
             <h4 className="text-primary mb-1">{companyName} </h4>
             <h3 className="text-lg font-semibold mb-2">{jobTitle}</h3>
 
             <div className="text-primary/70 text-base flex flex-wrap gap-2 mb-2">
               <span className="flex items-center gap-2">
-                <FiMapPin /> {jobLocation}
+                <FiMapPin style={{ color: "#FF7F7F" }} /> {jobLocation}
               </span>
               <span className="flex items-center gap-2">
-                <FiClock /> {employmentType}
+                <FiClock style={{ color: "black" }} /> {employmentType}
               </span>
               <span className="flex items-center gap-2">
                 ₹ {minPrice}-{maxPrice} Lakhs
@@ -60,27 +61,45 @@ const Card = ({ data, setJobs, jobs }) => {
             </div>
 
             <p className="text-base text-primary/70 ">{description}</p>
+            <div
+              style={{
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "space-between",
+              }}
+            >
+              <div>
+                <p
+                  style={{ marginTop: "10px" }}
+                  className="text-base text-primary/80"
+                >
+                  Required Skillset: {skills?.join(" • ")}
+                </p>
+              </div>
+
+              {user?.nickname !== "employer" && (
+                <div style={{ marginLeft: "100px" }}>
+                  <Button
+                    variant="contained"
+                    color="primary"
+                    onClick={handleEasyApply}
+                    disabled={isApplied}
+                    style={{ width: "121px" }}
+                  >
+                    {!isApplied ? "Easy Apply" : "Applied"}
+                  </Button>
+                </div>
+              )}
+            </div>
           </div>
         </Link>
-        {user?.nickname !== "employer" && (
-          <div style={{ display: "flex", justifyContent: "flex-end" }}>
-            <Button
-              variant="contained"
-              color="primary"
-              onClick={handleEasyApply}
-              disabled={isApplied}
-            >
-              {!isApplied ? "Easy Apply" : "Applied"}
-            </Button>
-            <Snackbar
-              anchorOrigin={{ vertical: "top", horizontal: "right" }}
-              open={open}
-              autoHideDuration={3000}
-              onClose={() => setOpen(false)}
-              message="Job applied successfully"
-            />
-          </div>
-        )}
+        <Snackbar
+          anchorOrigin={{ vertical: "top", horizontal: "right" }}
+          open={open}
+          autoHideDuration={3000}
+          onClose={() => setOpen(false)}
+          message="Job applied successfully"
+        />
       </section>
     </div>
   );

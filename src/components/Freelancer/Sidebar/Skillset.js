@@ -1,37 +1,37 @@
 import React from "react";
 import InputField from "./InputField";
 
-const WorkExperience = ({ handleChange }) => {
+const Skillset = ({ handleChange }) => {
   return (
     <div>
-      <h4 className="text-lg font-medium mb-2">Work experience</h4>
+      <h4 className="text-lg font-medium mb-2">Relevant Skills</h4>
       <div>
         <label className="sidebar-label-container">
           <input onChange={handleChange} type="radio" value="" name="test" />
-          <span className="checkmark"></span>Any experience
+          <span className="checkmark"></span>All
         </label>
         <InputField
           handleChange={handleChange}
-          value="Entry-level"
-          title="Entry-level"
+          value="React.js"
+          title="React.js"
           name="test"
         />
         <InputField
           handleChange={handleChange}
-          value="Intermediate"
-          title="Intermediate"
+          value="Python"
+          title="Python"
           name="test"
         />
         <InputField
           handleChange={handleChange}
-          value="Mid-level"
-          title="Mid-level"
+          value="DevOps"
+          title="DevOps"
           name="test"
         />
         <InputField
           handleChange={handleChange}
-          value="Senior-level"
-          title="Senior-level"
+          value="Javascript"
+          title="Javascript"
           name="test"
         />
       </div>
@@ -39,4 +39,4 @@ const WorkExperience = ({ handleChange }) => {
   );
 };
 
-export default WorkExperience;
+export default Skillset;
