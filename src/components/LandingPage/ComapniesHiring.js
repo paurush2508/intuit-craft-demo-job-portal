@@ -20,9 +20,9 @@ export default function CompaniesHiring() {
               teams.
             </p>
           </HeaderInfo>
-          <div className="row textCenter" style={{marginBottom: '140px'}}>
-            {companies?.map((item) => (
-              <div className="col-xs-12 col-xs-4 col-xs-4 col-md-4">
+          <div className="row textCenter" style={{ marginBottom: "140px" }}>
+            {companies?.map((item, index) => (
+              <div key={index} className="col-xs-12 col-xs-4 col-xs-4 col-md-4">
                 <ProjectBox
                   img={item.img}
                   title={item.title}

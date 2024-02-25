@@ -19,8 +19,8 @@ export default function Projects({ repos }) {
             className="row textCenter"
             style={{ display: "flex", justifyContent: "center" }}
           >
-            {repos?.map((item) => (
-              <div className="col-xs-12 col-xs-4 col-xs-4 col-md-2">
+            {repos?.map((item, index) => (
+              <div key={index} className="col-xs-12 col-xs-4 col-xs-4 col-md-2">
                 <ProjectBox
                   img={
                     "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"
