@@ -8,7 +8,6 @@ import FreelancerDashboard from "./components/Freelancer/FreelancerDashboard";
 import "./App.css";
 
 function App() {
-  const [jobs, setJobs] = React.useState([]);
   const [userProfile, setUserProfile] = React.useState({});
   return (
     <Router>
@@ -23,15 +22,13 @@ function App() {
           path="/freelancer/jobs"
           element={
             <FreelancerDashboard
-              jobs={jobs}
-              setJobs={setJobs}
               setUserProfile={setUserProfile}
             />
           }
         />
         <Route
           path="/employer/posted-jobs"
-          element={<PostedJobs jobs={jobs} setJobs={setJobs} />}
+          element={<PostedJobs />}
         />
       </Routes>
     </Router>

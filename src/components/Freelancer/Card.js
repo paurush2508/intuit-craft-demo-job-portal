@@ -31,7 +31,6 @@ const Card = ({ data, setJobs, jobs }) => {
       const updatedJobs = [...jobs];
       updatedJobs[index] = updatedJob;
       setJobs(updatedJobs);
-      localStorage.setItem("jobs", JSON.stringify(updatedJobs));
       setOpen(true);
     }
   };

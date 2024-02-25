@@ -82,6 +82,7 @@ const NewJobForm = ({ open, handleClose, jobs, updateAndStoreJobs, user }) => {
         skills: skillRequired,
         ...formData,
       };
+      localStorage.setItem("jobsList", JSON.stringify([...jobs, newJob]));
       updateAndStoreJobs([...jobs, newJob]);
       handleClose();
       resetData();

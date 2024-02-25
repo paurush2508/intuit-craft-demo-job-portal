@@ -56,13 +56,10 @@ const ContactInfo = styled.div`
 
 const UserProfile = ({ userProfile }) => {
   const [repos, setRepos] = React.useState([]);
-  const userProfileLS = JSON.parse(localStorage.getItem("userProfileLS"));
 
   React.useEffect(() => {
-    if (userProfile || userProfileLS) {
-      const username =
-        userProfile?.githubProfile?.split("/").pop() ||
-        userProfileLS?.githubProfile?.split("/").pop();
+    if (userProfile) {
+      const username = userProfile?.githubProfile?.split("/").pop();
 
       fetch(`https://api.github.com/users/${username}/repos`)
         .then((response) => {
@@ -80,7 +77,7 @@ const UserProfile = ({ userProfile }) => {
           console.error("Error fetching repositories:", error);
         });
     }
-  }, [userProfile, userProfileLS]);
+  }, [userProfile]);
 
   return (
     <ProfileContainer>
@@ -102,41 +99,28 @@ const UserProfile = ({ userProfile }) => {
           alignItems: "center",
         }}
       >
-        <Name>
-          {userProfile?.name ||
-            userProfile?.nickname ||
-            userProfileLS?.name ||
-            userProfileLS?.nickname}
-        </Name>
-        <h1 style={{ fontWeight: "bolder" }}>
-          {userProfile?.primaryRole || userProfileLS?.primaryRole}
-        </h1>
-        <h1 style={{ fontWeight: "bolder" }}>
-          {userProfile?.email || userProfileLS?.email}
-        </h1>
-        <br/>
+        <Name>{userProfile?.name || userProfile?.nickname}</Name>
+        <h1 style={{ fontWeight: "bolder" }}>{userProfile?.primaryRole}</h1>
+        <h1 style={{ fontWeight: "bolder" }}>{userProfile?.email}</h1>
+        <br />
         <h1 style={{ fontWeight: "bolder" }}>About Me</h1>
-        <Bio>{userProfile?.bio || userProfileLS?.bio}</Bio>
+        <Bio>{userProfile?.bio}</Bio>
         <ContactInfo>
           <p>
-            <strong>Contact:</strong>{" "}
-            {userProfile?.contactNum || userProfileLS?.contactNum}
+            <strong>Contact:</strong> {userProfile?.contactNum}
           </p>
           <p>
-            <strong>Location:</strong>{" "}
-            {userProfile?.location || userProfileLS?.location}
+            <strong>Location:</strong> {userProfile?.location}
           </p>
         </ContactInfo>
         <ContactInfo>
           <p>
-            <strong>LinkedIn Profile:</strong>{" "}
-            {userProfile?.linkedinProfile || userProfileLS?.linkedinProfile}
+            <strong>LinkedIn Profile:</strong> {userProfile?.linkedinProfile}
           </p>
         </ContactInfo>
         <ContactInfo>
           <p>
-            <strong>Github Profile:</strong>{" "}
-            {userProfile?.githubProfile || userProfileLS?.githubProfile}
+            <strong>Github Profile:</strong> {userProfile?.githubProfile}
           </p>
         </ContactInfo>
       </div>

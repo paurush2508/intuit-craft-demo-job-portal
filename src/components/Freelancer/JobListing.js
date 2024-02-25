@@ -72,18 +72,18 @@ function JobListing({ jobs, isLoading, setJobs }) {
           jobLocation,
           salaryType,
           experienceLevel,
-          maxPrice,
+          minPrice,
           postingDate,
           employmentType,
           skills,
         }) => {
           const postingDateCondition =
-            new Date(postingDate) >= new Date(selected);
+          selected?.includes("-") && new Date(postingDate) >= new Date(selected);
           const jobLocationCondition =
             jobLocation.toLowerCase() === selected.toLowerCase();
-          const maxPriceCondition =
+          const minPriceCondition =
             !selected?.includes("-") &&
-            parseInt(maxPrice) <= parseInt(selected);
+            parseInt(minPrice) >= parseInt(selected);
           const salaryTypeCondition =
             salaryType.toLowerCase() === selected.toLowerCase();
           const experienceLevelCondition =
@@ -95,7 +95,7 @@ function JobListing({ jobs, isLoading, setJobs }) {
           return (
             postingDateCondition ||
             jobLocationCondition ||
-            maxPriceCondition ||
+            minPriceCondition ||
             salaryTypeCondition ||
             experienceLevelCondition ||
             employmentTypeCondition ||
@@ -106,7 +106,7 @@ function JobListing({ jobs, isLoading, setJobs }) {
     }
     filteredJobsCount = filteredJobs?.length;
     const { startIndex, endIndex } = calculatePageRange();
-    filteredJobs = filteredJobs
+    filteredJobs = [...filteredJobs]
       ?.sort((a, b) => b.id - a.id)
       .slice(startIndex, endIndex);
 
