@@ -20,7 +20,7 @@ export default function CompaniesHiring() {
               teams.
             </p>
           </HeaderInfo>
-          <div className="row textCenter">
+          <div className="row textCenter" style={{marginBottom: '140px'}}>
             {companies?.map((item) => (
               <div className="col-xs-12 col-xs-4 col-xs-4 col-md-4">
                 <ProjectBox
@@ -31,10 +31,6 @@ export default function CompaniesHiring() {
                 />
               </div>
             ))}
-          </div>
-
-          <div className="row flexCenter">
-            <div style={{ margin: "50px 0", width: "200px" }}></div>
           </div>
         </div>
       </div>

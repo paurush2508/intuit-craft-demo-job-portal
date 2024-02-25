@@ -4,7 +4,7 @@ import ProjectBox from "../Elements/ProjectBox";
 
 export default function Projects({ repos }) {
   return (
-    <Wrapper id="Trending Companies">
+    <Wrapper id="projects">
       <div className="whiteBg">
         <div className="container">
           <HeaderInfo>
