@@ -13,6 +13,7 @@ function PostedJobs(props) {
 
   React.useEffect(() => {
     props.fetchJobs();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (

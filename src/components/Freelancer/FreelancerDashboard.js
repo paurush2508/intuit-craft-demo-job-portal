@@ -9,6 +9,7 @@ function FreelancerDashboard(props) {
   const { jobsList, isLoading, setUserProfile, setJobList } = props;
   React.useEffect(() => {
     props.fetchJobs();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (

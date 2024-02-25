@@ -50,6 +50,7 @@ const Banner = ({handleInputChange,query, locationQuery, handleInputLocationChan
               borderRadius: "15px",
               fontWeight: "bold",
             }}
+            onClick={() => {}}
           >
             Search
           </button>

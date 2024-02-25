@@ -88,6 +88,7 @@ export default function TopNavbar(props) {
               <li key={index} className="semiBold font15 pointer">
                 <div>
                   {item === "Posted Jobs" ? (
+                     // eslint-disable-next-line jsx-a11y/anchor-is-valid
                     <a
                       style={{ padding: "10px 15px" }}
                       href="#"
@@ -99,6 +100,7 @@ export default function TopNavbar(props) {
                       {item}
                     </a>
                   ) : item === "Profile" ? (
+                     // eslint-disable-next-line jsx-a11y/anchor-is-valid
                     <a
                       style={{ padding: "10px 15px" }}
                       href="#"
@@ -158,7 +160,13 @@ export default function TopNavbar(props) {
                       user={user}
                       setUserProfile={props?.setUserProfile}
                     />
-                    <Button aria-describedby={id} onClick={(event) => user?.nickname !== "employer" && handleAvatarClick(event)}>
+                    <Button
+                      aria-describedby={id}
+                      onClick={(event) =>
+                        user?.nickname !== "employer" &&
+                        handleAvatarClick(event)
+                      }
+                    >
                       <Avatar alt={user?.name} src={user?.picture} />
                     </Button>
                     <Popover
