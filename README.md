@@ -1,3 +1,6 @@
+Powerpoint Presentation: https://www.canva.com/design/DAF96UcimJ4/Mss7GQa4DbkPCSOSfnIXbQ/view?utm_content=DAF96UcimJ4&utm_campaign=designshare&utm_medium=link&utm_source=editor
+Website view of Presentation: https://hejekekee.my.canva.site/intuit-job-portal-presentation
+
 # Problem Statement: 
 
 You are building a job portal where people can view/ post
