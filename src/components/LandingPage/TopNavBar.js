@@ -83,12 +83,37 @@ export default function TopNavbar(props) {
               Intuit Job Portal
             </h1>
           </Link>
+          {isAuthenticated ? (
+            user?.nickname === "employer" ? (
+              <h1
+                style={{
+                  fontWeight: "bold",
+                  fontSize: 20,
+                  fontFamily: "Marker Felt, fantasy",
+                  color: 'teal',
+                }}
+              >
+                Employer <span style={{color: 'black'}}>Dashboard</span>
+              </h1>
+            ) : (
+              <h1
+                style={{
+                  fontWeight: "bold",
+                  fontSize: 20,
+                  fontFamily: "Marker Felt, fantasy",
+                  color: "teal",
+                }}
+              >
+                Freelancer <span style={{color: 'black'}}>Dashboard</span>
+              </h1>
+            )
+          ) : null}
           <UlWrapper className="flexNullCenter">
             {props?.navOptions?.map((item, index) => (
               <li key={index} className="semiBold font15 pointer">
                 <div>
                   {item === "Posted Jobs" ? (
-                     // eslint-disable-next-line jsx-a11y/anchor-is-valid
+                    // eslint-disable-next-line jsx-a11y/anchor-is-valid
                     <a
                       style={{ padding: "10px 15px" }}
                       href="#"
@@ -100,7 +125,7 @@ export default function TopNavbar(props) {
                       {item}
                     </a>
                   ) : item === "Profile" ? (
-                     // eslint-disable-next-line jsx-a11y/anchor-is-valid
+                    // eslint-disable-next-line jsx-a11y/anchor-is-valid
                     <a
                       style={{ padding: "10px 15px" }}
                       href="#"
